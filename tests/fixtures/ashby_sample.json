@@ -1,0 +1,92 @@
+{
+ "jobs": [
+  {
+   "id": "e5d74eb9-9487-427b-9df7-a9b6c453485d",
+   "title": "Staff Fullstack Engineer",
+   "department": "Platform Engineering & Infrastructure",
+   "team": "Platform Engineering & Infrastructure",
+   "employmentType": "FullTime",
+   "location": "United States - Remote",
+   "shouldDisplayCompensationOnJobPostings": false,
+   "secondaryLocations": [],
+   "publishedAt": "2026-07-13T14:51:10.607+00:00",
+   "isListed": true,
+   "isRemote": true,
+   "workplaceType": "Remote",
+   "address": {
+    "postalAddress": {
+     "addressCountry": "United States"
+    }
+   },
+   "jobUrl": "https://jobs.ashbyhq.com/surge-ai/e5d74eb9-9487-427b-9df7-a9b6c453485d",
+   "applyUrl": "https://jobs.ashbyhq.com/surge-ai/e5d74eb9-9487-427b-9df7-a9b6c453485d/application",
+   "descriptionHtml": "<h2>About Us</h2><p style=\"min-height:1.5em\">Our mission is to raise AGI with the richness of human intelligence \u2014 curious, witty, imaginative, and full of unexpected brilliance.</p><p style=\"min-height:1.5em\">Surge was founded by engineers and researchers who dreamed of building the next generation AI. We're building a platform that powers the most powerful models in the world in partnership with companies like Anthropic, Google, Microsoft, and Meta.</p><p style=\"min-height:1.5em\">At Surge, we believe the path to AGI isn't just about scaling compute\u2014it's about embracing the unlimited ceiling of human intelligence and creativity in the data that shapes these systems. Our platform combines elite human expertise with cutting-edge tools for scalable oversight, from building rich RL environmen",
+   "descriptionPlain": "ABOUT US\n\nOur mission is to raise AGI with the richness of human intelligence \u2014 curious, witty, imaginative, and full of unexpected brilliance.\n\nSurge was founded by engineers and researchers who dreamed of building the next generation AI. We're building a platform that powers the most powerful models in the world in partnership with companies like Anthropic, Google, Microsoft, and Meta.\n\nAt Surge, we believe the path to AGI isn't just about scaling compute\u2014it's about embracing the unlimited ceiling of human intelligence and creativity in the data that shapes these systems. Our platform combines elite human expertise with cutting-edge tools for scalable oversight, from building rich RL environments to conducting rigorous evaluations that go beyond benchmarks. We've run a profitable busines",
+   "compensation": {
+    "compensationTierSummary": null,
+    "scrapeableCompensationSalarySummary": null,
+    "compensationTiers": [],
+    "summaryComponents": []
+   }
+  },
+  {
+   "id": "73379e04-98c8-4fc7-8dbf-e3c52832a653",
+   "title": "Staff Product Engineer",
+   "department": "Platform Engineering & Infrastructure",
+   "team": "Platform Engineering & Infrastructure",
+   "employmentType": "FullTime",
+   "location": "United States - Remote",
+   "shouldDisplayCompensationOnJobPostings": false,
+   "secondaryLocations": [],
+   "publishedAt": "2026-07-13T14:51:08.354+00:00",
+   "isListed": true,
+   "isRemote": true,
+   "workplaceType": "Remote",
+   "address": {
+    "postalAddress": {
+     "addressCountry": "United States"
+    }
+   },
+   "jobUrl": "https://jobs.ashbyhq.com/surge-ai/73379e04-98c8-4fc7-8dbf-e3c52832a653",
+   "applyUrl": "https://jobs.ashbyhq.com/surge-ai/73379e04-98c8-4fc7-8dbf-e3c52832a653/application",
+   "descriptionHtml": "<h2>About Us</h2><p style=\"min-height:1.5em\">Our mission is to raise AGI with the richness of human intelligence \u2014 curious, witty, imaginative, and full of unexpected brilliance.</p><p style=\"min-height:1.5em\">Surge was founded by engineers and researchers who dreamed of building the next generation AI. We're building a platform that powers the most powerful models in the world in partnership with companies like Anthropic, Google, Microsoft, and Meta.</p><p style=\"min-height:1.5em\">At Surge, we believe the path to AGI isn't just about scaling compute\u2014it's about embracing the unlimited ceiling of human intelligence and creativity in the data that shapes these systems. Our platform combines elite human expertise with cutting-edge tools for scalable oversight, from building rich RL environmen",
+   "descriptionPlain": "ABOUT US\n\nOur mission is to raise AGI with the richness of human intelligence \u2014 curious, witty, imaginative, and full of unexpected brilliance.\n\nSurge was founded by engineers and researchers who dreamed of building the next generation AI. We're building a platform that powers the most powerful models in the world in partnership with companies like Anthropic, Google, Microsoft, and Meta.\n\nAt Surge, we believe the path to AGI isn't just about scaling compute\u2014it's about embracing the unlimited ceiling of human intelligence and creativity in the data that shapes these systems. Our platform combines elite human expertise with cutting-edge tools for scalable oversight, from building rich RL environments to conducting rigorous evaluations that go beyond benchmarks. We've run a profitable busines",
+   "compensation": {
+    "compensationTierSummary": null,
+    "scrapeableCompensationSalarySummary": null,
+    "compensationTiers": [],
+    "summaryComponents": []
+   }
+  },
+  {
+   "id": "f224aeb3-871b-42de-8261-1004fb9a47e4",
+   "title": "Senior Growth Lead",
+   "department": "Marketing",
+   "team": "Marketing",
+   "employmentType": "FullTime",
+   "location": "United States - Remote",
+   "shouldDisplayCompensationOnJobPostings": false,
+   "secondaryLocations": [],
+   "publishedAt": "2026-07-13T16:28:38.150+00:00",
+   "isListed": true,
+   "isRemote": true,
+   "workplaceType": "Remote",
+   "address": {
+    "postalAddress": {
+     "addressCountry": "United States"
+    }
+   },
+   "jobUrl": "https://jobs.ashbyhq.com/surge-ai/f224aeb3-871b-42de-8261-1004fb9a47e4",
+   "applyUrl": "https://jobs.ashbyhq.com/surge-ai/f224aeb3-871b-42de-8261-1004fb9a47e4/application",
+   "descriptionHtml": "<h2><strong>About Us</strong></h2><p style=\"min-height:1.5em\">Our mission is to raise AGI with the richness of human intelligence \u2014 curious, witty, imaginative, and full of unexpected brilliance.</p><p style=\"min-height:1.5em\">Surge was founded by engineers and researchers who dreamed of building the next generation AI. We\u2019re building a platform that powers the world's most powerful models in partnership with companies like OpenAI, Anthropic, Meta, and Google.</p><p style=\"min-height:1.5em\">At Surge, we believe the path to AGI isn\u2019t just about scaling compute\u2014it\u2019s about embracing the unlimited ceiling of human intelligence and creativity in the data that shapes these systems. Our platform combines elite human expertise with cutting-edge tools for scalable oversight, from building rich RL e",
+   "descriptionPlain": "ABOUT US\n\nOur mission is to raise AGI with the richness of human intelligence \u2014 curious, witty, imaginative, and full of unexpected brilliance.\n\nSurge was founded by engineers and researchers who dreamed of building the next generation AI. We\u2019re building a platform that powers the world's most powerful models in partnership with companies like OpenAI, Anthropic, Meta, and Google.\n\nAt Surge, we believe the path to AGI isn\u2019t just about scaling compute\u2014it\u2019s about embracing the unlimited ceiling of human intelligence and creativity in the data that shapes these systems. Our platform combines elite human expertise with cutting-edge tools for scalable oversight, from building rich RL environments to conducting rigorous evaluations that go beyond benchmarks. We\u2019ve run a profitable business from d",
+   "compensation": {
+    "compensationTierSummary": null,
+    "scrapeableCompensationSalarySummary": null,
+    "compensationTiers": [],
+    "summaryComponents": []
+   }
+  }
+ ],
+ "apiVersion": "1"
+}

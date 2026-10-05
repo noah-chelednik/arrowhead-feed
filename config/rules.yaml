@@ -1,0 +1,217 @@
+# Matching rules for arrowhead-feed. Case-insensitive substring matching on
+# normalized text ("&" becomes "and"; hyphens, slashes and commas become spaces).
+# Tune here, not in code. Keep exclusions loose: a false positive costs a glance,
+# a false negative is invisible.
+
+families:
+  evaluation:
+    - evaluation
+    - evaluations
+    - " evals"
+    - "eval "
+    - model behavior
+    - model behaviour
+    - red team
+    - red teaming
+    - red teamer
+    - adversarial
+    - benchmark
+    - model quality
+    - quality analyst
+    - quality lead
+    - frontier risk
+    - safety evaluation
+    - model testing
+  human_data:
+    - human data
+    - data operations
+    - data ops
+    - annotation
+    - labeling
+    - labelling
+    - rlhf
+    - data quality
+    - ai trainer
+    - ai tutor
+    - expert data
+    - training data
+    - data curation
+    - rater
+  trust_safety:
+    - trust and safety
+    - safeguards
+    - content policy
+    - policy enforcement
+    - integrity
+    - abuse
+    - safety operations
+    - safety analyst
+    - safety ops
+    - customer trust
+    - product policy
+    - model policy
+    - threat investigator
+  ai_ops:
+    - ai operations
+    - operations associate
+    - programs analyst
+    - program manager
+    - research operations
+    - research ops
+    - strategic projects
+    - ai programs
+    - technical program
+  writing:
+    - technical writer
+    - technical writing
+    - documentation
+    - developer advocate
+    - developer relations
+    - devrel
+    - content designer
+    - knowledge architect
+    - ai editor
+    - transparency editor
+  forward_deployed:
+    - forward deployed
+    - deployment strategist
+    - ai strategist
+    - deployed engineer
+  solutions:
+    - solutions engineer
+    - solutions architect
+    - implementation
+    - customer engineer
+  policy:
+    - policy
+    - governance
+    - public affairs
+    - government affairs
+  early_career:
+    - new grad
+    - early career
+    - university grad
+    - associate
+    - fellow
+    - fellowship
+    - residency
+    - resident
+    - apprentice
+    - entry level
+    - rotational
+
+# Families that are reported as secondary even when matched in the title:
+# real roles, but too broad to be primary.
+secondary_only_families:
+  - solutions
+
+# Families that also count when found only in the description (secondary matches).
+description_families:
+  - evaluation
+  - human_data
+  - trust_safety
+
+# Hard exclusions on the title. Keep this list short.
+exclude_title:
+  - director
+  - head of
+  - "vp "
+  - vice president
+  - chief
+  - principal
+  - distinguished
+  - intern
+  - internship
+  - phd
+  - postdoc
+  - physician
+  - nurse
+  - attorney
+  - counsel
+  - recruiter
+  - account executive
+  - sales development
+
+# Soft flags on the title: still reported, marked as likely senior.
+flag_title:
+  - senior
+  - "sr "
+  - "sr."
+  - staff
+  - lead
+  - manager
+  - architect
+
+# Words that make an unmatched in-range title worth logging as a near miss.
+near_miss_hints:
+  - " ai"
+  - "ai "
+  - machine learning
+  - llm
+  - safety
+  - data
+  - research
+  - analyst
+  - specialist
+  - writer
+  - editor
+  - associate
+  - junior
+
+location:
+  # Any of these in a location string means it is in range.
+  corridor:
+    - new york
+    - nyc
+    - brooklyn
+    - manhattan
+    - washington
+    - " dc"
+    - d.c.
+    - arlington
+    - mclean
+    - tysons
+    - reston
+    - alexandria
+    - bethesda
+    - baltimore
+    - laurel
+    - annapolis
+    - philadelphia
+    - new jersey
+    - jersey city
+    - hoboken
+    - newark
+    - princeton
+    - livingston
+    - boston
+    - cambridge ma
+    - somerville
+    - waltham
+  # "Remote" plus any of these is remote US.
+  remote_us:
+    - united states
+    - " us"
+    - "us "
+    - usa
+    - u.s.
+    - north america
+    - americas
+    - "(us)"
+    - east coast
+    - eastern
+  # "Remote" plus any of these is not US.
+  remote_not_us:
+    - uk
+    - united kingdom
+    - london
+    - europe
+    - emea
+    - canada
+    - toronto
+    - international
+    - global
+    - apac
+    - india
+    - latam
+    - australia

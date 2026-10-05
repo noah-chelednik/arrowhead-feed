@@ -1,0 +1,64 @@
+# Boards with no public feed. The Monday task surfaces this list every week.
+# Check by hand, and move an entry to companies.yaml if a feed appears.
+# Priority: Tier 1 and 2 first, then the rest.
+
+- {name: Google DeepMind, tier: 1, careers_url: "https://www.google.com/about/careers/applications/jobs/results?company=DeepMind&location=New%20York", notes: "Google Careers only. Filter New York and Washington DC."}
+- {name: Meta Superintelligence Labs, tier: 1, careers_url: "https://www.metacareers.com/jobs?offices[0]=New%20York%2C%20NY", notes: "Filter Superintelligence, Integrity, policy."}
+- {name: Google Trust and Safety, tier: 5, careers_url: "https://www.google.com/about/careers/applications/jobs/results/?location=New%20York&q=trust%20and%20safety", notes: "Content Adversarial Red Team Analyst appears here."}
+- {name: "Microsoft (NYC AI, DC policy)", tier: 3, careers_url: "https://jobs.careers.microsoft.com/global/en/search?lc=New%20York"}
+- {name: "Amazon (AGI, NYC)", tier: 3, careers_url: "https://www.amazon.jobs/en/search?loc_query=New%20York"}
+- {name: Apple (NYC), tier: 3, careers_url: "https://jobs.apple.com/en-us/search?location=new-york-city-NYC"}
+- {name: DataAnnotation, tier: 2, careers_url: "https://www.dataannotation.tech/", notes: "Contractor signup, not a job feed. Account already created."}
+- {name: GlobalLogic (Google raters), tier: 2, careers_url: "https://www.globallogic.com/careers/", notes: "Bot-walled."}
+- {name: Innodata, tier: 2, careers_url: "https://innodatacareers.com/", notes: "Lever 'innodata' is demo content; do not use."}
+- {name: Redwood Research, tier: 2, careers_url: "https://www.redwoodresearch.org/careers"}
+- {name: Apart Research, tier: 2, careers_url: "https://www.apartresearch.com/careers", notes: "Notion pages; sprints at apartresearch.com/sprints."}
+- {name: Transluce, tier: 2, careers_url: "https://jobs.gem.com/transluce", notes: "Gem board (GraphQL); SF only. v2 fetcher candidate."}
+- {name: Micro1, tier: 2, careers_url: "https://www.micro1.ai/careers", notes: "Custom API; account exists. v2 fetcher candidate."}
+- {name: Hugging Face, tier: 3, careers_url: "https://apply.workable.com/huggingface/", notes: "Workable rate-limits bots. NYC office; remote US."}
+- {name: Galileo (Cisco acquisition pending), tier: 4, careers_url: "https://ats.rippling.com/galileo/jobs", notes: "Board empty at check."}
+- {name: AI21 Labs, tier: 1, careers_url: "https://www.ai21.com/careers/"}
+- {name: Safe Superintelligence, tier: 1, careers_url: "https://ssi.inc/"}
+- {name: Lawfare, tier: 7, careers_url: "https://www.lawfaremedia.org/resources/job-board", notes: "Rippling board; Program Assistant AI (remote, DC) live Oct 2026. v2 fetcher candidate (Rippling API)."}
+- {name: Partnership on AI, tier: 6, careers_url: "https://ats.rippling.com/pai-job-board/jobs", notes: "Rippling; remote US."}
+- {name: Georgetown CSET, tier: 6, careers_url: "https://cset.georgetown.edu/careers/", notes: "Research Analyst roles; Workday apply."}
+- {name: CNAS, tier: 6, careers_url: "https://www.cnas.org/careers", notes: "BambooHR feed (cnas.bamboohr.com/careers/list). v2 fetcher candidate."}
+- {name: RAND, tier: 6, careers_url: "https://rand.wd5.myworkdayjobs.com/External_Career_Site", notes: "Workday."}
+- {name: MITRE, tier: 6, careers_url: "https://careers.mitre.org/us/en/search-results?keywords=artificial%20intelligence"}
+- {name: Carnegie Endowment, tier: 6, careers_url: "https://carnegieendowment.applicantpro.com/jobs/", notes: "Gaither Junior Fellows, mid-January."}
+- {name: Center for Democracy and Technology, tier: 6, careers_url: "https://cdt.org/jobs/"}
+- {name: Federation of American Scientists, tier: 6, careers_url: "https://fas.applytojob.com/apply/"}
+- {name: Institute for Progress, tier: 6, careers_url: "https://ifp.org/opportunities/", notes: "Pitch a job via hiring@ifp.org."}
+- {name: New America, tier: 6, careers_url: "https://newamerica.applytojob.com/apply/"}
+- {name: AI Now Institute, tier: 6, careers_url: "https://ainowinstitute.org/careers"}
+- {name: Data and Society, tier: 6, careers_url: "https://datasociety.net/careers-at-data-society/"}
+- {name: GovAI, tier: 6, careers_url: "https://www.governance.ai/opportunities", notes: "DC Winter Fellowship 2027."}
+- {name: IAPS, tier: 6, careers_url: "https://www.iaps.ai/careers", notes: "AI Policy Fellowship, DC/remote."}
+- {name: Tech Policy Press, tier: 7, careers_url: "https://www.techpolicy.press/about"}
+- {name: Princeton CITP, tier: 8, careers_url: "https://citp.princeton.edu/programs/emerging-scholars-program", notes: "Emerging Scholars opens mid-October."}
+- {name: NYU Center for Data Science, tier: 8, careers_url: "https://cds.nyu.edu/jobs/"}
+- {name: Columbia (central careers), tier: 8, careers_url: "https://opportunities.columbia.edu/", notes: "Search Data Science Institute, Libraries, AI."}
+- {name: Cornell Tech, tier: 8, careers_url: "https://tech.cornell.edu/jobs/"}
+- {name: Johns Hopkins APL, tier: 6, careers_url: "https://careers.jhuapl.edu/jobs", notes: "Laurel MD; new-grads page."}
+- {name: Internet Archive, tier: 8, careers_url: "https://app.trinethire.com/companies/32967-internet-archive/jobs"}
+- {name: New York Public Library, tier: 8, careers_url: "https://www.nypl.org/careers", notes: "Digital Research, Digital Collections, Metadata."}
+- {name: Metropolitan Museum of Art, tier: 8, careers_url: "https://metmuseum.wd5.myworkdayjobs.com/MetMuseumCareers"}
+- {name: Library of Congress, tier: 8, careers_url: "https://www.loc.gov/careers/", notes: "USAJOBS; LC Labs."}
+- {name: Smithsonian, tier: 8, careers_url: "https://www.si.edu/ohr", notes: "Data Science Lab; Digitization Program Office."}
+- {name: Dumbarton Oaks, tier: 8, careers_url: "https://www.doaks.org/about/employment", notes: "Post-BA Humanities Fellows."}
+- {name: Bloomberg, tier: 3, careers_url: "https://careers.bloomberg.com/"}
+- {name: Thomson Reuters (TR Labs), tier: 3, careers_url: "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site"}
+- {name: TikTok Trust and Safety, tier: 5, careers_url: "https://careers.tiktok.com/", notes: "Filter New York, Washington."}
+- {name: ActiveFence (Alice), tier: 5, careers_url: "https://www.activefence.com/careers/", notes: "Comeet; NYC office."}
+- {name: Spring Health, tier: 3, careers_url: "https://www.springhealth.com/careers", notes: "Custom JSON at springhealth.com/sh-app/api/jobs; AI Care Operations roles. v2 fetcher candidate."}
+- {name: Kensho (S&P Global), tier: 3, careers_url: "https://careers.spglobal.com", notes: "Custom JSON at docs.kensho.com/api/jobs; Cambridge MA and NYC. v2 fetcher candidate."}
+- {name: Etsy, tier: 3, careers_url: "https://careers.etsy.com/jobs/search"}
+- {name: Capital One (NYC AI), tier: 3, careers_url: "https://capitalone.wd12.myworkdayjobs.com/Capital_One"}
+- {name: Booz Allen Hamilton, tier: 6, careers_url: "https://bah.wd1.myworkdayjobs.com/BAH_Jobs", notes: "Parked with the government lane."}
+- {name: Grammarly (Superhuman), tier: 3, careers_url: "https://superhuman.com/company/careers/jobs"}
+- {name: Luminance, tier: 3, careers_url: "https://www.luminance.com/careers.html", notes: "NYC roles apply by email."}
+- {name: Washington Post, tier: 7, careers_url: "https://www.washingtonpost.com/careers/"}
+- {name: Politico, tier: 7, careers_url: "https://www.politico.com/careers"}
+- {name: MIT Technology Review, tier: 7, careers_url: "https://www.technologyreview.com/careers"}
+- {name: "80,000 Hours job board (aggregator)", tier: 9, careers_url: "https://jobs.80000hours.org/", notes: "Covers much of tier 6 and 2 in one place."}
+- {name: "USAJOBS (government lane, parked)", tier: 6, careers_url: "https://www.usajobs.gov/", notes: "Has a public API; add a fetcher if Lane E reopens."}

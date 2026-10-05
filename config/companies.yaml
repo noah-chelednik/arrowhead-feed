@@ -1,0 +1,198 @@
+# The company universe for arrowhead-feed. One entry per hiring board.
+# Every slug below was verified live on 2026-10-04 (the public API returned postings).
+# Tiers: 1 frontier lab | 2 lab vendor, eval, safety | 3 applied AI, corridor employer
+#        4 tooling, infrastructure | 5 trust and safety, platform | 6 policy, research
+#        7 journalism, publishing | 8 academic, library, DH | 9 program, fellowship
+# include_if: keep only postings whose department or title contains one of these
+#             (for shared boards). enabled: false keeps the entry without fetching it.
+# Collision warnings (wrong companies, never use): greenhouse handshake, invisible,
+# galileo, hive, cais; ashby runway, patronus, nous, safe, constellation, cedar, crisp;
+# lever safe, innodata, mistral.
+
+# ---- Tier 1: frontier labs ----
+- {name: Anthropic, ats: greenhouse, slug: anthropic, tier: 1, careers_url: https://www.anthropic.com/careers, nyc: true, dc: true, remote_us: true, notes: "Fellows program posts here too. 640 postings."}
+- {name: OpenAI, ats: ashby, slug: openai, tier: 1, careers_url: https://openai.com/careers, nyc: true, dc: true, remote_us: true, notes: "827 postings; most eval and human-data roles are SF."}
+- {name: xAI, ats: greenhouse, slug: xai, tier: 1, careers_url: https://x.ai/careers, nyc: true, dc: true, remote_us: true, notes: "AI Tutor roles are remote; postings now branded SpaceXAI."}
+- {name: Mistral AI, ats: ashby, slug: mistral.ai, tier: 1, careers_url: https://mistral.ai/careers, nyc: true, dc: false, remote_us: true, notes: "Slug has a dot. Lever 'mistral' is empty."}
+- {name: Cohere, ats: ashby, slug: cohere, tier: 1, careers_url: https://cohere.com/careers, nyc: true, dc: true, remote_us: true, notes: "Toronto HQ; NYC and DC postings."}
+- {name: Thinking Machines Lab, ats: ashby, slug: thinkingmachines, tier: 1, careers_url: https://thinkingmachines.ai/, nyc: true, dc: false, remote_us: false, notes: "Mostly SF; watch for NYC growth."}
+- {name: Reflection AI, ats: ashby, slug: reflectionai, tier: 1, careers_url: https://reflection.ai/careers, nyc: true, dc: false, remote_us: false, notes: "Half the board is NYC, including evals and safety roles."}
+- {name: Nous Research, ats: ashby, slug: nousresearch, tier: 1, careers_url: https://nousresearch.com/careers, nyc: true, dc: false, remote_us: true, notes: "Ashby 'nous' is an unrelated fintech."}
+- {name: Prime Intellect, ats: ashby, slug: primeintellect, tier: 1, careers_url: https://www.primeintellect.ai/careers, nyc: true, dc: false, remote_us: true}
+- {name: Liquid AI, ats: ashby, slug: liquid-ai, tier: 1, careers_url: https://www.liquid.ai/careers, nyc: false, dc: false, remote_us: true, notes: "Boston/Cambridge."}
+- {name: AI2 (Allen Institute for AI), ats: greenhouse, slug: thealleninstitute, tier: 1, careers_url: https://allenai.org/careers, nyc: false, dc: false, remote_us: false, notes: "Seattle; shared board.", include_if: ["AI2", "Ai2", "OLMo", "AI "]}
+- {name: Normal Computing, ats: ashby, slug: normalcomputing, tier: 1, careers_url: https://normalcomputing.com/careers, nyc: true, dc: false, remote_us: false}
+- {name: Poolside, ats: ashby, slug: poolside, tier: 1, careers_url: https://poolside.ai/careers, nyc: false, dc: false, remote_us: false, enabled: false, notes: "EMEA only at check."}
+- {name: Magic, ats: ashby, slug: magic.dev, tier: 1, careers_url: https://magic.dev/, nyc: false, dc: false, remote_us: false, enabled: false, notes: "SF only."}
+- {name: Physical Intelligence, ats: ashby, slug: physicalintelligence, tier: 1, careers_url: https://www.physicalintelligence.company/, nyc: false, dc: false, remote_us: false, enabled: false, notes: "SF only, robotics."}
+- {name: World Labs, ats: ashby, slug: worldlabs, tier: 1, careers_url: https://www.worldlabs.ai/careers, nyc: false, dc: false, remote_us: false, enabled: false, notes: "SF only."}
+- {name: Imbue, ats: greenhouse, slug: imbue, tier: 1, careers_url: https://imbue.com/careers/, nyc: false, dc: false, remote_us: false, enabled: false, notes: "SF only, tiny board."}
+- {name: Inflection AI, ats: greenhouse, slug: inflectionai, tier: 1, careers_url: https://inflection.ai/careers, nyc: false, dc: false, remote_us: false, enabled: false, notes: "Palo Alto only."}
+- {name: Reka, ats: ashby, slug: reka, tier: 1, careers_url: https://www.reka.ai/careers, nyc: false, dc: false, remote_us: true, notes: "Small; US/UK remote."}
+
+# ---- Tier 2: lab vendors, evaluation, safety ----
+- {name: Scale AI, ats: greenhouse, slug: scaleai, tier: 2, careers_url: https://scale.com/careers, nyc: true, dc: true, remote_us: false, notes: "Red Team lead, Quality Lead, Frontier Risk Evals, public sector stream."}
+- {name: Surge AI, ats: ashby, slug: surge-ai, tier: 2, careers_url: https://surgehq.ai/careers, nyc: false, dc: false, remote_us: true, notes: "All US remote. AI Programs Analyst, AI Operations Engineer, Human Data Architect."}
+- {name: Mercor, ats: ashby, slug: mercor, tier: 2, careers_url: https://work.mercor.com/, nyc: true, dc: false, remote_us: true, notes: "Expert-data marketplace; Mar 2026 breach."}
+- {name: Handshake AI, ats: ashby, slug: handshake, tier: 2, careers_url: https://joinhandshake.com/careers/, nyc: true, dc: false, remote_us: true, include_if: ["HAI", "Handshake AI", "AI "], notes: "Shared board with Handshake core; HAI departments are the AI arm. Greenhouse 'handshake' is unrelated."}
+- {name: Invisible Technologies, ats: greenhouse, slug: invisibletech, tier: 2, careers_url: https://invisibletech.ai/join-us, nyc: true, dc: false, remote_us: true, notes: "Greenhouse 'invisible' is unrelated."}
+- {name: Turing, ats: greenhouse, slug: turing, tier: 2, careers_url: https://www.turing.com/careers, nyc: true, dc: true, remote_us: true}
+- {name: Labelbox (Alignerr), ats: greenhouse, slug: labelbox, tier: 2, careers_url: https://labelbox.com/company/careers/, nyc: false, dc: false, remote_us: true, notes: "Alignerr staff roles post here; contractor work is app signup."}
+- {name: Pareto AI, ats: ashby, slug: pareto-ai, tier: 2, careers_url: https://pareto.ai/careers, nyc: false, dc: false, remote_us: true}
+- {name: Prolific, ats: greenhouse, slug: prolific, tier: 2, careers_url: https://www.prolific.com/careers, nyc: true, dc: false, remote_us: true, notes: "Human Data Quality Analyst, Forward Deployed Researcher; NYC hybrid."}
+- {name: Toloka, ats: greenhouse, slug: toloka, tier: 2, careers_url: https://toloka.ai/careers, nyc: true, dc: false, remote_us: true}
+- {name: Snorkel AI, ats: greenhouse, slug: snorkelai, tier: 2, careers_url: https://snorkel.ai/careers/, nyc: true, dc: false, remote_us: true}
+- {name: HumanSignal, ats: greenhouse, slug: humansignal, tier: 2, careers_url: https://humansignal.com/careers/, nyc: false, dc: false, remote_us: true, notes: "Label Studio maker; many AI Trainer expert-data roles."}
+- {name: Gray Swan AI, ats: ashby, slug: "Gray Swan AI", tier: 2, careers_url: https://www.grayswan.ai/careers, nyc: false, dc: false, remote_us: true, notes: "Slug contains spaces."}
+- {name: Haize Labs, ats: greenhouse, slug: haizelabs, tier: 2, careers_url: https://www.haizelabs.com/careers, nyc: true, dc: false, remote_us: false, notes: "Reported acquired by Beacon, Sep 2026; board still live."}
+- {name: METR, ats: lever, slug: metr, tier: 2, careers_url: https://metr.org/careers, nyc: false, dc: false, remote_us: false, notes: "Berkeley only; kept for exceptional roles."}
+- {name: Apollo Research, ats: lever, slug: apolloresearch, tier: 2, careers_url: https://www.apolloresearch.ai/careers, nyc: false, dc: true, remote_us: false, notes: "DC office opened 2026."}
+- {name: Goodfire, ats: greenhouse, slug: goodfire, tier: 2, careers_url: https://www.goodfire.com/careers, nyc: true, dc: false, remote_us: false}
+- {name: Patronus AI, ats: greenhouse, slug: patronusaiinc, tier: 2, careers_url: https://www.patronus.ai/join, nyc: false, dc: false, remote_us: true, notes: "Ashby 'patronus' is unrelated."}
+- {name: Braintrust, ats: ashby, slug: braintrust, tier: 2, careers_url: https://www.braintrust.dev/careers, nyc: true, dc: false, remote_us: true}
+- {name: Vals AI, ats: ashby, slug: vals-ai, tier: 2, careers_url: https://www.vals.ai/careers, nyc: false, dc: false, remote_us: false, notes: "SF only; Technical Writer role was a fit."}
+- {name: LMArena, ats: ashby, slug: arena, tier: 2, careers_url: https://lmarena.ai/, nyc: false, dc: false, remote_us: false, notes: "SF Bay Area."}
+- {name: Artificial Analysis, ats: ashby, slug: artificialanalysis, tier: 2, careers_url: https://artificialanalysis.ai/, nyc: false, dc: false, remote_us: false, enabled: false, notes: "SF on-site only."}
+- {name: Irregular, ats: ashby, slug: Irregular, tier: 2, careers_url: https://www.irregular.com/careers, nyc: false, dc: false, remote_us: false, enabled: false, notes: "Tel Aviv only; formerly Pattern Labs."}
+- {name: HiddenLayer, ats: greenhouse, slug: hiddenlayer, tier: 2, careers_url: https://hiddenlayer.com/careers/, nyc: true, dc: true, remote_us: true, notes: "AI security; remote US."}
+- {name: Lakera, ats: ashby, slug: lakera.ai, tier: 2, careers_url: https://www.lakera.ai/careers, nyc: false, dc: false, remote_us: false, enabled: false, notes: "Acquired by Check Point; board empty."}
+- {name: Epoch AI, ats: lever, slug: epoch-ai, tier: 2, careers_url: https://epoch.ai/careers, nyc: false, dc: false, remote_us: true, notes: "Remote-first research org."}
+- {name: FAR.AI, ats: ashby, slug: far.ai, tier: 2, careers_url: https://far.ai/jobs, nyc: false, dc: false, remote_us: true, notes: "Slug has a dot."}
+- {name: Elicit, ats: ashby, slug: elicit, tier: 2, careers_url: https://elicit.com/careers, nyc: false, dc: false, remote_us: true}
+- {name: Tilde Research, ats: ashby, slug: tilderesearch, tier: 2, careers_url: https://www.tilderesearch.com/, nyc: false, dc: false, remote_us: false, enabled: false, notes: "SF only."}
+- {name: SuperAnnotate, ats: lever, slug: superannotate, tier: 2, careers_url: https://www.superannotate.com/careers, nyc: false, dc: false, remote_us: false, enabled: false}
+- {name: Center for AI Safety, ats: greenhouse, slug: centerforartificialintelligencesafetyinc, tier: 2, careers_url: https://www.safe.ai/careers, nyc: false, dc: false, remote_us: false, notes: "SF in-office; kept for exceptional roles. Greenhouse 'cais' is unrelated."}
+- {name: Welocalize, ats: lever, slug: weloglobal, tier: 2, careers_url: https://www.welocalize.com/, nyc: false, dc: false, remote_us: true, include_if: ["Evaluat", "Quality", "Rater", "Annotat", "English", "Classical", "Latin", "Greek"], notes: "Shared board, 500+ freelance linguist roles; filtered."}
+- {name: Appen, ats: lever, slug: appen, tier: 2, careers_url: https://www.appen.com/careers, nyc: false, dc: false, remote_us: false, enabled: false, notes: "Country-level crowd roles; low value."}
+- {name: Sama, ats: greenhouse, slug: samainc, tier: 2, careers_url: https://www.sama.com/careers, nyc: false, dc: false, remote_us: false, enabled: false}
+
+# ---- Tier 3: applied AI and corridor employers ----
+- {name: Perplexity, ats: ashby, slug: perplexity, tier: 3, careers_url: https://www.perplexity.ai/hub/careers, nyc: true, dc: true, remote_us: true, notes: "Research Fellowship; DC policy associate."}
+- {name: Harvey, ats: ashby, slug: harvey, tier: 3, careers_url: https://www.harvey.ai/careers, nyc: true, dc: true, remote_us: true, notes: "Customer Trust Analyst, Product Ops Evaluation Quality, New Grad SWE."}
+- {name: Legora, ats: ashby, slug: legora, tier: 3, careers_url: https://legora.com/careers, nyc: true, dc: false, remote_us: true, notes: "NYC is the largest office."}
+- {name: Hebbia, ats: ashby, slug: hebbia-ai, tier: 3, careers_url: https://www.hebbia.com/careers, nyc: true, dc: false, remote_us: false}
+- {name: Rogo, ats: ashby, slug: rogo, tier: 3, careers_url: https://rogo.ai/careers, nyc: true, dc: false, remote_us: false}
+- {name: Norm Ai, ats: ashby, slug: norm-ai, tier: 3, careers_url: https://www.norm.ai/careers, nyc: true, dc: false, remote_us: false}
+- {name: Tennr, ats: ashby, slug: tennr, tier: 3, careers_url: https://www.tennr.com/careers, nyc: true, dc: false, remote_us: true}
+- {name: EvenUp, ats: ashby, slug: evenup, tier: 3, careers_url: https://jobs.ashbyhq.com/evenup, nyc: false, dc: false, remote_us: true, notes: "Posting API disabled; GraphQL fallback."}
+- {name: Spellbook, ats: ashby, slug: spellbook.com, tier: 3, careers_url: https://spellbook.com/careers, nyc: false, dc: false, remote_us: true, notes: "Mostly Canada."}
+- {name: Ironclad, ats: ashby, slug: ironcladhq, tier: 3, careers_url: https://ironcladapp.com/company/careers/, nyc: true, dc: false, remote_us: true}
+- {name: Sierra, ats: ashby, slug: sierra, tier: 3, careers_url: https://sierra.ai/careers, nyc: true, dc: false, remote_us: true, notes: "New Grad 2027 SWE; DevRel NYC."}
+- {name: Decagon, ats: ashby, slug: decagon, tier: 3, careers_url: https://decagon.ai/careers, nyc: true, dc: false, remote_us: true}
+- {name: Cresta, ats: greenhouse, slug: cresta, tier: 3, careers_url: https://cresta.com/careers, nyc: true, dc: false, remote_us: true, notes: "Associate Forward Deployed PM; DevRel."}
+- {name: Intercom, ats: greenhouse, slug: intercom, tier: 3, careers_url: https://www.intercom.com/careers, nyc: true, dc: false, remote_us: true}
+- {name: Writer, ats: ashby, slug: writer, tier: 3, careers_url: https://writer.com/company/careers/, nyc: true, dc: false, remote_us: true}
+- {name: Glean, ats: greenhouse, slug: gleanwork, tier: 3, careers_url: https://www.glean.com/careers, nyc: true, dc: false, remote_us: true, notes: "Slug is gleanwork."}
+- {name: Runway, ats: ashby, slug: runway-ml, tier: 3, careers_url: https://runwayml.com/careers, nyc: true, dc: false, remote_us: true, notes: "Ashby 'runway' is unrelated."}
+- {name: ElevenLabs, ats: ashby, slug: elevenlabs, tier: 3, careers_url: https://elevenlabs.io/careers, nyc: true, dc: true, remote_us: true, notes: "Deployment Strategist NA; linguist roles."}
+- {name: Midjourney, ats: ashby, slug: midjourney, tier: 3, careers_url: https://www.midjourney.com/careers, nyc: true, dc: false, remote_us: true, notes: "QA Analyst was a fit."}
+- {name: Character.AI, ats: ashby, slug: character, tier: 3, careers_url: https://character.ai/careers, nyc: true, dc: false, remote_us: true, notes: "Safety and alignment roles; mostly Redwood City."}
+- {name: Cognition, ats: ashby, slug: cognition, tier: 3, careers_url: https://cognition.ai/careers, nyc: true, dc: true, remote_us: true}
+- {name: Cursor (Anysphere), ats: ashby, slug: cursor, tier: 3, careers_url: https://cursor.com/careers, nyc: true, dc: false, remote_us: true, notes: "SWE Agent Evaluation and Quality; Forward Deployed Strategist remote."}
+- {name: Replit, ats: ashby, slug: replit, tier: 3, careers_url: https://replit.com/careers, nyc: true, dc: false, remote_us: true, notes: "Data Scientist Trust and Safety."}
+- {name: Notion, ats: ashby, slug: notion, tier: 3, careers_url: https://www.notion.com/careers, nyc: true, dc: false, remote_us: false}
+- {name: Ramp, ats: ashby, slug: ramp, tier: 3, careers_url: https://ramp.com/careers, nyc: true, dc: false, remote_us: true}
+- {name: Vercel, ats: greenhouse, slug: vercel, tier: 3, careers_url: https://vercel.com/careers, nyc: true, dc: false, remote_us: true, notes: "SWE Trust and Safety; DevRel."}
+- {name: Hex, ats: ashby, slug: hex, tier: 3, careers_url: https://hex.tech/careers/, nyc: true, dc: false, remote_us: true}
+- {name: Abridge, ats: ashby, slug: abridge, tier: 3, careers_url: https://www.abridge.com/careers, nyc: true, dc: false, remote_us: true}
+- {name: Deepgram, ats: ashby, slug: deepgram, tier: 3, careers_url: https://deepgram.com/careers, nyc: true, dc: true, remote_us: true}
+- {name: AssemblyAI, ats: greenhouse, slug: assemblyai, tier: 3, careers_url: https://www.assemblyai.com/careers, nyc: true, dc: false, remote_us: true}
+- {name: Hume AI, ats: greenhouse, slug: humeai, tier: 3, careers_url: https://www.hume.ai/careers, nyc: true, dc: false, remote_us: true}
+- {name: Suno, ats: ashby, slug: suno, tier: 3, careers_url: https://suno.com/careers, nyc: true, dc: false, remote_us: true, notes: "Boston/Cambridge."}
+- {name: Synthesia, ats: ashby, slug: synthesia, tier: 3, careers_url: https://www.synthesia.io/careers, nyc: true, dc: false, remote_us: true}
+- {name: Lovable, ats: ashby, slug: lovable, tier: 3, careers_url: https://lovable.dev/careers, nyc: true, dc: false, remote_us: false}
+- {name: Chainalysis, ats: ashby, slug: chainalysis-careers, tier: 3, careers_url: https://www.chainalysis.com/careers/job-openings/, nyc: true, dc: true, remote_us: true, notes: "Deployment Strategist; policy."}
+- {name: Chainalysis Government Solutions, ats: ashby, slug: chainalysis-government-solutions, tier: 3, careers_url: https://jobs.ashbyhq.com/chainalysis-government-solutions, nyc: false, dc: true, remote_us: true, notes: "GraphQL fallback."}
+- {name: Palantir, ats: lever, slug: palantir, tier: 3, careers_url: https://www.palantir.com/careers/, nyc: true, dc: true, remote_us: false, notes: "Deployment Strategist; very large."}
+- {name: C3 AI, ats: greenhouse, slug: c3iot, tier: 3, careers_url: https://c3.ai/careers/, nyc: true, dc: true, remote_us: false, notes: "FDE New Grad 2027, Tysons VA."}
+- {name: Vannevar Labs, ats: greenhouse, slug: vannevarlabs, tier: 3, careers_url: https://www.vannevarlabs.com/careers, nyc: true, dc: true, remote_us: true}
+- {name: Primer AI, ats: greenhouse, slug: primerai, tier: 3, careers_url: https://primer.ai/careers/, nyc: false, dc: true, remote_us: true}
+- {name: Recorded Future, ats: greenhouse, slug: recordedfuture, tier: 3, careers_url: https://www.recordedfuture.com/careers, nyc: true, dc: true, remote_us: true}
+- {name: Shield AI, ats: lever, slug: shieldai, tier: 3, careers_url: https://shield.ai/careers/, nyc: false, dc: true, remote_us: true, notes: "Large, many duplicates."}
+- {name: Anduril, ats: greenhouse, slug: andurilindustries, tier: 3, careers_url: https://www.anduril.com/open-roles, nyc: false, dc: true, remote_us: true, include_if: ["Early Career", "New Grad", "Technical Writer", "Writer", "Policy", "Analyst", "Documentation"], notes: "2,400+ postings; filtered hard."}
+- {name: Datadog, ats: greenhouse, slug: datadog, tier: 3, careers_url: https://careers.datadoghq.com/, nyc: true, dc: true, remote_us: true, notes: "NYC HQ; DevRel, evaluation and annotation roles."}
+- {name: MongoDB, ats: greenhouse, slug: mongodb, tier: 3, careers_url: https://www.mongodb.com/careers, nyc: true, dc: true, remote_us: false}
+- {name: Databricks, ats: greenhouse, slug: databricks, tier: 3, careers_url: https://www.databricks.com/company/careers, nyc: true, dc: true, remote_us: true, include_if: ["AI", "Evaluation", "New Grad", "Early Career", "Technical Writer", "Documentation", "Research"], notes: "887 postings; filtered."}
+- {name: CoreWeave (incl. Weights & Biases), ats: greenhouse, slug: coreweave, tier: 3, careers_url: https://www.coreweave.com/careers, nyc: true, dc: true, remote_us: true, include_if: ["Weights", "W&B", "Developer", "Documentation", "Technical Writer", "AI"], notes: "Livingston NJ and NYC."}
+- {name: Elastic, ats: greenhouse, slug: elastic, tier: 3, careers_url: https://www.elastic.co/careers, nyc: true, dc: true, remote_us: true}
+- {name: LangChain, ats: ashby, slug: langchain, tier: 3, careers_url: https://www.langchain.com/careers, nyc: true, dc: true, remote_us: true, notes: "Deployed Engineer early career NYC."}
+- {name: Together AI, ats: greenhouse, slug: togetherai, tier: 3, careers_url: https://www.together.ai/careers, nyc: true, dc: false, remote_us: true}
+- {name: Fireworks AI, ats: ashby, slug: fireworks, tier: 3, careers_url: https://fireworks.ai/careers, nyc: true, dc: false, remote_us: true}
+- {name: Baseten, ats: ashby, slug: baseten, tier: 3, careers_url: https://www.baseten.co/careers/, nyc: true, dc: false, remote_us: true}
+- {name: Modal, ats: ashby, slug: modal, tier: 3, careers_url: https://modal.com/careers, nyc: true, dc: false, remote_us: true, notes: "Documentation Engineer NYC; DevRel."}
+- {name: Arize AI, ats: greenhouse, slug: arizeai, tier: 3, careers_url: https://arize.com/careers/, nyc: true, dc: false, remote_us: true}
+- {name: Comet, ats: greenhouse, slug: comet, tier: 3, careers_url: https://www.comet.com/site/about-us/careers/, nyc: true, dc: false, remote_us: true}
+- {name: Encord, ats: ashby, slug: encord, tier: 3, careers_url: https://encord.com/careers/, nyc: true, dc: false, remote_us: false}
+- {name: Datology AI, ats: ashby, slug: datologyai, tier: 3, careers_url: https://www.datologyai.com/, nyc: false, dc: false, remote_us: false, enabled: false, notes: "San Mateo only."}
+- {name: OpenRouter, ats: ashby, slug: openrouter, tier: 3, careers_url: https://openrouter.ai/careers, nyc: false, dc: false, remote_us: true}
+- {name: Anyscale, ats: ashby, slug: anyscale, tier: 3, careers_url: https://www.anyscale.com/careers, nyc: false, dc: false, remote_us: true}
+- {name: Pinecone, ats: ashby, slug: pinecone, tier: 3, careers_url: https://www.pinecone.io/careers/, nyc: true, dc: false, remote_us: true}
+- {name: Weaviate, ats: ashby, slug: weaviate, tier: 3, careers_url: https://weaviate.io/company/careers, nyc: false, dc: false, remote_us: true}
+- {name: Cerebras, ats: ashby, slug: cerebras, tier: 3, careers_url: https://www.cerebras.ai/careers, nyc: false, dc: false, remote_us: true, notes: "AI Engineer Model Quality; mostly Sunnyvale."}
+- {name: SambaNova, ats: greenhouse, slug: sambanovasystems, tier: 3, careers_url: https://sambanova.ai/careers, nyc: false, dc: false, remote_us: true}
+- {name: Lambda, ats: ashby, slug: lambda, tier: 3, careers_url: https://lambda.ai/careers, nyc: false, dc: false, remote_us: true, enabled: false, notes: "Datacenter-site roles; low fit."}
+- {name: Luma AI, ats: ashby, slug: lumaai, tier: 3, careers_url: https://lumalabs.ai/careers, nyc: false, dc: false, remote_us: true, enabled: false}
+- {name: Black Forest Labs, ats: ashby, slug: black-forest-labs, tier: 3, careers_url: https://bfl.ai/careers, nyc: false, dc: false, remote_us: true, enabled: false}
+- {name: Stability AI, ats: greenhouse, slug: stabilityai, tier: 3, careers_url: https://stability.ai/careers, nyc: false, dc: false, remote_us: true, enabled: false}
+- {name: Fivetran (incl. dbt Labs), ats: greenhouse, slug: fivetran, tier: 3, careers_url: https://www.fivetran.com/careers, nyc: true, dc: true, remote_us: true, include_if: ["Technical Writer", "Documentation", "Developer", "AI"]}
+- {name: Figma, ats: greenhouse, slug: figma, tier: 3, careers_url: https://www.figma.com/careers/, nyc: true, dc: true, remote_us: true, include_if: ["AI", "Early Career", "Forward Deployed", "Writer", "Documentation", "Policy", "Trust"]}
+- {name: Brex, ats: greenhouse, slug: brex, tier: 3, careers_url: https://www.brex.com/careers, nyc: true, dc: true, remote_us: false, enabled: false, notes: "No AI family titles at check."}
+- {name: Toast, ats: greenhouse, slug: toast, tier: 3, careers_url: https://careers.toasttab.com/, nyc: true, dc: true, remote_us: true, include_if: ["AI", "Trust", "Policy", "Writer", "Documentation"], notes: "Boston; AI Operations Lead remote."}
+- {name: Klaviyo, ats: greenhouse, slug: klaviyo, tier: 3, careers_url: https://careers.klaviyo.com/, nyc: true, dc: false, remote_us: false, include_if: ["AI", "Writer", "Documentation", "Developer"]}
+- {name: Headway, ats: ashby, slug: headway, tier: 3, careers_url: https://headway.co/careers, nyc: true, dc: false, remote_us: true, include_if: ["Safety", "AI", "Early Career", "Data"]}
+- {name: Oscar Health, ats: greenhouse, slug: oscar, tier: 3, careers_url: https://www.hioscar.com/careers, nyc: true, dc: false, remote_us: true, include_if: ["AI", "Data Operations", "Writer", "Policy"]}
+- {name: Duolingo, ats: greenhouse, slug: duolingo, tier: 3, careers_url: https://careers.duolingo.com/, nyc: true, dc: false, remote_us: false, include_if: ["AI", "Quality", "Curriculum", "Writer", "Associate"]}
+- {name: Substack, ats: ashby, slug: substack, tier: 3, careers_url: https://substack.com/jobs, nyc: true, dc: true, remote_us: true}
+- {name: AlphaSense, ats: greenhouse, slug: alphasense, tier: 3, careers_url: https://www.alpha-sense.com/careers/, nyc: true, dc: false, remote_us: true, include_if: ["AI", "Analyst", "Content", "Data", "Writer"]}
+- {name: ASAPP, ats: lever, slug: asapp-2, tier: 3, careers_url: https://www.asapp.com/careers, nyc: true, dc: false, remote_us: true}
+- {name: Jane Street, ats: greenhouse, slug: janestreet, tier: 3, careers_url: https://www.janestreet.com/join-jane-street/open-roles/, nyc: true, dc: false, remote_us: false, include_if: ["Software Engineer", "New Grad", "Campus"], enabled: false, notes: "New-grad SWE only; off by default."}
+- {name: Hudson River Trading, ats: greenhouse, slug: wehrtyou, tier: 3, careers_url: https://www.hudsonrivertrading.com/careers/, nyc: true, dc: false, remote_us: false, enabled: false}
+- {name: The New York Times, ats: greenhouse, slug: thenewyorktimes, tier: 7, careers_url: https://www.nytco.com/careers/, nyc: true, dc: true, remote_us: true, include_if: ["AI", "A.I.", "Fellow", "Research", "Data", "Policy"], notes: "Watch for the AI Initiatives fellowship."}
+- {name: Axios, ats: greenhouse, slug: axios, tier: 7, careers_url: https://www.axios.com/careers, nyc: true, dc: true, remote_us: true, include_if: ["AI", "Technology", "Fellow", "Research"]}
+- {name: Semafor, ats: greenhouse, slug: semafor, tier: 7, careers_url: https://www.semafor.com/careers, nyc: true, dc: true, remote_us: true, include_if: ["AI", "Technology", "Fellow"]}
+- {name: Vox Media, ats: greenhouse, slug: voxmedia, tier: 7, careers_url: https://www.voxmedia.com/careers, nyc: true, dc: true, remote_us: true, include_if: ["AI", "Technology", "Policy", "Fellow"]}
+- {name: Squarespace, ats: greenhouse, slug: squarespace, tier: 3, careers_url: https://www.squarespace.com/about/careers, nyc: true, dc: false, remote_us: true, enabled: false}
+- {name: Yext, ats: greenhouse, slug: yext, tier: 3, careers_url: https://www.yext.com/careers, nyc: true, dc: true, remote_us: true, enabled: false}
+- {name: Flatiron Health, ats: greenhouse, slug: flatironhealth, tier: 3, careers_url: https://flatiron.com/careers, nyc: true, dc: false, remote_us: true, enabled: false}
+- {name: Attentive, ats: greenhouse, slug: attentive, tier: 3, careers_url: https://www.attentive.com/careers, nyc: true, dc: false, remote_us: true, enabled: false}
+- {name: Guidepoint, ats: greenhouse, slug: guidepoint, tier: 3, careers_url: https://www.guidepoint.com/careers/, nyc: true, dc: false, remote_us: false, enabled: false}
+- {name: Zocdoc, ats: greenhouse, slug: zocdoc, tier: 3, careers_url: https://www.zocdoc.com/about/careers/, nyc: true, dc: false, remote_us: true, enabled: false}
+- {name: Justworks, ats: greenhouse, slug: justworks, tier: 3, careers_url: https://www.justworks.com/careers, nyc: true, dc: false, remote_us: true, enabled: false}
+- {name: Peloton, ats: greenhouse, slug: peloton, tier: 3, careers_url: https://careers.onepeloton.com/, nyc: true, dc: true, remote_us: false, enabled: false}
+- {name: Betterment, ats: greenhouse, slug: betterment, tier: 3, careers_url: https://www.betterment.com/careers, nyc: true, dc: false, remote_us: false, enabled: false}
+- {name: Taboola, ats: greenhouse, slug: taboola, tier: 3, careers_url: https://www.taboola.com/careers, nyc: true, dc: false, remote_us: false, enabled: false}
+- {name: Maven Clinic, ats: greenhouse, slug: mavenclinic, tier: 3, careers_url: https://www.mavenclinic.com/careers, nyc: true, dc: true, remote_us: true, enabled: false}
+- {name: HubSpot, ats: greenhouse, slug: hubspotjobs, tier: 3, careers_url: https://www.hubspot.com/careers, nyc: false, dc: false, remote_us: true, enabled: false}
+- {name: Formlabs, ats: greenhouse, slug: formlabs, tier: 3, careers_url: https://careers.formlabs.com/, nyc: false, dc: false, remote_us: false, enabled: false}
+- {name: Medium, ats: greenhouse, slug: medium, tier: 7, careers_url: https://medium.com/jobs-at-medium, nyc: false, dc: false, remote_us: true, enabled: false, notes: "Dormant board."}
+- {name: Khan Academy, ats: greenhouse, slug: khanacademy, tier: 3, careers_url: https://www.khanacademy.org/careers, nyc: false, dc: false, remote_us: true, notes: "ELA assessment content role was a fit; remote US."}
+- {name: Coursera, ats: greenhouse, slug: coursera, tier: 3, careers_url: https://careers.coursera.com/, nyc: false, dc: false, remote_us: true, enabled: false}
+- {name: Hugging Face, ats: workable, slug: huggingface, tier: 3, careers_url: https://apply.workable.com/huggingface/, nyc: true, dc: false, remote_us: true, enabled: false, notes: "Workable rate-limits datacenter IPs; no fetcher in v1. On the manual watch list."}
+
+# ---- Tier 5: trust and safety, platforms ----
+- {name: Spotify, ats: lever, slug: spotify, tier: 5, careers_url: https://www.lifeatspotify.com/jobs, nyc: true, dc: false, remote_us: false, include_if: ["Safety", "Policy", "Quality", "AI", "Trust", "Integrity", "Annotation"], notes: "Senior Product Quality Analyst AI Voice NYC."}
+- {name: Pinterest, ats: greenhouse, slug: pinterest, tier: 5, careers_url: https://www.pinterestcareers.com/, nyc: true, dc: false, remote_us: true, include_if: ["Safety", "Policy", "Trust", "Responsible", "AI", "University Grad", "Content"]}
+- {name: Reddit, ats: greenhouse, slug: reddit, tier: 5, careers_url: https://redditinc.com/careers, nyc: true, dc: false, remote_us: true, include_if: ["Safety", "Policy", "Trust", "Integrity", "AI", "Content"]}
+- {name: Discord, ats: greenhouse, slug: discord, tier: 5, careers_url: https://discord.com/careers, nyc: false, dc: false, remote_us: true, include_if: ["Safety", "Policy", "Trust", "Integrity", "AI"]}
+- {name: Match Group, ats: lever, slug: matchgroup, tier: 5, careers_url: https://mtch.com/careers, nyc: true, dc: false, remote_us: false, include_if: ["Safety", "Policy", "Trust", "Integrity", "AI"]}
+- {name: Roblox, ats: greenhouse, slug: roblox, tier: 5, careers_url: https://careers.roblox.com/, nyc: false, dc: true, remote_us: true, include_if: ["Safety", "Policy", "Trust", "Integrity", "Early Career", "AI"]}
+- {name: Twitch, ats: greenhouse, slug: twitch, tier: 5, careers_url: https://www.twitch.tv/jobs/, nyc: true, dc: false, remote_us: false, include_if: ["Safety", "Policy", "Trust", "Integrity", "AI"]}
+- {name: Cinder, ats: ashby, slug: cinder, tier: 5, careers_url: https://cinder.ai/careers, nyc: true, dc: false, remote_us: true, notes: "T&S tooling, NYC."}
+- {name: Hive, ats: lever, slug: hive, tier: 5, careers_url: https://thehive.ai/careers, nyc: false, dc: false, remote_us: false, enabled: false, notes: "SF/Seattle only. Greenhouse 'hive' is unrelated."}
+- {name: Modulate, ats: ashby, slug: modulate, tier: 5, careers_url: https://www.modulate.ai/careers, nyc: false, dc: false, remote_us: false, notes: "Somerville MA; tiny."}
+- {name: Thorn, ats: greenhouse, slug: thorn, tier: 5, careers_url: https://www.thorn.org/careers/, nyc: false, dc: false, remote_us: true}
+- {name: TrustLab, ats: ashby, slug: trustlab, tier: 5, careers_url: https://www.trustlab.com/, nyc: false, dc: false, remote_us: false, enabled: false, notes: "Board empty at check."}
+- {name: FiscalNote, ats: lever, slug: fiscalnote, tier: 5, careers_url: https://fiscalnote.com/careers, nyc: false, dc: true, remote_us: true}
+- {name: Quorum, ats: ashby, slug: quorum, tier: 5, careers_url: https://www.quorum.us/careers/, nyc: false, dc: true, remote_us: false}
+
+# ---- Tier 6: policy, research, think tanks (public-feed boards only; the rest are on manual watch) ----
+- {name: Brookings Institution, ats: lever, slug: brookings, tier: 6, careers_url: https://www.brookings.edu/careers/, nyc: false, dc: true, remote_us: false}
+- {name: CSIS, ats: greenhouse, slug: centerforstrategicandinternationalstudiesinc, tier: 6, careers_url: https://www.csis.org/about/careers-culture/careers, nyc: false, dc: true, remote_us: false}
+- {name: Future of Life Institute, ats: lever, slug: futureof-life, tier: 6, careers_url: https://futureoflife.org/about-us/careers/, nyc: false, dc: true, remote_us: true}
+- {name: Schmidt Sciences, ats: lever, slug: schmidt-entities, tier: 6, careers_url: https://www.schmidtsciences.org/careers/, nyc: true, dc: true, remote_us: false, notes: "Shared board; Associate AI and Advanced Computing NYC."}
+- {name: Coefficient Giving (formerly Open Philanthropy), ats: ashby, slug: coefficientgiving, tier: 6, careers_url: https://coefficientgiving.org/about-us/careers/, nyc: false, dc: false, remote_us: true}
+- {name: SecureBio, ats: ashby, slug: securebio, tier: 6, careers_url: https://securebio.org/careers, nyc: false, dc: false, remote_us: false, notes: "Cambridge MA."}
+- {name: Wikimedia Foundation, ats: greenhouse, slug: wikimedia, tier: 8, careers_url: https://wikimediafoundation.org/about/jobs/, nyc: false, dc: false, remote_us: true}
+- {name: ITHAKA (JSTOR), ats: greenhouse, slug: ithaka, tier: 8, careers_url: https://www.ithaka.org/careers/, nyc: true, dc: false, remote_us: true}
+- {name: BlueDot Impact, ats: ashby, slug: bluedot, tier: 9, careers_url: https://bluedot.org/careers, nyc: false, dc: false, remote_us: false, notes: "SF and London."}
+- {name: Alignment Research Center, ats: lever, slug: alignment.org, tier: 6, careers_url: https://www.alignment.org/hiring/, nyc: false, dc: false, remote_us: false, enabled: false, notes: "Board empty."}

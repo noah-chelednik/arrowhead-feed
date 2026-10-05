@@ -1,0 +1,150 @@
+{
+ "jobs": [
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/haizelabs/jobs/4070038008",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 4033626008,
+   "location": {
+    "name": "New York City / San Francisco"
+   },
+   "metadata": null,
+   "id": 4070038008,
+   "updated_at": "2026-09-16T14:03:40-04:00",
+   "requisition_id": "4",
+   "title": "Applied Researcher",
+   "company_name": "Haize Labs",
+   "first_published": "2024-07-03T16:21:08-04:00",
+   "language": "en",
+   "application_deadline": null,
+   "content": "&lt;h3&gt;&lt;strong&gt;About Haize Labs&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Today\u2019s AI has a jagged intelligence surface. It is superhuman on well-defined benchmarks like the International Math Olympiad, but falls short in many real world domains.&lt;/p&gt;\n&lt;p&gt;Haize Labs brings superintelligence to the long tail of these domains through our agent foundry, which enables agent performance at parity with or better than domain experts.&lt;/p&gt;\n&lt;p&gt;Our agents are being deployed across many, many verticals. We are hiring an &lt;strong&gt;Applied Researcher&amp;nbsp;&lt;/strong&gt;to 1) turn companies into environments, 2) RL on these environments, and 3) rapidly scale and refine our products in existing verticals. This role spans research (RL, environment design, reward modeling), e",
+   "departments": [
+    {
+     "id": 4017314008,
+     "name": "Research",
+     "child_ids": [],
+     "parent_id": null
+    }
+   ],
+   "offices": [
+    {
+     "id": 4013455008,
+     "name": "NYC",
+     "location": "New York City",
+     "child_ids": [],
+     "parent_id": null
+    }
+   ],
+   "ai_disclaimer": null,
+   "include_ai_disclaimer": null,
+   "ai_opt_out_request_url": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/haizelabs/jobs/4627851008",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4216973008,
+   "location": {
+    "name": "New York / San Francisco"
+   },
+   "metadata": null,
+   "id": 4627851008,
+   "updated_at": "2026-09-16T14:03:40-04:00",
+   "requisition_id": "7",
+   "title": "Product Slinger",
+   "company_name": "Haize Labs",
+   "first_published": "2025-04-10T20:01:44-04:00",
+   "language": "en",
+   "application_deadline": null,
+   "content": "&lt;h1&gt;Product Slinger&lt;/h1&gt;\n&lt;h3&gt;&lt;strong&gt;About Haize Labs&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Today\u2019s AI has a jagged intelligence surface. It is superhuman on well-defined benchmarks like the International Math Olympiad, but falls short in many real world domains.&lt;/p&gt;\n&lt;p&gt;Haize Labs brings superintelligence to the long tail of these domains through our agent foundry, which enables agent performance at parity with or better than domain experts.&lt;/p&gt;\n&lt;p&gt;Our agents are being deployed across many, many verticals. We are hiring a&amp;nbsp;&lt;strong&gt;Product Slinger &lt;/strong&gt;to 1) originate products in new verticals and 2) rapidly scale and refine our products in existing verticals. This role spans engineering (rapidly building AI agents), produ",
+   "departments": [
+    {
+     "id": 4017315008,
+     "name": "Engineering",
+     "child_ids": [],
+     "parent_id": null
+    }
+   ],
+   "offices": [
+    {
+     "id": 4013455008,
+     "name": "NYC",
+     "location": "New York City",
+     "child_ids": [],
+     "parent_id": null
+    }
+   ],
+   "ai_disclaimer": null,
+   "include_ai_disclaimer": null,
+   "ai_opt_out_request_url": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/haizelabs/jobs/4070377008",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 4033808008,
+   "location": {
+    "name": "New York, NY"
+   },
+   "metadata": null,
+   "id": 4070377008,
+   "updated_at": "2026-09-16T14:03:40-04:00",
+   "requisition_id": "5",
+   "title": "Research Intern",
+   "company_name": "Haize Labs",
+   "first_published": "2024-07-03T16:21:27-04:00",
+   "language": "en",
+   "application_deadline": null,
+   "content": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Haize Labs haizes LLMs at scale. We are the robustness layer eliminating the risk of using language models in any setting. To prevent these systems from failing, we preemptively discover all the ways in which they can fail and continuously eliminate them in deployment.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are looking for Research Interns to help us to develop fundamental safety tooling for LLMs. Your work will not only set the standard both in terms of research, but also in terms of how LLMs are tested, verified, and applied across customers, companies, and industries. You will directly influence how the world responsibly uses LLMs.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;br&gt;",
+   "departments": [
+    {
+     "id": 4017314008,
+     "name": "Research",
+     "child_ids": [],
+     "parent_id": null
+    }
+   ],
+   "offices": [
+    {
+     "id": 4013455008,
+     "name": "NYC",
+     "location": "New York City",
+     "child_ids": [],
+     "parent_id": null
+    }
+   ],
+   "ai_disclaimer": null,
+   "include_ai_disclaimer": null,
+   "ai_opt_out_request_url": null
+  }
+ ],
+ "meta": {
+  "total": 6
+ }
+}

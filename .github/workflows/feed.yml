@@ -1,0 +1,38 @@
+name: weekly feed
+
+on:
+  schedule:
+    # Mondays 10:00 UTC (06:00 New York during daylight time, 05:00 in winter).
+    - cron: "0 10 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed
+  cancel-in-progress: false
+
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install -e ".[dev]"
+      - name: Tests
+        run: pytest -q
+      - name: Run feed
+        run: python -m arrowhead_feed run
+      - name: Commit feed output
+        run: |
+          git config user.name "arrowhead-feed"
+          git config user.email "arrowhead-feed@users.noreply.github.com"
+          git add feed data/seen.json
+          git diff --cached --quiet || git commit -m "feed: $(date -u +%F)"
+          git push
+      - name: Fail if any board errored
+        run: python -m arrowhead_feed check-errors
