@@ -120,12 +120,18 @@ def write_outputs(result: RunResult, out_dir: Path | None = None, today: date | 
     today = today or date.today()
     manual_watch = manual_watch if manual_watch is not None else config.load_manual_watch()
     stem = today.isoformat()
+    # Feed files are never rewritten. A second run on the same day gets a suffix.
+    n = 1
+    while (out_dir / f"{stem}.json").exists() or (out_dir / f"{stem}.md").exists():
+        n += 1
+        stem = f"{today.isoformat()}-run{n}"
     jpath = out_dir / f"{stem}.json"
     mpath = out_dir / f"{stem}.md"
 
     payload = {
         "run_at": result.run_at,
-        "date": stem,
+        "date": today.isoformat(),
+        "file_stem": stem,
         "companies_fetched": len(result.counts),
         "postings_fetched": sum(result.counts.values()),
         "counts": result.counts,

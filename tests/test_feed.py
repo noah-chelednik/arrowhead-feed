@@ -65,3 +65,14 @@ def test_include_if_filter():
     yes = Posting(key="a", company="H", tier=2, title="Ops", url="", location="NYC", remote=False, department="HAI Delivery Ops")
     no = Posting(key="b", company="H", tier=2, title="Ops", url="", location="NYC", remote=False, department="Sales")
     assert feed._include(c, yes) and not feed._include(c, no)
+
+
+def test_write_outputs_never_overwrites(tmp_path):
+    from datetime import date
+    from arrowhead_feed.feed import RunResult, write_outputs
+    r = RunResult(run_at="2026-10-05T00:00:00+00:00")
+    d = date(2026, 10, 5)
+    j1, m1 = write_outputs(r, out_dir=tmp_path, today=d, manual_watch=[])
+    j2, m2 = write_outputs(r, out_dir=tmp_path, today=d, manual_watch=[])
+    assert j1.name == "2026-10-05.json" and j2.name == "2026-10-05-run2.json"
+    assert j1.exists() and j2.exists() and m1.exists() and m2.exists()
