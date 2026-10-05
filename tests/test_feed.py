@@ -76,3 +76,15 @@ def test_write_outputs_never_overwrites(tmp_path):
     j2, m2 = write_outputs(r, out_dir=tmp_path, today=d, manual_watch=[])
     assert j1.name == "2026-10-05.json" and j2.name == "2026-10-05-run2.json"
     assert j1.exists() and j2.exists() and m1.exists() and m2.exists()
+
+
+def test_write_outputs_updates_latest(tmp_path):
+    import json
+    from datetime import date
+    from arrowhead_feed.feed import RunResult, write_outputs
+    r = RunResult(run_at="2026-10-05T00:00:00+00:00")
+    write_outputs(r, out_dir=tmp_path, today=date(2026, 10, 5), manual_watch=[])
+    write_outputs(r, out_dir=tmp_path, today=date(2026, 10, 12), manual_watch=[])
+    latest = json.loads((tmp_path / "latest.json").read_text())
+    assert latest["date"] == "2026-10-12" and latest["file_stem"] == "2026-10-12"
+    assert (tmp_path / "latest.md").exists()

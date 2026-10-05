@@ -141,11 +141,17 @@ def write_outputs(result: RunResult, out_dir: Path | None = None, today: date | 
         "new_near_misses": [m.to_dict() for m in result.new_near_misses],
         "manual_watch": manual_watch,
     }
+    text_json = json.dumps(payload, indent=1, ensure_ascii=False) + "\n"
+    text_md = render_markdown(payload)
     with open(jpath, "w", encoding="utf-8") as f:
-        json.dump(payload, f, indent=1, ensure_ascii=False)
-        f.write("\n")
+        f.write(text_json)
     with open(mpath, "w", encoding="utf-8") as f:
-        f.write(render_markdown(payload))
+        f.write(text_md)
+    # latest.json and latest.md are stable-address copies of the newest run so a
+    # reader can fetch one fixed URL. They are the only files in feed/ that get
+    # overwritten.
+    (out_dir / "latest.json").write_text(text_json, encoding="utf-8")
+    (out_dir / "latest.md").write_text(text_md, encoding="utf-8")
     return jpath, mpath
 
 

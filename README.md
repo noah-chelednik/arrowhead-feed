@@ -1,6 +1,6 @@
 # arrowhead-feed
 
-A deterministic weekly job feed. Every Monday it reads the public job lists of about 140 hiring boards (frontier AI labs, their evaluation and human-data vendors, applied-AI companies, trust-and-safety teams, policy shops), matches each posting against a set of role families and a location rule, drops anything already reported, and writes the new matches to `feed/<date>.md` and `.json`.
+A deterministic weekly job feed. Every Monday it reads the public job lists of about 140 hiring boards (frontier AI labs, their evaluation and human-data vendors, applied-AI companies, trust-and-safety teams, policy shops), matches each posting against a set of role families and a location rule, drops anything already reported, and writes the new matches to `feed/<date>.md` and `.json`, with stable copies at `feed/latest.md` and `feed/latest.json`.
 
 No LLM is involved in finding. The feed informs; a person decides.
 

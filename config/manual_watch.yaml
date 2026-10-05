@@ -54,11 +54,11 @@
 - {name: Kensho (S&P Global), tier: 3, careers_url: "https://careers.spglobal.com", notes: "Custom JSON at docs.kensho.com/api/jobs; Cambridge MA and NYC. v2 fetcher candidate."}
 - {name: Etsy, tier: 3, careers_url: "https://careers.etsy.com/jobs/search"}
 - {name: Capital One (NYC AI), tier: 3, careers_url: "https://capitalone.wd12.myworkdayjobs.com/Capital_One"}
-- {name: Booz Allen Hamilton, tier: 6, careers_url: "https://bah.wd1.myworkdayjobs.com/BAH_Jobs", notes: "Parked with the government lane."}
+- {name: Booz Allen Hamilton, tier: 6, careers_url: "https://bah.wd1.myworkdayjobs.com/BAH_Jobs"}
 - {name: Grammarly (Superhuman), tier: 3, careers_url: "https://superhuman.com/company/careers/jobs"}
 - {name: Luminance, tier: 3, careers_url: "https://www.luminance.com/careers.html", notes: "NYC roles apply by email."}
 - {name: Washington Post, tier: 7, careers_url: "https://www.washingtonpost.com/careers/"}
 - {name: Politico, tier: 7, careers_url: "https://www.politico.com/careers"}
 - {name: MIT Technology Review, tier: 7, careers_url: "https://www.technologyreview.com/careers"}
 - {name: "80,000 Hours job board (aggregator)", tier: 9, careers_url: "https://jobs.80000hours.org/", notes: "Covers much of tier 6 and 2 in one place."}
-- {name: "USAJOBS (government lane, parked)", tier: 6, careers_url: "https://www.usajobs.gov/", notes: "Has a public API; add a fetcher if Lane E reopens."}
+- {name: USAJOBS, tier: 6, careers_url: "https://www.usajobs.gov/", notes: "Has a public API; version 2 fetcher candidate."}
