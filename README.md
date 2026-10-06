@@ -1,6 +1,6 @@
 # arrowhead-feed
 
-A deterministic weekly job feed. Every Monday it reads the public job lists of about 140 hiring boards (frontier AI labs, their evaluation and human-data vendors, applied-AI companies, trust-and-safety teams, policy shops), matches each posting against a set of role families and a location rule, drops anything already reported, and writes the new matches to `feed/<date>.md` and `.json`, with stable copies at `feed/latest.md` and `feed/latest.json`.
+A deterministic daily job feed. Every morning it reads the public job lists of about 140 hiring boards (frontier AI labs, their evaluation and human-data vendors, applied-AI companies, trust-and-safety teams, policy shops), matches each posting against a set of role families and a location rule, drops anything already reported, and writes the new matches to `feed/<date>.md` and `.json`, with stable copies at `feed/latest.md` and `feed/latest.json`.
 
 No LLM is involved in finding. The feed informs; a person decides.
 
@@ -25,7 +25,7 @@ See `CLAUDE.md` for the other commands and the conventions.
 
 ## Schedule
 
-`.github/workflows/feed.yml` runs every Monday at 10:00 UTC, commits the output, and then fails the job if any board could not be read, so a broken fetcher is visible in the Actions tab.
+`.github/workflows/feed.yml` runs every day at 10:00 UTC, commits the output, and then fails the job if any board could not be read, so a broken fetcher is visible in the Actions tab.
 
 ## Verified universe
 

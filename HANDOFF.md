@@ -4,7 +4,7 @@ Operational notes for anyone, or any Claude session, picking this repository up 
 
 ## What this is
 
-A deterministic weekly job feed. Every Monday it reads the public job lists of about 140 hiring boards, matches each posting against role families and a location rule, drops anything already reported, and writes the new matches to `feed/<date>.json` and `.md`, plus stable copies at `feed/latest.json` and `feed/latest.md`.
+A deterministic daily job feed. Every morning it reads the public job lists of about 140 hiring boards, matches each posting against role families and a location rule, drops anything already reported, and writes the new matches to `feed/<date>.json` and `.md`, plus stable copies at `feed/latest.json` and `feed/latest.md`.
 
 No LLM is involved in finding. The feed informs; a person decides. Nothing here submits an application, logs into a site, or scrapes a site that forbids automation.
 
@@ -28,7 +28,7 @@ Readers that need the newest run fetch one of these fixed URLs rather than the p
 - `arrowhead_feed/feed.py`: the run, dedupe against `data/seen.json`, output.
 - `data/seen.json`: every posting key already reported. The baseline run of 2026-10-05 (15,993 postings, 138 boards, 0 errors) is recorded, so later runs report only what is new.
 - `feed/`: one dated JSON and Markdown pair per run, never rewritten; a second run on the same day gets a `-run2` suffix. `latest.*` are the only files that get overwritten.
-- `.github/workflows/feed.yml`: Monday 10:00 UTC plus manual dispatch. Installs, tests, runs, commits `feed/` and `data/seen.json`, then fails the job if any board errored.
+- `.github/workflows/feed.yml`: daily 10:00 UTC plus manual dispatch. Installs, tests, runs, commits `feed/` and `data/seen.json`, then fails the job if any board errored.
 - `tests/`: fixture-based fetcher tests, rule tests, feed tests. 19 tests.
 
 ## Run and extend
@@ -39,7 +39,7 @@ pytest -q
 python -m arrowhead_feed doctor             # fetch every enabled board, print counts
 python -m arrowhead_feed preview "Surge AI"  # one board, no side effects
 python -m arrowhead_feed run --dry-run       # full run, seen.json untouched
-python -m arrowhead_feed run                 # the Monday run
+python -m arrowhead_feed run                 # the daily run
 python -m arrowhead_feed check-errors        # exit 1 if the latest feed has fetch errors
 ```
 

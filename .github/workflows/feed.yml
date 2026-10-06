@@ -3,7 +3,7 @@ name: weekly feed
 on:
   schedule:
     # Mondays 10:00 UTC (06:00 New York during daylight time, 05:00 in winter).
-    - cron: "0 10 * * 1"
+    - cron: "0 10 * * *"
   workflow_dispatch:
 
 permissions:

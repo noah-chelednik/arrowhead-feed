@@ -28,7 +28,7 @@ This repository is the finding layer of Arrowhead III, Noah Chelednik's job-sear
 - `arrowhead_feed/rules.py` families, exclusions, flags, location classes
 - `arrowhead_feed/feed.py` the run, dedupe and output
 - `arrowhead_feed/cli.py` commands
-- `.github/workflows/feed.yml` Monday cron; commits output, then fails the job if any board errored
+- `.github/workflows/feed.yml` daily cron (10:00 UTC); commits output, then fails the job if any board errored
 
 ## Version 2 candidates (in order)
 
