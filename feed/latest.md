@@ -1,57 +1,18 @@
-# Arrowhead feed, 2026-10-10
+# Arrowhead feed, 2026-10-11
 
-Run at 2026-10-10T15:37:41+00:00. Fetched 16054 postings from 138 boards. New this week: 5 primary, 17 secondary, 11 near misses.
+Run at 2026-10-11T16:01:28+00:00. Fetched 16052 postings from 138 boards. New this week: 0 primary, 0 secondary, 0 near misses.
 
 ## New primary matches (family in title, in range)
 
-
-### Tier 1: Frontier lab
-
-- **Anthropic** (T1): [Conceptual Reasoning Fellow](https://job-boards.greenhouse.io/anthropic/jobs/5447080008) | Remote-Friendly, United States; San Francisco, CA | San Francisco, CA | early_career
-
-### Tier 3: Applied AI / corridor employer
-
-- **Databricks** (T3): [Product Design New Grad (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002) | San Francisco, California; Seattle, Washington | early_career
-- **Rogo** (T3): [Deployment Associate, NYC](https://jobs.ashbyhq.com/rogo/40165ff0-e95f-4c84-841b-b2a27b4cbe17) | New York City | $95K - $100K | early_career
-- **Rogo** (T3): [GTM Associate, NYC](https://jobs.ashbyhq.com/rogo/ad474865-314d-4c04-85ca-5c460f96dc39) | New York City | $95K - $100K | early_career
-
-### Tier 5: Trust and safety / platform
-
-- **Pinterest** (T5): [Sr. Manager, Policy Communications](https://www.pinterestcareers.com/jobs/?gh_jid=8238682) | New York, NY, US; Los Angeles, CA, US; District of Columbia, Washington, US | Washington D.C. | policy | flags: sr , sr., manager
+None.
 
 ## New secondary matches (family only in the description)
 
-- **Anthropic** (T1): [Cybersecurity Sales Specialist](https://job-boards.greenhouse.io/anthropic/jobs/5449091008) | New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA; Washington, DC | San Francisco, CA | trust_safety
-- **Anthropic** (T1): [Data Engineer, Product](https://job-boards.greenhouse.io/anthropic/jobs/5448481008) | San Francisco, CA | New York City, NY | Seattle, WA | San Francisco, CA | trust_safety
-- **Liquid AI** (T1): [Strategic Business Development, Life Sciences](https://jobs.ashbyhq.com/liquid-ai/a4acca38-93f7-4b4d-8395-6e97a639a755) | Boston | evaluation
-- **Reflection AI** (T1): [Senior Talent Operations Specialist](https://jobs.ashbyhq.com/reflectionai/80bfe997-c518-4a6f-90c3-7131dad34666) | San Francisco, CA | New York, NY | human_data | flags: senior
-- **xAI** (T1): [Infrastructure Security Engineer (Bare Metal & Platform)](https://job-boards.greenhouse.io/xai/jobs/5262880007) |  Palo Alto, CA; Austin, TX; New York, NY; Seattle, WA | Austin, TX | New York, NY | Palo Alto, CA | Seattle, WA | evaluation
-- **Handshake AI** (T2): [Member of Technical Staff, Coding Agents](https://jobs.ashbyhq.com/handshake/fb47a304-2ea1-4971-81cd-5183619f9a81) | San Francisco, CA | Remote (USA) | New York, NY | Mountain View, CA | $270K - $350K | evaluation, human_data | flags: staff
-- **Scale AI** (T2): [Senior Software Engineer, Identity](https://job-boards.greenhouse.io/scaleai/jobs/4711898005) | San Francisco, CA; New York, NY; Washington, DC | San Francisco, CA | evaluation, human_data | flags: senior
-- **Cresta** (T3): [Enterprise Solutions Engineer ](https://job-boards.greenhouse.io/cresta/jobs/5437843008) | United States (Remote) | US (Remote) | solutions
-- **Databricks** (T3): [Specialist Solutions Architect - AWS Infrastructure & AI Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=8739506002) | United States | Remote - California | solutions | flags: architect
-- **Databricks** (T3): [Specialist Solutions Architect - Azure Infrastructure & AI Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=8739507002) | United States | Remote - California | solutions | flags: architect
-- **Datadog** (T3): [Senior Network Engineer, Office Technology](https://careers.datadoghq.com/detail/8267561/?gh_jid=8267561) | New York, New York, USA | New York | {'unit': None, 'max_value': '165000.0', 'min_value': '132000.0'} | evaluation | flags: senior
-- **Fireworks AI** (T3): [Member of Technical Staff, LLM Infrastructure](https://jobs.ashbyhq.com/fireworks/82013447-2713-46ca-aab1-b0a34f7b565a) | San Mateo | Greater Seattle Area | New York | $175K - $220K | evaluation, trust_safety | flags: staff
-- **Harvey** (T3): [Incident Handler](https://jobs.ashbyhq.com/harvey/7046c0a2-6fd0-47e1-a6b3-e340a2db8885) | New York | $133.6K - $200.4K | evaluation
-- **Notion** (T3): [Global Demo Engineer](https://jobs.ashbyhq.com/notion/57b88701-42ce-4c7d-901d-bf65a6256ebc) | San Francisco, California | New York, New York | evaluation
-- **OpenRouter** (T3): [Site Reliability Engineer, Provider Operations ](https://jobs.ashbyhq.com/openrouter/78fc4670-5ba0-4146-b8b1-1ef4d91b96f1) | Remote (US) | evaluation
-- **Runway** (T3): [Senior HR Generalist](https://jobs.ashbyhq.com/runway-ml/09021655-a511-47c6-8132-edd77a5ee86c) | Remote | New York, NY | San Francisco, CA | $150K - $200K | trust_safety | flags: senior
-- **Shield AI** (T3): [Engineer I, Software Test and Automation (R6216)](https://jobs.lever.co/shieldai/d80f9bad-a014-475a-a018-a676eb6fbad7) | Washington, D.C. | San Diego, California | USD 74,000-110,000 per-year-salary | evaluation
+None.
 
 ## Near misses (logged so the rules can be tuned)
 
-- **Liquid AI** (T1): [Developer Relations](https://jobs.ashbyhq.com/liquid-ai/a385c0a8-1a4b-4c82-86d5-47a553d9c237) | San Francisco | writing
-- **Epoch AI** (T2): [AI Enablement Manager](https://jobs.lever.co/epoch-ai/1d8d2e53-1ee7-492e-8f02-f8b52ef19cca) | Remote |  | flags: manager
-- **Deepgram** (T3): [Staff Product Manager, AI Applications](https://jobs.ashbyhq.com/deepgram/9762d2a1-3d07-4e65-a0bb-6ed8162ca7d5) | USA - Remote | $200K - $268K |  | flags: staff, manager
-- **MongoDB** (T3): [Associate Technical Services Engineer II](https://www.mongodb.com/careers/job/?gh_jid=8234520) | Toronto | early_career
-- **Runway** (T3): [Copywriter, Product Marketing](https://jobs.ashbyhq.com/runway-ml/386d468e-2a49-4901-877d-d2bf6b33abd1) | Remote | Seattle, WA | New York, NY | San Francisco, CA | $130K - $200K | 
-- **Shield AI** (T3): [Senior Staff Engineer, Supply Chain (R6213)](https://jobs.lever.co/shieldai/f474b201-695e-48b2-b23a-52a43c49d6ae) | Seattle, Washington | USD 210,000-310,000 per-year-salary |  | flags: senior, staff
-- **Shield AI** (T3): [Senior Trade Compliance Specialist (R6250)](https://jobs.lever.co/shieldai/1b8bf848-b6b2-4cb8-a05a-147a40625d5f) | Dallas, Texas | Seattle, Washington | USD 81,000-140,000 per-year-salary |  | flags: senior
-- **Shield AI** (T3): [Staff Engineer, Supply Chain (R6215)](https://jobs.lever.co/shieldai/8d1b42ea-aad3-482a-bef2-86e2401d1652) | Seattle, Washington | USD 170,000-260,000 per-year-salary |  | flags: staff
-- **Shield AI** (T3): [Technical Program Manager - Finance Technology (R6186)](https://jobs.lever.co/shieldai/0f1cc0d6-9745-4a44-b667-3dc3d717dbe5) | San Diego, California | USD 120,000-190,000 per-year-salary | ai_ops | flags: manager
-- **Vercel** (T3): [Integrated Campaigns Manager](https://job-boards.greenhouse.io/vercel/jobs/6119765004) | Hybrid - San Francisco, New York City, Austin | Office - New York City | Office - San Francisco |  | flags: manager
-- **Twitch** (T5): [Senior Trust and Safety Operations Analyst](https://job-boards.greenhouse.io/twitch/jobs/8596758002) | Sydney, Australia | trust_safety | flags: senior
+None.
 
 ## Manual watch (no public feed; check by hand)
 

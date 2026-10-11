@@ -1,9 +1,9 @@
 {
- "run_at": "2026-10-10T15:37:41+00:00",
- "date": "2026-10-10",
- "file_stem": "2026-10-10",
+ "run_at": "2026-10-11T16:01:28+00:00",
+ "date": "2026-10-11",
+ "file_stem": "2026-10-11",
  "companies_fetched": 138,
- "postings_fetched": 16054,
+ "postings_fetched": 16052,
  "counts": {
   "Anthropic": 645,
   "OpenAI": 815,
@@ -18,7 +18,7 @@
   "AI2 (Allen Institute for AI)": 16,
   "Normal Computing": 18,
   "Reka": 9,
-  "Scale AI": 183,
+  "Scale AI": 182,
   "Surge AI": 28,
   "Mercor": 117,
   "Handshake AI": 90,
@@ -38,12 +38,12 @@
   "Patronus AI": 7,
   "Braintrust": 27,
   "Vals AI": 7,
-  "LMArena": 19,
+  "LMArena": 21,
   "HiddenLayer": 15,
   "Epoch AI": 9,
   "FAR.AI": 16,
   "Elicit": 10,
-  "Center for AI Safety": 12,
+  "Center for AI Safety": 11,
   "Welocalize": 528,
   "Perplexity": 132,
   "Harvey": 350,
@@ -62,7 +62,7 @@
   "Writer": 51,
   "Glean": 131,
   "Runway": 48,
-  "ElevenLabs": 124,
+  "ElevenLabs": 125,
   "Midjourney": 17,
   "Character.AI": 13,
   "Cognition": 102,
@@ -73,7 +73,7 @@
   "Vercel": 89,
   "Hex": 39,
   "Abridge": 46,
-  "Deepgram": 92,
+  "Deepgram": 94,
   "AssemblyAI": 9,
   "Hume AI": 5,
   "Suno": 73,
@@ -89,14 +89,14 @@
   "Shield AI": 616,
   "Anduril": 2491,
   "Datadog": 435,
-  "MongoDB": 392,
+  "MongoDB": 391,
   "Databricks": 892,
-  "CoreWeave (incl. Weights & Biases)": 312,
+  "CoreWeave (incl. Weights & Biases)": 311,
   "Elastic": 409,
-  "LangChain": 103,
+  "LangChain": 102,
   "Together AI": 80,
   "Fireworks AI": 85,
-  "Baseten": 110,
+  "Baseten": 109,
   "Modal": 41,
   "Arize AI": 24,
   "Comet": 3,
@@ -140,671 +140,14 @@
   "Schmidt Sciences": 18,
   "Coefficient Giving (formerly Open Philanthropy)": 1,
   "SecureBio": 2,
-  "Wikimedia Foundation": 12,
+  "Wikimedia Foundation": 11,
   "ITHAKA (JSTOR)": 1,
   "BlueDot Impact": 3
  },
  "errors": {},
- "new_primary": [
-  {
-   "key": "greenhouse:anthropic:5447080008",
-   "company": "Anthropic",
-   "tier": 1,
-   "title": "Conceptual Reasoning Fellow",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447080008",
-   "location": "Remote-Friendly, United States; San Francisco, CA | San Francisco, CA",
-   "remote": true,
-   "department": "AI Research & Engineering",
-   "pay": "",
-   "posted": "2026-10-09",
-   "families": [
-    "early_career"
-   ],
-   "secondary": [],
-   "location_class": "remote_us",
-   "seniority_flags": [],
-   "excluded_by": null
-  },
-  {
-   "key": "greenhouse:databricks:8843577002",
-   "company": "Databricks",
-   "tier": 3,
-   "title": "Product Design New Grad (2027 Start)",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002",
-   "location": "San Francisco, California; Seattle, Washington",
-   "remote": false,
-   "department": "University Recruiting - Product",
-   "pay": "",
-   "posted": "2026-10-09",
-   "families": [
-    "early_career"
-   ],
-   "secondary": [],
-   "location_class": "corridor",
-   "seniority_flags": [],
-   "excluded_by": null
-  },
-  {
-   "key": "ashby:rogo:40165ff0-e95f-4c84-841b-b2a27b4cbe17",
-   "company": "Rogo",
-   "tier": 3,
-   "title": "Deployment Associate, NYC",
-   "url": "https://jobs.ashbyhq.com/rogo/40165ff0-e95f-4c84-841b-b2a27b4cbe17",
-   "location": "New York City",
-   "remote": false,
-   "department": "GTM, GTM",
-   "pay": "$95K - $100K",
-   "posted": "2026-10-09",
-   "families": [
-    "early_career"
-   ],
-   "secondary": [],
-   "location_class": "corridor",
-   "seniority_flags": [],
-   "excluded_by": null
-  },
-  {
-   "key": "ashby:rogo:ad474865-314d-4c04-85ca-5c460f96dc39",
-   "company": "Rogo",
-   "tier": 3,
-   "title": "GTM Associate, NYC",
-   "url": "https://jobs.ashbyhq.com/rogo/ad474865-314d-4c04-85ca-5c460f96dc39",
-   "location": "New York City",
-   "remote": false,
-   "department": "GTM, GTM",
-   "pay": "$95K - $100K",
-   "posted": "2026-10-09",
-   "families": [
-    "early_career"
-   ],
-   "secondary": [],
-   "location_class": "corridor",
-   "seniority_flags": [],
-   "excluded_by": null
-  },
-  {
-   "key": "greenhouse:pinterest:8238682",
-   "company": "Pinterest",
-   "tier": 5,
-   "title": "Sr. Manager, Policy Communications",
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8238682",
-   "location": "New York, NY, US; Los Angeles, CA, US; District of Columbia, Washington, US | Washington D.C.",
-   "remote": false,
-   "department": "Communications",
-   "pay": "",
-   "posted": "2026-10-09",
-   "families": [
-    "policy"
-   ],
-   "secondary": [],
-   "location_class": "corridor",
-   "seniority_flags": [
-    "sr ",
-    "sr.",
-    "manager"
-   ],
-   "excluded_by": null
-  }
- ],
- "new_secondary": [
-  {
-   "key": "greenhouse:anthropic:5449091008",
-   "company": "Anthropic",
-   "tier": 1,
-   "title": "Cybersecurity Sales Specialist",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449091008",
-   "location": "New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA; Washington, DC | San Francisco, CA",
-   "remote": false,
-   "department": "Sales",
-   "pay": "",
-   "posted": "2026-10-09",
-   "families": [],
-   "secondary": [
-    "trust_safety"
-   ],
-   "location_class": "corridor",
-   "seniority_flags": [],
-   "excluded_by": null
-  },
-  {
-   "key": "greenhouse:anthropic:5448481008",
-   "company": "Anthropic",
-   "tier": 1,
-   "title": "Data Engineer, Product",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448481008",
-   "location": "San Francisco, CA | New York City, NY | Seattle, WA | San Francisco, CA",
-   "remote": false,
-   "department": "Data Science & Analytics",
-   "pay": "",
-   "posted": "2026-10-09",
-   "families": [],
-   "secondary": [
-    "trust_safety"
-   ],
-   "location_class": "corridor",
-   "seniority_flags": [],
-   "excluded_by": null
-  },
-  {
-   "key": "ashby:liquid-ai:a4acca38-93f7-4b4d-8395-6e97a639a755",
-   "company": "Liquid AI",
-   "tier": 1,
-   "title": "Strategic Business Development, Life Sciences",
-   "url": "https://jobs.ashbyhq.com/liquid-ai/a4acca38-93f7-4b4d-8395-6e97a639a755",
-   "location": "Boston",
-   "remote": true,
-   "department": "GTM and Partnerships, GTM and Partnerships",
-   "pay": "",
-   "posted": "2026-10-10",
-   "families": [],
-   "secondary": [
-    "evaluation"
-   ],
-   "location_class": "corridor",
-   "seniority_flags": [],
-   "excluded_by": null
-  },
-  {
-   "key": "ashby:reflectionai:80bfe997-c518-4a6f-90c3-7131dad34666",
-   "company": "Reflection AI",
-   "tier": 1,
-   "title": "Senior Talent Operations Specialist",
-   "url": "https://jobs.ashbyhq.com/reflectionai/80bfe997-c518-4a6f-90c3-7131dad34666",
-   "location": "San Francisco, CA | New York, NY",
-   "remote": false,
-   "department": "People, Talent Acquisition",
-   "pay": "",
-   "posted": "2026-10-09",
-   "families": [],
-   "secondary": [
-    "human_data"
-   ],
-   "location_class": "corridor",
-   "seniority_flags": [
-    "senior"
-   ],
-   "excluded_by": null
-  },
-  {
-   "key": "greenhouse:xai:5262880007",
-   "company": "xAI",
-   "tier": 1,
-   "title": "Infrastructure Security Engineer (Bare Metal & Platform)",
-   "url": "https://job-boards.greenhouse.io/xai/jobs/5262880007",
-   "location": " Palo Alto, CA; Austin, TX; New York, NY; Seattle, WA | Austin, TX | New York, NY | Palo Alto, CA | Seattle, WA",
-   "remote": false,
-   "department": "Information Security",
-   "pay": "",
-   "posted": "2026-10-09",
-   "families": [],
-   "secondary": [
-    "evaluation"
-   ],
-   "location_class": "corridor",
-   "seniority_flags": [],
-   "excluded_by": null
-  },
-  {
-   "key": "ashby:handshake:fb47a304-2ea1-4971-81cd-5183619f9a81",
-   "company": "Handshake AI",
-   "tier": 2,
-   "title": "Member of Technical Staff, Coding Agents",
-   "url": "https://jobs.ashbyhq.com/handshake/fb47a304-2ea1-4971-81cd-5183619f9a81",
-   "location": "San Francisco, CA | Remote (USA) | New York, NY | Mountain View, CA",
-   "remote": true,
-   "department": "HAI Research, HAI Research",
-   "pay": "$270K - $350K",
-   "posted": "2026-10-09",
-   "families": [],
-   "secondary": [
-    "evaluation",
-    "human_data"
-   ],
-   "location_class": "corridor",
-   "seniority_flags": [
-    "staff"
-   ],
-   "excluded_by": null
-  },
-  {
-   "key": "greenhouse:scaleai:4711898005",
-   "company": "Scale AI",
-   "tier": 2,
-   "title": "Senior Software Engineer, Identity",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4711898005",
-   "location": "San Francisco, CA; New York, NY; Washington, DC | San Francisco, CA",
-   "remote": false,
-   "department": "Horizontals EPD",
-   "pay": "",
-   "posted": "2026-07-08",
-   "families": [],
-   "secondary": [
-    "evaluation",
-    "human_data"
-   ],
-   "location_class": "corridor",
-   "seniority_flags": [
-    "senior"
-   ],
-   "excluded_by": null
-  },
-  {
-   "key": "greenhouse:cresta:5437843008",
-   "company": "Cresta",
-   "tier": 3,
-   "title": "Enterprise Solutions Engineer ",
-   "url": "https://job-boards.greenhouse.io/cresta/jobs/5437843008",
-   "location": "United States (Remote) | US (Remote)",
-   "remote": true,
-   "department": "Sales",
-   "pay": "",
-   "posted": "2026-10-09",
-   "families": [],
-   "secondary": [
-    "solutions"
-   ],
-   "location_class": "remote_us",
-   "seniority_flags": [],
-   "excluded_by": null
-  },
-  {
-   "key": "greenhouse:databricks:8739506002",
-   "company": "Databricks",
-   "tier": 3,
-   "title": "Specialist Solutions Architect - AWS Infrastructure & AI Platform",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739506002",
-   "location": "United States | Remote - California",
-   "remote": true,
-   "department": "Field Engineering - FE Direct Regulated",
-   "pay": "",
-   "posted": "2026-08-21",
-   "families": [],
-   "secondary": [
-    "solutions"
-   ],
-   "location_class": "remote_us",
-   "seniority_flags": [
-    "architect"
-   ],
-   "excluded_by": null
-  },
-  {
-   "key": "greenhouse:databricks:8739507002",
-   "company": "Databricks",
-   "tier": 3,
-   "title": "Specialist Solutions Architect - Azure Infrastructure & AI Platform",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739507002",
-   "location": "United States | Remote - California",
-   "remote": true,
-   "department": "Field Engineering - FE Direct Regulated",
-   "pay": "",
-   "posted": "2026-08-21",
-   "families": [],
-   "secondary": [
-    "solutions"
-   ],
-   "location_class": "remote_us",
-   "seniority_flags": [
-    "architect"
-   ],
-   "excluded_by": null
-  },
-  {
-   "key": "greenhouse:datadog:8267561",
-   "company": "Datadog",
-   "tier": 3,
-   "title": "Senior Network Engineer, Office Technology",
-   "url": "https://careers.datadoghq.com/detail/8267561/?gh_jid=8267561",
-   "location": "New York, New York, USA | New York",
-   "remote": false,
-   "department": "Enterprise Technology",
-   "pay": "{'unit': None, 'max_value': '165000.0', 'min_value': '132000.0'}",
-   "posted": "2026-10-09",
-   "families": [],
-   "secondary": [
-    "evaluation"
-   ],
-   "location_class": "corridor",
-   "seniority_flags": [
-    "senior"
-   ],
-   "excluded_by": null
-  },
-  {
-   "key": "ashby:fireworks:82013447-2713-46ca-aab1-b0a34f7b565a",
-   "company": "Fireworks AI",
-   "tier": 3,
-   "title": "Member of Technical Staff, LLM Infrastructure",
-   "url": "https://jobs.ashbyhq.com/fireworks/82013447-2713-46ca-aab1-b0a34f7b565a",
-   "location": "San Mateo | Greater Seattle Area | New York",
-   "remote": true,
-   "department": "Engineering, Infrastructure",
-   "pay": "$175K - $220K",
-   "posted": "2025-11-05",
-   "families": [],
-   "secondary": [
-    "evaluation",
-    "trust_safety"
-   ],
-   "location_class": "corridor",
-   "seniority_flags": [
-    "staff"
-   ],
-   "excluded_by": null
-  },
-  {
-   "key": "ashby:harvey:7046c0a2-6fd0-47e1-a6b3-e340a2db8885",
-   "company": "Harvey",
-   "tier": 3,
-   "title": "Incident Handler",
-   "url": "https://jobs.ashbyhq.com/harvey/7046c0a2-6fd0-47e1-a6b3-e340a2db8885",
-   "location": "New York",
-   "remote": false,
-   "department": "Security, Security",
-   "pay": "$133.6K - $200.4K",
-   "posted": "2026-10-09",
-   "families": [],
-   "secondary": [
-    "evaluation"
-   ],
-   "location_class": "corridor",
-   "seniority_flags": [],
-   "excluded_by": null
-  },
-  {
-   "key": "ashby:notion:57b88701-42ce-4c7d-901d-bf65a6256ebc",
-   "company": "Notion",
-   "tier": 3,
-   "title": "Global Demo Engineer",
-   "url": "https://jobs.ashbyhq.com/notion/57b88701-42ce-4c7d-901d-bf65a6256ebc",
-   "location": "San Francisco, California | New York, New York",
-   "remote": true,
-   "department": "Sales, Sales",
-   "pay": "",
-   "posted": "2026-10-09",
-   "families": [],
-   "secondary": [
-    "evaluation"
-   ],
-   "location_class": "corridor",
-   "seniority_flags": [],
-   "excluded_by": null
-  },
-  {
-   "key": "ashby:openrouter:78fc4670-5ba0-4146-b8b1-1ef4d91b96f1",
-   "company": "OpenRouter",
-   "tier": 3,
-   "title": "Site Reliability Engineer, Provider Operations ",
-   "url": "https://jobs.ashbyhq.com/openrouter/78fc4670-5ba0-4146-b8b1-1ef4d91b96f1",
-   "location": "Remote (US)",
-   "remote": true,
-   "department": "Engineering, Engineering",
-   "pay": "",
-   "posted": "2026-10-09",
-   "families": [],
-   "secondary": [
-    "evaluation"
-   ],
-   "location_class": "remote_us",
-   "seniority_flags": [],
-   "excluded_by": null
-  },
-  {
-   "key": "ashby:runway-ml:09021655-a511-47c6-8132-edd77a5ee86c",
-   "company": "Runway",
-   "tier": 3,
-   "title": "Senior HR Generalist",
-   "url": "https://jobs.ashbyhq.com/runway-ml/09021655-a511-47c6-8132-edd77a5ee86c",
-   "location": "Remote | New York, NY | San Francisco, CA",
-   "remote": true,
-   "department": "People, People",
-   "pay": "$150K - $200K",
-   "posted": "2026-10-09",
-   "families": [],
-   "secondary": [
-    "trust_safety"
-   ],
-   "location_class": "corridor",
-   "seniority_flags": [
-    "senior"
-   ],
-   "excluded_by": null
-  },
-  {
-   "key": "lever:shieldai:d80f9bad-a014-475a-a018-a676eb6fbad7",
-   "company": "Shield AI",
-   "tier": 3,
-   "title": "Engineer I, Software Test and Automation (R6216)",
-   "url": "https://jobs.lever.co/shieldai/d80f9bad-a014-475a-a018-a676eb6fbad7",
-   "location": "Washington, D.C. | San Diego, California",
-   "remote": false,
-   "department": "Integration & Test",
-   "pay": "USD 74,000-110,000 per-year-salary",
-   "posted": "2026-10-10",
-   "families": [],
-   "secondary": [
-    "evaluation"
-   ],
-   "location_class": "corridor",
-   "seniority_flags": [],
-   "excluded_by": null
-  }
- ],
- "new_near_misses": [
-  {
-   "key": "ashby:liquid-ai:a385c0a8-1a4b-4c82-86d5-47a553d9c237",
-   "company": "Liquid AI",
-   "tier": 1,
-   "title": "Developer Relations",
-   "url": "https://jobs.ashbyhq.com/liquid-ai/a385c0a8-1a4b-4c82-86d5-47a553d9c237",
-   "location": "San Francisco",
-   "remote": true,
-   "department": "Marketing, Marketing",
-   "pay": "",
-   "posted": "2026-10-10",
-   "families": [
-    "writing"
-   ],
-   "secondary": [],
-   "location_class": "exception",
-   "seniority_flags": [],
-   "excluded_by": null
-  },
-  {
-   "key": "lever:epoch-ai:1d8d2e53-1ee7-492e-8f02-f8b52ef19cca",
-   "company": "Epoch AI",
-   "tier": 2,
-   "title": "AI Enablement Manager",
-   "url": "https://jobs.lever.co/epoch-ai/1d8d2e53-1ee7-492e-8f02-f8b52ef19cca",
-   "location": "Remote",
-   "remote": true,
-   "department": "Operations & Communications",
-   "pay": "",
-   "posted": "2026-10-09",
-   "families": [],
-   "secondary": [],
-   "location_class": "remote_us",
-   "seniority_flags": [
-    "manager"
-   ],
-   "excluded_by": null
-  },
-  {
-   "key": "ashby:deepgram:9762d2a1-3d07-4e65-a0bb-6ed8162ca7d5",
-   "company": "Deepgram",
-   "tier": 3,
-   "title": "Staff Product Manager, AI Applications",
-   "url": "https://jobs.ashbyhq.com/deepgram/9762d2a1-3d07-4e65-a0bb-6ed8162ca7d5",
-   "location": "USA - Remote",
-   "remote": true,
-   "department": "Product, Product",
-   "pay": "$200K - $268K",
-   "posted": "2026-10-09",
-   "families": [],
-   "secondary": [],
-   "location_class": "remote_us",
-   "seniority_flags": [
-    "staff",
-    "manager"
-   ],
-   "excluded_by": null
-  },
-  {
-   "key": "greenhouse:mongodb:8234520",
-   "company": "MongoDB",
-   "tier": 3,
-   "title": "Associate Technical Services Engineer II",
-   "url": "https://www.mongodb.com/careers/job/?gh_jid=8234520",
-   "location": "Toronto",
-   "remote": false,
-   "department": "Technical Support AMER",
-   "pay": "",
-   "posted": "2026-10-09",
-   "families": [
-    "early_career"
-   ],
-   "secondary": [],
-   "location_class": "exception",
-   "seniority_flags": [],
-   "excluded_by": null
-  },
-  {
-   "key": "ashby:runway-ml:386d468e-2a49-4901-877d-d2bf6b33abd1",
-   "company": "Runway",
-   "tier": 3,
-   "title": "Copywriter, Product Marketing",
-   "url": "https://jobs.ashbyhq.com/runway-ml/386d468e-2a49-4901-877d-d2bf6b33abd1",
-   "location": "Remote | Seattle, WA | New York, NY | San Francisco, CA",
-   "remote": true,
-   "department": "Marketing & Creative, Marketing & Creative",
-   "pay": "$130K - $200K",
-   "posted": "2026-10-10",
-   "families": [],
-   "secondary": [],
-   "location_class": "corridor",
-   "seniority_flags": [],
-   "excluded_by": null
-  },
-  {
-   "key": "lever:shieldai:f474b201-695e-48b2-b23a-52a43c49d6ae",
-   "company": "Shield AI",
-   "tier": 3,
-   "title": "Senior Staff Engineer, Supply Chain (R6213)",
-   "url": "https://jobs.lever.co/shieldai/f474b201-695e-48b2-b23a-52a43c49d6ae",
-   "location": "Seattle, Washington",
-   "remote": false,
-   "department": "Supply Chain",
-   "pay": "USD 210,000-310,000 per-year-salary",
-   "posted": "2026-10-09",
-   "families": [],
-   "secondary": [],
-   "location_class": "corridor",
-   "seniority_flags": [
-    "senior",
-    "staff"
-   ],
-   "excluded_by": null
-  },
-  {
-   "key": "lever:shieldai:1b8bf848-b6b2-4cb8-a05a-147a40625d5f",
-   "company": "Shield AI",
-   "tier": 3,
-   "title": "Senior Trade Compliance Specialist (R6250)",
-   "url": "https://jobs.lever.co/shieldai/1b8bf848-b6b2-4cb8-a05a-147a40625d5f",
-   "location": "Dallas, Texas | Seattle, Washington",
-   "remote": false,
-   "department": "Compliance",
-   "pay": "USD 81,000-140,000 per-year-salary",
-   "posted": "2026-10-10",
-   "families": [],
-   "secondary": [],
-   "location_class": "corridor",
-   "seniority_flags": [
-    "senior"
-   ],
-   "excluded_by": null
-  },
-  {
-   "key": "lever:shieldai:8d1b42ea-aad3-482a-bef2-86e2401d1652",
-   "company": "Shield AI",
-   "tier": 3,
-   "title": "Staff Engineer, Supply Chain (R6215)",
-   "url": "https://jobs.lever.co/shieldai/8d1b42ea-aad3-482a-bef2-86e2401d1652",
-   "location": "Seattle, Washington",
-   "remote": false,
-   "department": "Supply Chain",
-   "pay": "USD 170,000-260,000 per-year-salary",
-   "posted": "2026-10-10",
-   "families": [],
-   "secondary": [],
-   "location_class": "corridor",
-   "seniority_flags": [
-    "staff"
-   ],
-   "excluded_by": null
-  },
-  {
-   "key": "lever:shieldai:0f1cc0d6-9745-4a44-b667-3dc3d717dbe5",
-   "company": "Shield AI",
-   "tier": 3,
-   "title": "Technical Program Manager - Finance Technology (R6186)",
-   "url": "https://jobs.lever.co/shieldai/0f1cc0d6-9745-4a44-b667-3dc3d717dbe5",
-   "location": "San Diego, California",
-   "remote": false,
-   "department": "FP&A",
-   "pay": "USD 120,000-190,000 per-year-salary",
-   "posted": "2026-10-10",
-   "families": [
-    "ai_ops"
-   ],
-   "secondary": [],
-   "location_class": "exception",
-   "seniority_flags": [
-    "manager"
-   ],
-   "excluded_by": null
-  },
-  {
-   "key": "greenhouse:vercel:6119765004",
-   "company": "Vercel",
-   "tier": 3,
-   "title": "Integrated Campaigns Manager",
-   "url": "https://job-boards.greenhouse.io/vercel/jobs/6119765004",
-   "location": "Hybrid - San Francisco, New York City, Austin | Office - New York City | Office - San Francisco",
-   "remote": false,
-   "department": "Marketing",
-   "pay": "",
-   "posted": "2026-07-30",
-   "families": [],
-   "secondary": [],
-   "location_class": "corridor",
-   "seniority_flags": [
-    "manager"
-   ],
-   "excluded_by": null
-  },
-  {
-   "key": "greenhouse:twitch:8596758002",
-   "company": "Twitch",
-   "tier": 5,
-   "title": "Senior Trust and Safety Operations Analyst",
-   "url": "https://job-boards.greenhouse.io/twitch/jobs/8596758002",
-   "location": "Sydney, Australia",
-   "remote": false,
-   "department": "Customer Trust",
-   "pay": "",
-   "posted": "2026-06-17",
-   "families": [
-    "trust_safety"
-   ],
-   "secondary": [],
-   "location_class": "exception",
-   "seniority_flags": [
-    "senior"
-   ],
-   "excluded_by": null
-  }
- ],
+ "new_primary": [],
+ "new_secondary": [],
+ "new_near_misses": [],
  "manual_watch": [
   {
    "name": "Google DeepMind",

@@ -1,0 +1,487 @@
+{
+ "run_at": "2026-10-11T16:01:28+00:00",
+ "date": "2026-10-11",
+ "file_stem": "2026-10-11",
+ "companies_fetched": 138,
+ "postings_fetched": 16052,
+ "counts": {
+  "Anthropic": 645,
+  "OpenAI": 815,
+  "xAI": 305,
+  "Mistral AI": 213,
+  "Cohere": 119,
+  "Thinking Machines Lab": 55,
+  "Reflection AI": 46,
+  "Nous Research": 14,
+  "Prime Intellect": 33,
+  "Liquid AI": 22,
+  "AI2 (Allen Institute for AI)": 16,
+  "Normal Computing": 18,
+  "Reka": 9,
+  "Scale AI": 182,
+  "Surge AI": 28,
+  "Mercor": 117,
+  "Handshake AI": 90,
+  "Invisible Technologies": 20,
+  "Turing": 29,
+  "Labelbox (Alignerr)": 8,
+  "Pareto AI": 0,
+  "Prolific": 28,
+  "Toloka": 16,
+  "Snorkel AI": 44,
+  "HumanSignal": 51,
+  "Gray Swan AI": 16,
+  "Haize Labs": 6,
+  "METR": 9,
+  "Apollo Research": 12,
+  "Goodfire": 29,
+  "Patronus AI": 7,
+  "Braintrust": 27,
+  "Vals AI": 7,
+  "LMArena": 21,
+  "HiddenLayer": 15,
+  "Epoch AI": 9,
+  "FAR.AI": 16,
+  "Elicit": 10,
+  "Center for AI Safety": 11,
+  "Welocalize": 528,
+  "Perplexity": 132,
+  "Harvey": 350,
+  "Legora": 290,
+  "Hebbia": 22,
+  "Rogo": 88,
+  "Norm Ai": 21,
+  "Tennr": 26,
+  "EvenUp": 44,
+  "Spellbook": 23,
+  "Ironclad": 34,
+  "Sierra": 195,
+  "Decagon": 145,
+  "Cresta": 85,
+  "Intercom": 106,
+  "Writer": 51,
+  "Glean": 131,
+  "Runway": 48,
+  "ElevenLabs": 125,
+  "Midjourney": 17,
+  "Character.AI": 13,
+  "Cognition": 102,
+  "Cursor (Anysphere)": 137,
+  "Replit": 69,
+  "Notion": 132,
+  "Ramp": 165,
+  "Vercel": 89,
+  "Hex": 39,
+  "Abridge": 46,
+  "Deepgram": 94,
+  "AssemblyAI": 9,
+  "Hume AI": 5,
+  "Suno": 73,
+  "Synthesia": 46,
+  "Lovable": 81,
+  "Chainalysis": 51,
+  "Chainalysis Government Solutions": 7,
+  "Palantir": 309,
+  "C3 AI": 92,
+  "Vannevar Labs": 30,
+  "Primer AI": 4,
+  "Recorded Future": 47,
+  "Shield AI": 616,
+  "Anduril": 2491,
+  "Datadog": 435,
+  "MongoDB": 391,
+  "Databricks": 892,
+  "CoreWeave (incl. Weights & Biases)": 311,
+  "Elastic": 409,
+  "LangChain": 102,
+  "Together AI": 80,
+  "Fireworks AI": 85,
+  "Baseten": 109,
+  "Modal": 41,
+  "Arize AI": 24,
+  "Comet": 3,
+  "Encord": 38,
+  "OpenRouter": 29,
+  "Anyscale": 20,
+  "Pinecone": 5,
+  "Weaviate": 3,
+  "Cerebras": 123,
+  "SambaNova": 61,
+  "Fivetran (incl. dbt Labs)": 191,
+  "Figma": 150,
+  "Toast": 318,
+  "Klaviyo": 145,
+  "Headway": 87,
+  "Oscar Health": 239,
+  "Duolingo": 58,
+  "Substack": 18,
+  "AlphaSense": 196,
+  "ASAPP": 14,
+  "The New York Times": 136,
+  "Axios": 37,
+  "Semafor": 16,
+  "Vox Media": 16,
+  "Khan Academy": 6,
+  "Spotify": 85,
+  "Pinterest": 180,
+  "Reddit": 147,
+  "Discord": 49,
+  "Match Group": 66,
+  "Roblox": 265,
+  "Twitch": 52,
+  "Cinder": 9,
+  "Modulate": 3,
+  "Thorn": 3,
+  "FiscalNote": 13,
+  "Quorum": 4,
+  "Brookings Institution": 6,
+  "CSIS": 10,
+  "Future of Life Institute": 10,
+  "Schmidt Sciences": 18,
+  "Coefficient Giving (formerly Open Philanthropy)": 1,
+  "SecureBio": 2,
+  "Wikimedia Foundation": 11,
+  "ITHAKA (JSTOR)": 1,
+  "BlueDot Impact": 3
+ },
+ "errors": {},
+ "new_primary": [],
+ "new_secondary": [],
+ "new_near_misses": [],
+ "manual_watch": [
+  {
+   "name": "Google DeepMind",
+   "tier": 1,
+   "careers_url": "https://www.google.com/about/careers/applications/jobs/results?company=DeepMind&location=New%20York",
+   "notes": "Google Careers only. Filter New York and Washington DC."
+  },
+  {
+   "name": "Meta Superintelligence Labs",
+   "tier": 1,
+   "careers_url": "https://www.metacareers.com/jobs?offices[0]=New%20York%2C%20NY",
+   "notes": "Filter Superintelligence, Integrity, policy."
+  },
+  {
+   "name": "Google Trust and Safety",
+   "tier": 5,
+   "careers_url": "https://www.google.com/about/careers/applications/jobs/results/?location=New%20York&q=trust%20and%20safety",
+   "notes": "Content Adversarial Red Team Analyst appears here."
+  },
+  {
+   "name": "Microsoft (NYC AI, DC policy)",
+   "tier": 3,
+   "careers_url": "https://jobs.careers.microsoft.com/global/en/search?lc=New%20York"
+  },
+  {
+   "name": "Amazon (AGI, NYC)",
+   "tier": 3,
+   "careers_url": "https://www.amazon.jobs/en/search?loc_query=New%20York"
+  },
+  {
+   "name": "Apple (NYC)",
+   "tier": 3,
+   "careers_url": "https://jobs.apple.com/en-us/search?location=new-york-city-NYC"
+  },
+  {
+   "name": "DataAnnotation",
+   "tier": 2,
+   "careers_url": "https://www.dataannotation.tech/",
+   "notes": "Contractor signup, not a job feed. Account already created."
+  },
+  {
+   "name": "GlobalLogic (Google raters)",
+   "tier": 2,
+   "careers_url": "https://www.globallogic.com/careers/",
+   "notes": "Bot-walled."
+  },
+  {
+   "name": "Innodata",
+   "tier": 2,
+   "careers_url": "https://innodatacareers.com/",
+   "notes": "Lever 'innodata' is demo content; do not use."
+  },
+  {
+   "name": "Redwood Research",
+   "tier": 2,
+   "careers_url": "https://www.redwoodresearch.org/careers"
+  },
+  {
+   "name": "Apart Research",
+   "tier": 2,
+   "careers_url": "https://www.apartresearch.com/careers",
+   "notes": "Notion pages; sprints at apartresearch.com/sprints."
+  },
+  {
+   "name": "Transluce",
+   "tier": 2,
+   "careers_url": "https://jobs.gem.com/transluce",
+   "notes": "Gem board (GraphQL); SF only. v2 fetcher candidate."
+  },
+  {
+   "name": "Micro1",
+   "tier": 2,
+   "careers_url": "https://www.micro1.ai/careers",
+   "notes": "Custom API; account exists. v2 fetcher candidate."
+  },
+  {
+   "name": "Hugging Face",
+   "tier": 3,
+   "careers_url": "https://apply.workable.com/huggingface/",
+   "notes": "Workable rate-limits bots. NYC office; remote US."
+  },
+  {
+   "name": "Galileo (Cisco acquisition pending)",
+   "tier": 4,
+   "careers_url": "https://ats.rippling.com/galileo/jobs",
+   "notes": "Board empty at check."
+  },
+  {
+   "name": "AI21 Labs",
+   "tier": 1,
+   "careers_url": "https://www.ai21.com/careers/"
+  },
+  {
+   "name": "Safe Superintelligence",
+   "tier": 1,
+   "careers_url": "https://ssi.inc/"
+  },
+  {
+   "name": "Lawfare",
+   "tier": 7,
+   "careers_url": "https://www.lawfaremedia.org/resources/job-board",
+   "notes": "Rippling board; Program Assistant AI (remote, DC) live Oct 2026. v2 fetcher candidate (Rippling API)."
+  },
+  {
+   "name": "Partnership on AI",
+   "tier": 6,
+   "careers_url": "https://ats.rippling.com/pai-job-board/jobs",
+   "notes": "Rippling; remote US."
+  },
+  {
+   "name": "Georgetown CSET",
+   "tier": 6,
+   "careers_url": "https://cset.georgetown.edu/careers/",
+   "notes": "Research Analyst roles; Workday apply."
+  },
+  {
+   "name": "CNAS",
+   "tier": 6,
+   "careers_url": "https://www.cnas.org/careers",
+   "notes": "BambooHR feed (cnas.bamboohr.com/careers/list). v2 fetcher candidate."
+  },
+  {
+   "name": "RAND",
+   "tier": 6,
+   "careers_url": "https://rand.wd5.myworkdayjobs.com/External_Career_Site",
+   "notes": "Workday."
+  },
+  {
+   "name": "MITRE",
+   "tier": 6,
+   "careers_url": "https://careers.mitre.org/us/en/search-results?keywords=artificial%20intelligence"
+  },
+  {
+   "name": "Carnegie Endowment",
+   "tier": 6,
+   "careers_url": "https://carnegieendowment.applicantpro.com/jobs/",
+   "notes": "Gaither Junior Fellows, mid-January."
+  },
+  {
+   "name": "Center for Democracy and Technology",
+   "tier": 6,
+   "careers_url": "https://cdt.org/jobs/"
+  },
+  {
+   "name": "Federation of American Scientists",
+   "tier": 6,
+   "careers_url": "https://fas.applytojob.com/apply/"
+  },
+  {
+   "name": "Institute for Progress",
+   "tier": 6,
+   "careers_url": "https://ifp.org/opportunities/",
+   "notes": "Pitch a job via hiring@ifp.org."
+  },
+  {
+   "name": "New America",
+   "tier": 6,
+   "careers_url": "https://newamerica.applytojob.com/apply/"
+  },
+  {
+   "name": "AI Now Institute",
+   "tier": 6,
+   "careers_url": "https://ainowinstitute.org/careers"
+  },
+  {
+   "name": "Data and Society",
+   "tier": 6,
+   "careers_url": "https://datasociety.net/careers-at-data-society/"
+  },
+  {
+   "name": "GovAI",
+   "tier": 6,
+   "careers_url": "https://www.governance.ai/opportunities",
+   "notes": "DC Winter Fellowship 2027."
+  },
+  {
+   "name": "IAPS",
+   "tier": 6,
+   "careers_url": "https://www.iaps.ai/careers",
+   "notes": "AI Policy Fellowship, DC/remote."
+  },
+  {
+   "name": "Tech Policy Press",
+   "tier": 7,
+   "careers_url": "https://www.techpolicy.press/about"
+  },
+  {
+   "name": "Princeton CITP",
+   "tier": 8,
+   "careers_url": "https://citp.princeton.edu/programs/emerging-scholars-program",
+   "notes": "Emerging Scholars opens mid-October."
+  },
+  {
+   "name": "NYU Center for Data Science",
+   "tier": 8,
+   "careers_url": "https://cds.nyu.edu/jobs/"
+  },
+  {
+   "name": "Columbia (central careers)",
+   "tier": 8,
+   "careers_url": "https://opportunities.columbia.edu/",
+   "notes": "Search Data Science Institute, Libraries, AI."
+  },
+  {
+   "name": "Cornell Tech",
+   "tier": 8,
+   "careers_url": "https://tech.cornell.edu/jobs/"
+  },
+  {
+   "name": "Johns Hopkins APL",
+   "tier": 6,
+   "careers_url": "https://careers.jhuapl.edu/jobs",
+   "notes": "Laurel MD; new-grads page."
+  },
+  {
+   "name": "Internet Archive",
+   "tier": 8,
+   "careers_url": "https://app.trinethire.com/companies/32967-internet-archive/jobs"
+  },
+  {
+   "name": "New York Public Library",
+   "tier": 8,
+   "careers_url": "https://www.nypl.org/careers",
+   "notes": "Digital Research, Digital Collections, Metadata."
+  },
+  {
+   "name": "Metropolitan Museum of Art",
+   "tier": 8,
+   "careers_url": "https://metmuseum.wd5.myworkdayjobs.com/MetMuseumCareers"
+  },
+  {
+   "name": "Library of Congress",
+   "tier": 8,
+   "careers_url": "https://www.loc.gov/careers/",
+   "notes": "USAJOBS; LC Labs."
+  },
+  {
+   "name": "Smithsonian",
+   "tier": 8,
+   "careers_url": "https://www.si.edu/ohr",
+   "notes": "Data Science Lab; Digitization Program Office."
+  },
+  {
+   "name": "Dumbarton Oaks",
+   "tier": 8,
+   "careers_url": "https://www.doaks.org/about/employment",
+   "notes": "Post-BA Humanities Fellows."
+  },
+  {
+   "name": "Bloomberg",
+   "tier": 3,
+   "careers_url": "https://careers.bloomberg.com/"
+  },
+  {
+   "name": "Thomson Reuters (TR Labs)",
+   "tier": 3,
+   "careers_url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site"
+  },
+  {
+   "name": "TikTok Trust and Safety",
+   "tier": 5,
+   "careers_url": "https://careers.tiktok.com/",
+   "notes": "Filter New York, Washington."
+  },
+  {
+   "name": "ActiveFence (Alice)",
+   "tier": 5,
+   "careers_url": "https://www.activefence.com/careers/",
+   "notes": "Comeet; NYC office."
+  },
+  {
+   "name": "Spring Health",
+   "tier": 3,
+   "careers_url": "https://www.springhealth.com/careers",
+   "notes": "Custom JSON at springhealth.com/sh-app/api/jobs; AI Care Operations roles. v2 fetcher candidate."
+  },
+  {
+   "name": "Kensho (S&P Global)",
+   "tier": 3,
+   "careers_url": "https://careers.spglobal.com",
+   "notes": "Custom JSON at docs.kensho.com/api/jobs; Cambridge MA and NYC. v2 fetcher candidate."
+  },
+  {
+   "name": "Etsy",
+   "tier": 3,
+   "careers_url": "https://careers.etsy.com/jobs/search"
+  },
+  {
+   "name": "Capital One (NYC AI)",
+   "tier": 3,
+   "careers_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One"
+  },
+  {
+   "name": "Booz Allen Hamilton",
+   "tier": 6,
+   "careers_url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs"
+  },
+  {
+   "name": "Grammarly (Superhuman)",
+   "tier": 3,
+   "careers_url": "https://superhuman.com/company/careers/jobs"
+  },
+  {
+   "name": "Luminance",
+   "tier": 3,
+   "careers_url": "https://www.luminance.com/careers.html",
+   "notes": "NYC roles apply by email."
+  },
+  {
+   "name": "Washington Post",
+   "tier": 7,
+   "careers_url": "https://www.washingtonpost.com/careers/"
+  },
+  {
+   "name": "Politico",
+   "tier": 7,
+   "careers_url": "https://www.politico.com/careers"
+  },
+  {
+   "name": "MIT Technology Review",
+   "tier": 7,
+   "careers_url": "https://www.technologyreview.com/careers"
+  },
+  {
+   "name": "80,000 Hours job board (aggregator)",
+   "tier": 9,
+   "careers_url": "https://jobs.80000hours.org/",
+   "notes": "Covers much of tier 6 and 2 in one place."
+  },
+  {
+   "name": "USAJOBS",
+   "tier": 6,
+   "careers_url": "https://www.usajobs.gov/",
+   "notes": "Has a public API; version 2 fetcher candidate."
+  }
+ ]
+}
