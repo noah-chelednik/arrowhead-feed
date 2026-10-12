@@ -1,18 +1,45 @@
-# Arrowhead feed, 2026-10-11
+# Arrowhead feed, 2026-10-12
 
-Run at 2026-10-11T16:01:28+00:00. Fetched 16052 postings from 138 boards. New this week: 0 primary, 0 secondary, 0 near misses.
+Run at 2026-10-12T19:29:17+00:00. Fetched 16036 postings from 138 boards. New this week: 4 primary, 13 secondary, 10 near misses.
 
 ## New primary matches (family in title, in range)
 
-None.
+
+### Tier 3: Applied AI / corridor employer
+
+- **Figma** (T3): [Early Career, Inside Sales Representative (2027)](https://boards.greenhouse.io/figma/jobs/6174190004?gh_jid=6174190004) | San Francisco, CA • New York, NY | US | early_career
+- **Harvey** (T3): [Strategy Associate](https://jobs.ashbyhq.com/harvey/23a93539-af9f-400d-9da6-dd9165364002) | New York | $116K - $159.5K | early_career
+- **Legora** (T3): [Junior/Mid-level Forward Deployed Engineer](https://jobs.ashbyhq.com/legora/572044a8-d0c4-42b4-97d3-bde7cb5599d6) | New York City | $175.1K - $245K | forward_deployed
+- **MongoDB** (T3): [Senior Program Manager](https://www.mongodb.com/careers/job/?gh_jid=8267061) | Atlanta; New York City | Dublin | ai_ops | flags: senior, manager
 
 ## New secondary matches (family only in the description)
 
-None.
+- **Anthropic** (T1): [Data Engineer, Billing & Payments](https://job-boards.greenhouse.io/anthropic/jobs/5450099008) | San Francisco, CA | New York City, NY | New York City, NY | San Francisco, CA | Seattle, WA | human_data, trust_safety
+- **Anthropic** (T1): [Staff+ Software Engineer, Claude Science](https://job-boards.greenhouse.io/anthropic/jobs/5412734008) | San Francisco, CA | New York City, NY | San Francisco, CA | evaluation | flags: staff
+- **OpenAI** (T1): [Client Partner, Ads Solutions - Financial Services](https://jobs.ashbyhq.com/openai/be7abbba-bca2-4baa-b7d8-98d5ab514520) | New York City | $216K - $273K | trust_safety
+- **HumanSignal** (T2): [QA Specialist](https://job-boards.greenhouse.io/humansignal/jobs/6222434004) | Hoboken, NJ | Remote-US | evaluation, human_data
+- **HumanSignal** (T2): [Scene Assistant (Hoboken, NJ)](https://job-boards.greenhouse.io/humansignal/jobs/6222257004) | Hoboken, NJ | Remote-US | evaluation, human_data
+- **HumanSignal** (T2): [Scene Assistant (New York, NY)](https://job-boards.greenhouse.io/humansignal/jobs/6222629004) | New York, NY | Remote-US | evaluation, human_data
+- **HumanSignal** (T2): [Tech Ops Specialist (Hoboken, NJ)](https://job-boards.greenhouse.io/humansignal/jobs/6222258004) | Hoboken, NJ | Remote-US | evaluation, human_data
+- **HumanSignal** (T2): [Tech Ops Specialist (New York, NY)](https://job-boards.greenhouse.io/humansignal/jobs/6222641004) | New York, NY | Remote-US | evaluation, human_data
+- **Baseten** (T3): [GRC Manager](https://jobs.ashbyhq.com/baseten/d04877d0-4360-4adb-879b-0ceb02f08c76) | San Francisco | Remote | Toronto | New York | Montreal | Seattle | $150K - $250K | trust_safety | flags: manager
+- **Cresta** (T3): [Growth Engineer](https://job-boards.greenhouse.io/cresta/jobs/5448328008) | United States (Remote) | US (Remote) | evaluation
+- **ElevenLabs** (T3): [Product Marketing - ElevenAPI](https://jobs.ashbyhq.com/elevenlabs/e062d169-7294-4125-bc7b-e3a821dcd620) | Remote | United States | United Kingdom | evaluation
+- **Fireworks AI** (T3): [GTM Planning Lead](https://jobs.ashbyhq.com/fireworks/66663e61-2849-4aa1-ba89-3a51ccd31aef) | San Mateo | New York | $180K - $240K | evaluation | flags: lead
+- **MongoDB** (T3): [Senior Product Security Engineer, Assessments](https://www.mongodb.com/careers/job/?gh_jid=8268264) | New York City; Seattle; United States | Phoenix | evaluation | flags: senior
 
 ## Near misses (logged so the rules can be tuned)
 
-None.
+- **Mercor** (T2): [Corporate Finance Senior / Associate](https://jobs.ashbyhq.com/mercor/39a17b9c-60e6-4b22-a53d-3c17a93299cc) | Mercor HQ, 181 Fremont Street | $175K - $230K | early_career | flags: senior
+- **ElevenLabs** (T3): [Growth Marketer- Reception.ai](https://jobs.ashbyhq.com/elevenlabs/8f79181f-192d-45d9-a8c3-ce3f533b7d7a) | Remote | United States | United Kingdom | 
+- **Harvey** (T3): [Strategy Associate](https://jobs.ashbyhq.com/harvey/446091c7-8a78-4c1c-8de3-4a2289be6072) | San Francisco | $116K - $159.5K | early_career
+- **Lovable** (T3): [Technical Writer](https://jobs.ashbyhq.com/lovable/40f2f697-09ae-44bd-951a-1f10c358c159) | Stockholm | writing
+- **MongoDB** (T3): [Manager, Technical Writer](https://www.mongodb.com/careers/job/?gh_jid=8230883) | Gurugram | writing | flags: manager
+- **MongoDB** (T3): [Senior Program Manager](https://www.mongodb.com/careers/job/?gh_jid=8267063) | Toronto | Dublin | ai_ops | flags: senior, manager
+- **MongoDB** (T3): [Senior Program Manager](https://www.mongodb.com/careers/job/?gh_jid=8267650) | Dublin, Ireland | Dublin | ai_ops | flags: senior, manager
+- **MongoDB** (T3): [Senior Technical Writer](https://www.mongodb.com/careers/job/?gh_jid=8231370) | Gurugram | writing | flags: senior
+- **Ramp** (T3): [Senior Analyst, Economic Research and Special Projects](https://jobs.ashbyhq.com/ramp/7c027757-24d8-49f4-90c1-ca3696d244a5) | New York, NY (HQ) | San Francisco, CA | $140K - $190K |  | flags: senior
+- **Runway** (T3): [Prototype Researcher](https://jobs.ashbyhq.com/runway-ml/d8afa330-e713-4a2d-833b-cd2e4c6e0fcc) | Remote | Seattle, WA | New York, NY | San Francisco, CA | $250K - $310K | 
 
 ## Manual watch (no public feed; check by hand)
 
