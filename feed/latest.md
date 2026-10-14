@@ -1,57 +1,54 @@
-# Arrowhead feed, 2026-10-13
+# Arrowhead feed, 2026-10-14
 
-Run at 2026-10-13T17:13:11+00:00. Fetched 16000 postings from 138 boards. New this week: 4 primary, 13 secondary, 16 near misses.
+Run at 2026-10-14T14:46:04+00:00. Fetched 15957 postings from 138 boards. New this week: 4 primary, 17 secondary, 12 near misses.
 
 ## New primary matches (family in title, in range)
 
 
 ### Tier 1: Frontier lab
 
-- **Reflection AI** (T1): [Member of Technical Staff - Pre-Training Evals Infra](https://jobs.ashbyhq.com/reflectionai/5c9835ae-4424-41ab-8585-16aefcce5a7a) | New York, NY | San Francisco, CA | London | evaluation | flags: staff
-
-### Tier 2: Lab vendor / eval / safety
-
-- **METR** (T2): [Member of Policy Staff, Government Affairs](https://jobs.lever.co/metr/07e6aef4-edc8-48ec-aa7f-3d1207c43eea) | Washington D.C. | USD 328,380-385,490 per-year-salary | policy | flags: staff
+- **Anthropic** (T1): [Developer Relations Manager, Claude Platform](https://job-boards.greenhouse.io/anthropic/jobs/5367562008) | San Francisco, CA | New York City, NY | San Francisco, CA | writing | flags: manager
+- **Anthropic** (T1): [Policy Development, Technical AI Governance](https://job-boards.greenhouse.io/anthropic/jobs/5451081008) | New York City, NY; San Francisco, CA; Washington, DC | New York City, NY | San Francisco, CA | Washington, D.C. | policy
 
 ### Tier 3: Applied AI / corridor employer
 
-- **Palantir** (T3): [Deployment Strategist - US Government](https://jobs.lever.co/palantir/4775e970-ade8-4a0d-8145-9255dc4cbac9) | Laurel, MD | forward_deployed
-- **Palantir** (T3): [Forward Deployed Software Engineer - US Government](https://jobs.lever.co/palantir/29630180-0f10-4826-801f-12e226d3c7f1) | Laurel, MD | forward_deployed
+- **C3 AI** (T3): [Forward Deployed Engineer, Federal (On-Site)](https://c3.ai/job-description/8886602002?gh_jid=8886602002) | Remote | forward_deployed
+- **Shield AI** (T3): [Forward Deployed Engineer, Autonomy (open level)](https://jobs.lever.co/shieldai/8afc41da-27a5-4054-a3c7-87b3ceb6cf0a) | United States | San Diego, California | Dallas, Texas | Washington, D.C. | USD 152,000-318,000 per-year-salary | forward_deployed
 
 ## New secondary matches (family only in the description)
 
-- **OpenAI** (T1): [Clean Energy and New Technology Lead](https://jobs.ashbyhq.com/openai/676d359b-0ef6-40a5-81d5-d4f2eb198eab) | US - Remote | Seattle | San Francisco | $212.8K - $389K | evaluation | flags: lead
-- **OpenAI** (T1): [Strategic Delivery Lead, Critical Infrastructure](https://jobs.ashbyhq.com/openai/5c869fa0-fe05-42b3-ab94-1f6218b1ccf3) | Washington, DC | $266K - $295K | evaluation | flags: lead
-- **Invisible Technologies** (T2): [Senior Data Scientist](https://job-boards.eu.greenhouse.io/invisibletech/jobs/4643917101) | New York - Hybrid; San Francisco Bay Area - Hybrid | New York | San Francisco | evaluation | flags: senior
-- **Scale AI** (T2): [Engagement Manager, Public Sector (Miami, FL)](https://job-boards.greenhouse.io/scaleai/jobs/4742967005) | Miami, FL | New York, NY | San Francisco, CA | evaluation | flags: manager
-- **Welocalize** (T2): [Project Perseus | Speech & Voice AI Analyst - English (UK) Speakers](https://jobs.lever.co/weloglobal/30901371-82fc-47ed-9399-e784ad8cf0fd) | California | Sunnyvale, CA | San Francisco, CA | Seattle, WA | Redmond, Washington | Burlingame, CA | New York City Metropolitan Area | Los Angeles, CA | Washington, D.C. | Boston, MA | USD 28-28 per-hour-wage | evaluation, human_data
-- **Welocalize** (T2): [Project Perseus | Speech & Voice AI Analyst - Spanish (Mexico) Speakers](https://jobs.lever.co/weloglobal/8913ad03-6d17-48e7-be8e-4fa1817f0438) | California | Sunnyvale, CA | San Francisco, CA | Seattle, WA | Redmond, Washington | Burlingame, CA | New York City Metropolitan Area | Los Angeles, CA | Washington, D.C. | Boston, MA | USD 28-28 per-hour-wage | evaluation, human_data
-- **Welocalize** (T2): [Project Perseus | Speech & Voice AI Analyst - Spanish (Spain)](https://jobs.lever.co/weloglobal/48b1496f-97ae-40e9-9637-f7829dbafaf4) | California | Sunnyvale, CA | San Francisco, CA | Seattle, WA | Redmond, Washington | Burlingame, CA | New York City Metropolitan Area | Los Angeles, CA | Washington, D.C. | Boston, MA | USD 28-28 per-hour-wage | evaluation, human_data
-- **Datadog** (T3): [Manager ll, Engineering - Datadog Agent SDLC](https://careers.datadoghq.com/detail/8261861/?gh_jid=8261861) | Boston, Massachusetts, USA; New York, New York, USA | Boston | New York | {'unit': 'USD', 'max_value': '305000.0', 'min_value': '244000.0'} | evaluation | flags: manager
-- **ElevenLabs** (T3): [Full-Stack Engineer - Productions](https://jobs.ashbyhq.com/elevenlabs/10e6475e-67ef-4621-8718-7b087c354651) | Remote | Dublin | Denmark | United Kingdom | Stockholm | London | Amsterdam | Berlin | evaluation, human_data
-- **Perplexity** (T3): [Strategic Finance Lead - GTM](https://jobs.ashbyhq.com/perplexity/f3c7ce0d-026e-4b5d-b22d-8b6041746c3d) | San Francisco | New York City | $190K - $240K | evaluation | flags: lead
-- **Primer AI** (T3): [Senior Sales Engineer](https://job-boards.greenhouse.io/primerai/jobs/8028089003) | Pasadena, California, United States; San Francisco, California, United States; Washington, District of Columbia, United States | Washington, DC | evaluation | flags: senior
-- **Shield AI** (T3): [Engineer I, Software - Factory Team (R6235)](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68) | Washington, D.C. | San Diego, California | USD 79,000-110,000 per-year-salary | evaluation
-- **Shield AI** (T3): [Engineer II, Software - Factory (R6217)](https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5) | Washington, D.C. | San Diego, California | USD 100,000-150,000 per-year-salary | evaluation
+- **Anthropic** (T1): [Engineering Manager, Claude Platform](https://job-boards.greenhouse.io/anthropic/jobs/5378643008) | San Francisco, CA | New York City, NY | San Francisco, CA | trust_safety | flags: manager
+- **Cohere** (T1): [Member of Technical Staff - Post-Training (Reinforcement Learning & Generalization)](https://jobs.ashbyhq.com/cohere/8a73f59d-41b7-42ed-8cc8-99afa0a2ba5f) | Europe | New York | Toronto | CA$295K - CA$535K | evaluation, human_data | flags: staff
+- **Normal Computing** (T1): [Hardware Engineer, FPGA](https://jobs.ashbyhq.com/normalcomputing/ce3e3ffa-5001-42b5-851d-d5dc46e5d463) | New York City | Silicon Valley | $250K - $340K | trust_safety
+- **OpenAI** (T1): [HR Business Partner](https://jobs.ashbyhq.com/openai/c95b87cf-c00d-48b7-a357-aa4f7baa2467) | San Francisco | New York City | Seattle | $234K - $260K | evaluation, trust_safety
+- **Braintrust** (T2): [Software Engineer, Billing](https://jobs.ashbyhq.com/braintrust/525eda64-5ca0-46c5-bac2-ef8056d3f10c) | San Francisco | New York City | Seattle | evaluation, trust_safety
+- **Gray Swan AI** (T2): [Product Marketing Lead](https://jobs.ashbyhq.com/Gray%20Swan%20AI/310c2208-bcd1-4d46-bfbc-8df8201b3a3b) | Remote U.S. or Pittsburgh, PA | evaluation | flags: lead
+- **AlphaSense** (T3): [Copy of Product Manager, New Content Initiatives and Analysis](https://job-boards.greenhouse.io/alphasense/jobs/8887127002) | Remote - United Kingdom | New York | evaluation, human_data | flags: manager
+- **Baseten** (T3): [Sales Manager - Enterprise (New York)](https://jobs.ashbyhq.com/baseten/8ac0d29a-caa2-49b0-9abb-75073df32c7f) | New York | evaluation | flags: manager
+- **Chainalysis** (T3): [Software Engineer II, Compliance Core](https://jobs.ashbyhq.com/chainalysis-careers/05ebe657-fb6e-47c0-a8ce-4ac6ac362d2d) | New York Office | $146K - $200K | evaluation
+- **Datadog** (T3): [Research Manager - Post-Training for Agents](https://careers.datadoghq.com/detail/8279173/?gh_jid=8279173) | New York, New York, USA | New York | {'unit': 'USD', 'max_value': '305000.0', 'min_value': '244000.0'} | evaluation | flags: manager
+- **ElevenLabs** (T3): [FP&A Lead](https://jobs.ashbyhq.com/elevenlabs/eec0ee0e-ad68-47af-a0a8-8d2191aee4ba) | Remote | evaluation | flags: lead
+- **Harvey** (T3): [GTM Lead System Administrator](https://jobs.ashbyhq.com/harvey/4167f471-715b-413b-86c5-0596aae42eb8) | Remote | $171K - $235.2K | evaluation | flags: lead
+- **Modal** (T3): [GTM Engineer - Data Platform](https://jobs.ashbyhq.com/modal/dd6fe63b-8265-474e-b1f0-fcc1c5a28daf) | New York | San Francisco | $200K - $220K | human_data
+- **Notion** (T3): [Commercial Solutions Consultant, New York](https://jobs.ashbyhq.com/notion/a1e9f265-7a8d-4acd-9503-3c36b6f7008b) | New York, New York | evaluation
+- **Notion** (T3): [Enterprise Solutions Consultant, New York](https://jobs.ashbyhq.com/notion/43b37ac5-1ce9-4106-8df1-1ae8515087ee) | New York, New York | evaluation
+- **Notion** (T3): [Mid-Market Solutions Consultant, New York](https://jobs.ashbyhq.com/notion/00f42dd8-c3b3-45cf-829e-550b675b3dd8) | New York, New York | evaluation
+- **Spellbook** (T3): [Legal Solutions Architect](https://jobs.ashbyhq.com/spellbook.com/1b2d4523-7aa3-4c6d-ad45-747e039dfbca) | Remote - US | $152K - $190K | solutions | flags: architect
 
 ## Near misses (logged so the rules can be tuned)
 
-- **Cohere** (T1): [Forward Deployed Engineer, Agentic Platform (Korea)](https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a) | Korea | ₩230M - ₩315M | forward_deployed
-- **Invisible Technologies** (T2): [Data Scientist](https://job-boards.eu.greenhouse.io/invisibletech/jobs/4643870101) | New York - Hybrid; San Francisco Bay Area - Hybrid | New York | San Francisco | 
-- **AlphaSense** (T3): [Equity Research Associate](https://job-boards.greenhouse.io/alphasense/jobs/7831354002) | Remote - Canada | early_career
-- **Anduril** (T3): [Technical Writer, IBCS-M](https://boards.greenhouse.io/andurilindustries/jobs/5255077007?gh_jid=5255077007) | Costa Mesa, California, United States | Irvine, CA (OC-62) | writing
-- **Chainalysis** (T3): [Deployment Strategist - Crypto Investigations](https://jobs.ashbyhq.com/chainalysis-careers/7a8a245e-89c5-41c1-8653-185af58d8246) | France | €130K | forward_deployed
-- **Cursor (Anysphere)** (T3): [Software Engineer, Pretraining Data ](https://jobs.ashbyhq.com/cursor/0320a8db-cb1b-407b-bd62-b23734b83330) | San Francisco | human_data
-- **Datadog** (T3): [Customer Success Associate (Commercial Accounts)](https://careers.datadoghq.com/detail/8222279/?gh_jid=8222279) | Bangalore, India | Bangalore | early_career
-- **Datadog** (T3): [FP&A Analyst, Cloud Finance](https://careers.datadoghq.com/detail/8267437/?gh_jid=8267437) | New York, New York, USA | New York | {'unit': 'USD', 'max_value': '132000.0', 'min_value': '99000.0'} | 
-- **ElevenLabs** (T3): [Customer Support Specialist](https://jobs.ashbyhq.com/elevenlabs/e22e14d8-0766-445f-9570-6037c7300c73) | Remote | Sofia | Poland | Spanish LATAM | Philippines | Canada | 
-- **Fivetran (incl. dbt Labs)** (T3): [Staff Technical Writer](https://www.fivetran.com/careers/job?gh_jid=8010276003) | Bengaluru, Karnataka, India, APAC | IND - Bengaluru | writing | flags: staff
-- **Glean** (T3): [Tech Lead Manager, AI Evaluations](https://job-boards.greenhouse.io/gleanwork/jobs/4742957005) | Mountain View, CA | Mountain View, CA (HQ) | evaluation | flags: lead, manager
-- **Legora** (T3): [Legal Engineer Associate](https://jobs.ashbyhq.com/legora/524a2f00-f2cf-40db-a00b-8ea0f67a2f1a) | Toronto | early_career
-- **MongoDB** (T3): [Associate Technical Services Engineer II](https://www.mongodb.com/careers/job/?gh_jid=8258710) | Milan | early_career
-- **Palantir** (T3): [Deployment Strategist - US Government](https://jobs.lever.co/palantir/44d3394e-003e-4609-b864-ff141e233635) | Norfolk, VA | forward_deployed
-- **Palantir** (T3): [Forward Deployed Software Engineer - US Government](https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf) | Norfolk, VA | forward_deployed
-- **Toast** (T3): [Senior Product Designer – Toast Retail ](https://careers.toasttab.com/jobs?gh_jid=8276127) | Dublin, Ireland | Remote - Ireland |  | flags: senior
+- **Cohere** (T1): [Member of Technical Staff - Post-training (Data Infrastructure)](https://jobs.ashbyhq.com/cohere/eef82766-7e31-430f-a102-bc33a5022597) | United States | Canada | CA$295K - CA$535K | human_data | flags: staff
+- **OpenAI** (T1): [Data Program Manager, Science](https://jobs.ashbyhq.com/openai/2bdd1b8b-2883-40fb-b006-583959ad4c5f) | San Francisco | $207K - $230K | ai_ops | flags: manager
+- **Welocalize** (T2): [Artemis AI Data Rater - French](https://jobs.lever.co/weloglobal/3f8cc8aa-a677-4974-bd3d-cdf5991b9e91) | Madagascar | Morocco | human_data
+- **Welocalize** (T2): [Artemis AI Data Rater - German](https://jobs.lever.co/weloglobal/95e4ef8f-2e51-4e44-9509-55f993b84612) | Chile | Argentina | Brazil | Turkey | human_data
+- **Welocalize** (T2): [Artemis AI Data Rater - Spanish](https://jobs.lever.co/weloglobal/f1d3a94f-b3c4-47c2-b33b-55253a774375) | Santiago, Chile | Mexico | human_data
+- **Anduril** (T3): [2027 Early Career Associate Product Designer](https://boards.greenhouse.io/andurilindustries/jobs/5265088007?gh_jid=5265088007) | Costa Mesa, California, United States | Costa Mesa, CA (OC-00) | early_career
+- **Datadog** (T3): [Enterprise Security Sales Specialist](https://careers.datadoghq.com/detail/8256245/?gh_jid=8256245) | California, USA, Remote | Remote - California | San Francisco | {'unit': 'USD', 'max_value': '165000.0', 'min_value': '124000.0'} | 
+- **Datadog** (T3): [Enterprise Security Sales Specialist](https://careers.datadoghq.com/detail/8243668/?gh_jid=8243668) | San Francisco, California, USA | Remote - California | San Francisco | {'unit': 'USD', 'max_value': '165000.0', 'min_value': '124000.0'} | 
+- **ElevenLabs** (T3): [Deployment Strategist - South Korea](https://jobs.ashbyhq.com/elevenlabs/cfcb55a7-17ce-43b5-ad4e-2111adff393a) | Korea | forward_deployed
+- **Legora** (T3): [Sales Associate - GTM ](https://jobs.ashbyhq.com/legora/9a66506b-d584-4d7a-a64d-c284a3dc1b64) | Sydney | early_career
+- **Legora** (T3): [Senior Manager, Physical Security & Safety](https://jobs.ashbyhq.com/legora/3c47c9ac-4bcd-4342-85f9-1af0be729ae7) | New York City | $186,150 - $235,450 |  | flags: senior, manager
+- **Shield AI** (T3): [Strategic Capture Manager, USG Data Agencies (R6187)](https://jobs.lever.co/shieldai/cb123ec3-f958-482f-a421-b180c6a12ffc) | Washington, D.C. | USD 230,000-350,000 per-year-salary |  | flags: manager
 
 ## Manual watch (no public feed; check by hand)
 
