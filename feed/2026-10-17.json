@@ -1,0 +1,1421 @@
+{
+ "run_at": "2026-10-17T13:20:39+00:00",
+ "date": "2026-10-17",
+ "file_stem": "2026-10-17",
+ "companies_fetched": 138,
+ "postings_fetched": 16137,
+ "counts": {
+  "Anthropic": 655,
+  "OpenAI": 814,
+  "xAI": 305,
+  "Mistral AI": 219,
+  "Cohere": 118,
+  "Thinking Machines Lab": 53,
+  "Reflection AI": 46,
+  "Nous Research": 15,
+  "Prime Intellect": 35,
+  "Liquid AI": 22,
+  "AI2 (Allen Institute for AI)": 15,
+  "Normal Computing": 22,
+  "Reka": 9,
+  "Scale AI": 182,
+  "Surge AI": 28,
+  "Mercor": 112,
+  "Handshake AI": 88,
+  "Invisible Technologies": 23,
+  "Turing": 30,
+  "Labelbox (Alignerr)": 7,
+  "Pareto AI": 0,
+  "Prolific": 33,
+  "Toloka": 17,
+  "Snorkel AI": 44,
+  "HumanSignal": 61,
+  "Gray Swan AI": 17,
+  "Haize Labs": 6,
+  "METR": 9,
+  "Apollo Research": 12,
+  "Goodfire": 29,
+  "Patronus AI": 7,
+  "Braintrust": 28,
+  "Vals AI": 7,
+  "LMArena": 19,
+  "HiddenLayer": 16,
+  "Epoch AI": 7,
+  "FAR.AI": 16,
+  "Elicit": 12,
+  "Center for AI Safety": 10,
+  "Welocalize": 523,
+  "Perplexity": 133,
+  "Harvey": 345,
+  "Legora": 306,
+  "Hebbia": 22,
+  "Rogo": 90,
+  "Norm Ai": 20,
+  "Tennr": 27,
+  "EvenUp": 49,
+  "Spellbook": 26,
+  "Ironclad": 33,
+  "Sierra": 186,
+  "Decagon": 143,
+  "Cresta": 87,
+  "Intercom": 106,
+  "Writer": 47,
+  "Glean": 136,
+  "Runway": 49,
+  "ElevenLabs": 156,
+  "Midjourney": 17,
+  "Character.AI": 13,
+  "Cognition": 103,
+  "Cursor (Anysphere)": 133,
+  "Replit": 65,
+  "Notion": 128,
+  "Ramp": 167,
+  "Vercel": 93,
+  "Hex": 40,
+  "Abridge": 43,
+  "Deepgram": 88,
+  "AssemblyAI": 12,
+  "Hume AI": 5,
+  "Suno": 69,
+  "Synthesia": 47,
+  "Lovable": 82,
+  "Chainalysis": 50,
+  "Chainalysis Government Solutions": 7,
+  "Palantir": 310,
+  "C3 AI": 93,
+  "Vannevar Labs": 31,
+  "Primer AI": 5,
+  "Recorded Future": 49,
+  "Shield AI": 629,
+  "Anduril": 2536,
+  "Datadog": 433,
+  "MongoDB": 401,
+  "Databricks": 898,
+  "CoreWeave (incl. Weights & Biases)": 311,
+  "Elastic": 380,
+  "LangChain": 102,
+  "Together AI": 78,
+  "Fireworks AI": 88,
+  "Baseten": 104,
+  "Modal": 43,
+  "Arize AI": 25,
+  "Comet": 3,
+  "Encord": 39,
+  "OpenRouter": 27,
+  "Anyscale": 20,
+  "Pinecone": 5,
+  "Weaviate": 3,
+  "Cerebras": 122,
+  "SambaNova": 61,
+  "Fivetran (incl. dbt Labs)": 180,
+  "Figma": 139,
+  "Toast": 318,
+  "Klaviyo": 154,
+  "Headway": 88,
+  "Oscar Health": 248,
+  "Duolingo": 63,
+  "Substack": 16,
+  "AlphaSense": 212,
+  "ASAPP": 12,
+  "The New York Times": 137,
+  "Axios": 38,
+  "Semafor": 21,
+  "Vox Media": 17,
+  "Khan Academy": 6,
+  "Spotify": 82,
+  "Pinterest": 156,
+  "Reddit": 146,
+  "Discord": 47,
+  "Match Group": 66,
+  "Roblox": 262,
+  "Twitch": 46,
+  "Cinder": 9,
+  "Modulate": 3,
+  "Thorn": 3,
+  "FiscalNote": 8,
+  "Quorum": 5,
+  "Brookings Institution": 6,
+  "CSIS": 11,
+  "Future of Life Institute": 11,
+  "Schmidt Sciences": 17,
+  "Coefficient Giving (formerly Open Philanthropy)": 1,
+  "SecureBio": 2,
+  "Wikimedia Foundation": 13,
+  "ITHAKA (JSTOR)": 1,
+  "BlueDot Impact": 3
+ },
+ "errors": {},
+ "new_primary": [
+  {
+   "key": "greenhouse:anthropic:5449415008",
+   "company": "Anthropic",
+   "tier": 1,
+   "title": "Customer Program Manager, Executive Briefings",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449415008",
+   "location": "San Francisco, CA | New York City, NY | New York City, NY",
+   "remote": false,
+   "department": "Marketing & Brand",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [
+    "ai_ops"
+   ],
+   "secondary": [],
+   "location_class": "corridor",
+   "seniority_flags": [
+    "manager"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "greenhouse:anthropic:5453573008",
+   "company": "Anthropic",
+   "tier": 1,
+   "title": "Policy Design Manager, Integrity and Authenticity",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453573008",
+   "location": "San Francisco, CA | New York City, NY | Washington, DC | San Francisco, CA",
+   "remote": false,
+   "department": "Safeguards (Trust & Safety)",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [
+    "trust_safety",
+    "policy"
+   ],
+   "secondary": [],
+   "location_class": "corridor",
+   "seniority_flags": [
+    "manager"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "greenhouse:anthropic:5455454008",
+   "company": "Anthropic",
+   "tier": 1,
+   "title": "Technical Program Manager, Science Strategy & Communications",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455454008",
+   "location": "San Francisco, CA | New York City, NY | San Francisco, CA",
+   "remote": false,
+   "department": "Technical Program Management",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [
+    "ai_ops"
+   ],
+   "secondary": [],
+   "location_class": "corridor",
+   "seniority_flags": [
+    "manager"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:primeintellect:7ef14297-51c3-45b1-abe4-890489a0bddb",
+   "company": "Prime Intellect",
+   "tier": 1,
+   "title": "Research Engineer - Data and Evaluation",
+   "url": "https://jobs.ashbyhq.com/primeintellect/7ef14297-51c3-45b1-abe4-890489a0bddb",
+   "location": "San Francisco | Remote",
+   "remote": true,
+   "department": "Research, Research",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [
+    "evaluation"
+   ],
+   "secondary": [],
+   "location_class": "remote_us",
+   "seniority_flags": [],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:primeintellect:eecf9af5-46fb-4b62-b8c8-921098fd6514",
+   "company": "Prime Intellect",
+   "tier": 1,
+   "title": "Research Engineer - Pretraining Data",
+   "url": "https://jobs.ashbyhq.com/primeintellect/eecf9af5-46fb-4b62-b8c8-921098fd6514",
+   "location": "San Francisco | Remote",
+   "remote": true,
+   "department": "Research, Research",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [
+    "human_data"
+   ],
+   "secondary": [],
+   "location_class": "remote_us",
+   "seniority_flags": [],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:elicit:55f74344-9dc8-437d-97d0-99c8f14661e7",
+   "company": "Elicit",
+   "tier": 2,
+   "title": "Model Behavior Engineer, Reasoning and Decision Making",
+   "url": "https://jobs.ashbyhq.com/elicit/55f74344-9dc8-437d-97d0-99c8f14661e7",
+   "location": "Oakland, CA (or remote within US timezones)",
+   "remote": true,
+   "department": "Engineering, Engineering",
+   "pay": "",
+   "posted": "2026-10-17",
+   "families": [
+    "evaluation"
+   ],
+   "secondary": [],
+   "location_class": "remote_us",
+   "seniority_flags": [],
+   "excluded_by": null
+  },
+  {
+   "key": "greenhouse:datadog:8292699",
+   "company": "Datadog",
+   "tier": 3,
+   "title": "Senior Security Engineer - Platform Trust & Safety",
+   "url": "https://careers.datadoghq.com/detail/8292699/?gh_jid=8292699",
+   "location": "New York, New York, USA | New York",
+   "remote": false,
+   "department": "Security",
+   "pay": "{'unit': 'USD', 'max_value': '240000.0', 'min_value': '192000.0'}",
+   "posted": "2026-10-16",
+   "families": [
+    "trust_safety"
+   ],
+   "secondary": [],
+   "location_class": "corridor",
+   "seniority_flags": [
+    "senior"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:langchain:c02afa2f-5544-411d-a4e2-8bdc199b0c53",
+   "company": "LangChain",
+   "tier": 3,
+   "title": "Deployed Engineer (Singapore) - APAC",
+   "url": "https://jobs.ashbyhq.com/langchain/c02afa2f-5544-411d-a4e2-8bdc199b0c53",
+   "location": "Remote - Singapore",
+   "remote": true,
+   "department": "Deployed Engineering, Deployed Engineering",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [
+    "forward_deployed"
+   ],
+   "secondary": [],
+   "location_class": "remote_us",
+   "seniority_flags": [],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:perplexity:63785f62-07ac-4dc5-8f68-57779dddb1f3",
+   "company": "Perplexity",
+   "tier": 3,
+   "title": "Member of Technical Staff (Software Engineer, Enterprise Trust & Governance)",
+   "url": "https://jobs.ashbyhq.com/perplexity/63785f62-07ac-4dc5-8f68-57779dddb1f3",
+   "location": "San Francisco | London | Seattle | New York City | Toronto",
+   "remote": false,
+   "department": "Platform & Infrastructure, Platform & Infrastructure",
+   "pay": "$220K - $405K",
+   "posted": "2026-10-16",
+   "families": [
+    "policy"
+   ],
+   "secondary": [],
+   "location_class": "corridor",
+   "seniority_flags": [
+    "staff"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:ramp:8be55ffc-d512-4ef3-a14d-3a4cb29a60d4",
+   "company": "Ramp",
+   "tier": 3,
+   "title": "Senior Technical Program Manager",
+   "url": "https://jobs.ashbyhq.com/ramp/8be55ffc-d512-4ef3-a14d-3a4cb29a60d4",
+   "location": "New York, NY (HQ)",
+   "remote": true,
+   "department": "Engineering, Infrastructure ",
+   "pay": "$180K - $250K",
+   "posted": "2026-10-16",
+   "families": [
+    "ai_ops"
+   ],
+   "secondary": [],
+   "location_class": "corridor",
+   "seniority_flags": [
+    "senior",
+    "manager"
+   ],
+   "excluded_by": null
+  }
+ ],
+ "new_secondary": [
+  {
+   "key": "greenhouse:anthropic:5445806008",
+   "company": "Anthropic",
+   "tier": 1,
+   "title": "Applied AI Architect, Security Specialist ",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445806008",
+   "location": "San Francisco, CA | New York City, NY | San Francisco, CA",
+   "remote": false,
+   "department": "Applied AI",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation"
+   ],
+   "location_class": "corridor",
+   "seniority_flags": [
+    "architect"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:normalcomputing:4ab438bd-0929-4c05-956a-0b5143fea7ab",
+   "company": "Normal Computing",
+   "tier": 1,
+   "title": "Analog Design Engineer (custom DRAM circuits)",
+   "url": "https://jobs.ashbyhq.com/normalcomputing/4ab438bd-0929-4c05-956a-0b5143fea7ab",
+   "location": "Silicon Valley | London | New York City",
+   "remote": true,
+   "department": "Silicon Engineering Group, Architecture & Performance Modelling",
+   "pay": "$200K - $400K",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation"
+   ],
+   "location_class": "corridor",
+   "seniority_flags": [],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:normalcomputing:a68c2b6a-d1d4-4c6b-ac93-c8f0a600994b",
+   "company": "Normal Computing",
+   "tier": 1,
+   "title": "Physical Design Manager",
+   "url": "https://jobs.ashbyhq.com/normalcomputing/a68c2b6a-d1d4-4c6b-ac93-c8f0a600994b",
+   "location": "Silicon Valley | London | New York City",
+   "remote": true,
+   "department": "Silicon Engineering Group, Physical Design & Foundry Enablement",
+   "pay": "$200K - $400K",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "trust_safety"
+   ],
+   "location_class": "corridor",
+   "seniority_flags": [
+    "manager"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:openai:6e9ac42a-c42a-46e0-98fe-ba00c9cb5455",
+   "company": "OpenAI",
+   "tier": 1,
+   "title": "B2B Ecosystem Lead, Partner Growth",
+   "url": "https://jobs.ashbyhq.com/openai/6e9ac42a-c42a-46e0-98fe-ba00c9cb5455",
+   "location": "New York City | San Francisco",
+   "remote": true,
+   "department": "Product Partnerships, Product Partnerships",
+   "pay": "$333K - $445K",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation"
+   ],
+   "location_class": "corridor",
+   "seniority_flags": [
+    "lead"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:openai:bbe1e108-b8cf-4c57-a646-f89eb1007f1c",
+   "company": "OpenAI",
+   "tier": 1,
+   "title": "Data Center Design Manager",
+   "url": "https://jobs.ashbyhq.com/openai/bbe1e108-b8cf-4c57-a646-f89eb1007f1c",
+   "location": "US - Remote",
+   "remote": true,
+   "department": "Scaling, Compute",
+   "pay": "$225K - $285K",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation"
+   ],
+   "location_class": "remote_us",
+   "seniority_flags": [
+    "manager"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:primeintellect:9b42d92e-3f6b-4c31-883e-9b6407e32bd2",
+   "company": "Prime Intellect",
+   "tier": 1,
+   "title": "Member of Technical Staff - Datacenter Networking",
+   "url": "https://jobs.ashbyhq.com/primeintellect/9b42d92e-3f6b-4c31-883e-9b6407e32bd2",
+   "location": "San Francisco | Remote",
+   "remote": true,
+   "department": "Engineering, Engineering",
+   "pay": "",
+   "posted": "2026-10-14",
+   "families": [],
+   "secondary": [
+    "evaluation"
+   ],
+   "location_class": "remote_us",
+   "seniority_flags": [
+    "staff"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:primeintellect:ef5a79e9-4736-41a5-b608-c0b3856fb077",
+   "company": "Prime Intellect",
+   "tier": 1,
+   "title": "Member of Technical Staff - Storage Infrastructure",
+   "url": "https://jobs.ashbyhq.com/primeintellect/ef5a79e9-4736-41a5-b608-c0b3856fb077",
+   "location": "San Francisco | Remote",
+   "remote": true,
+   "department": "Engineering, Engineering",
+   "pay": "",
+   "posted": "2026-10-14",
+   "families": [],
+   "secondary": [
+    "evaluation",
+    "human_data",
+    "trust_safety"
+   ],
+   "location_class": "remote_us",
+   "seniority_flags": [
+    "staff"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:primeintellect:8706578d-5a01-4270-9d43-ed9cd998a982",
+   "company": "Prime Intellect",
+   "tier": 1,
+   "title": "Member of Technical Staff - Training Platform",
+   "url": "https://jobs.ashbyhq.com/primeintellect/8706578d-5a01-4270-9d43-ed9cd998a982",
+   "location": "San Francisco | Remote",
+   "remote": true,
+   "department": "Engineering, Engineering",
+   "pay": "",
+   "posted": "2026-07-08",
+   "families": [],
+   "secondary": [
+    "evaluation",
+    "human_data"
+   ],
+   "location_class": "remote_us",
+   "seniority_flags": [
+    "staff"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:primeintellect:3103e1a4-2515-4ae0-a2f0-784e25d30cfe",
+   "company": "Prime Intellect",
+   "tier": 1,
+   "title": "Research Engineer - Inference",
+   "url": "https://jobs.ashbyhq.com/primeintellect/3103e1a4-2515-4ae0-a2f0-784e25d30cfe",
+   "location": "San Francisco | Remote",
+   "remote": true,
+   "department": "Research, Research",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation"
+   ],
+   "location_class": "remote_us",
+   "seniority_flags": [],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:primeintellect:9dae2470-0e2c-4d42-8e7f-20b7f534440e",
+   "company": "Prime Intellect",
+   "tier": 1,
+   "title": "Research Engineer - Pretraining",
+   "url": "https://jobs.ashbyhq.com/primeintellect/9dae2470-0e2c-4d42-8e7f-20b7f534440e",
+   "location": "San Francisco | Remote",
+   "remote": true,
+   "department": "Research, Research",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation"
+   ],
+   "location_class": "remote_us",
+   "seniority_flags": [],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:elicit:f510dfce-6a55-48a3-885f-decb95a7a0ac",
+   "company": "Elicit",
+   "tier": 2,
+   "title": "Senior Software Enginer, Data and Integrations",
+   "url": "https://jobs.ashbyhq.com/elicit/f510dfce-6a55-48a3-885f-decb95a7a0ac",
+   "location": "Oakland, CA (or remote within US timezones)",
+   "remote": true,
+   "department": "Engineering, Engineering",
+   "pay": "",
+   "posted": "2026-10-17",
+   "families": [],
+   "secondary": [
+    "human_data"
+   ],
+   "location_class": "remote_us",
+   "seniority_flags": [
+    "senior"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "greenhouse:hiddenlayer:4953694007",
+   "company": "HiddenLayer",
+   "tier": 2,
+   "title": "Platform Engineer",
+   "url": "https://job-boards.greenhouse.io/hiddenlayer/jobs/4953694007",
+   "location": "Remote- US | Remote",
+   "remote": true,
+   "department": "Engineering",
+   "pay": "",
+   "posted": "2025-11-17",
+   "families": [],
+   "secondary": [
+    "evaluation"
+   ],
+   "location_class": "remote_us",
+   "seniority_flags": [],
+   "excluded_by": null
+  },
+  {
+   "key": "greenhouse:hiddenlayer:5267405007",
+   "company": "HiddenLayer",
+   "tier": 2,
+   "title": "Recruiting Sourcer",
+   "url": "https://job-boards.greenhouse.io/hiddenlayer/jobs/5267405007",
+   "location": "Remote",
+   "remote": true,
+   "department": "People",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation"
+   ],
+   "location_class": "remote_us",
+   "seniority_flags": [],
+   "excluded_by": null
+  },
+  {
+   "key": "greenhouse:scaleai:4744402005",
+   "company": "Scale AI",
+   "tier": 2,
+   "title": "Safety Research Scholar - Human Frontier Labs",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4744402005",
+   "location": "Canada; United Kingdom; United States | Remote (Growth only)",
+   "remote": true,
+   "department": "Human Frontier Collective",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation",
+    "trust_safety"
+   ],
+   "location_class": "remote_us",
+   "seniority_flags": [],
+   "excluded_by": null
+  },
+  {
+   "key": "greenhouse:alphasense:8895069002",
+   "company": "AlphaSense",
+   "tier": 3,
+   "title": "Product Manager, Financial Data - Private Markets & Deals",
+   "url": "https://job-boards.greenhouse.io/alphasense/jobs/8895069002",
+   "location": "Remote - Canada | Remote - United States",
+   "remote": true,
+   "department": "Financial Data",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation",
+    "human_data"
+   ],
+   "location_class": "remote_us",
+   "seniority_flags": [
+    "manager"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "greenhouse:alphasense:8857617002",
+   "company": "AlphaSense",
+   "tier": 3,
+   "title": "Product Manager, Financial Data - Private Markets & Deals",
+   "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857617002",
+   "location": "Remote - United States",
+   "remote": true,
+   "department": "Financial Data",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation",
+    "human_data"
+   ],
+   "location_class": "remote_us",
+   "seniority_flags": [
+    "manager"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "greenhouse:assemblyai:4744387005",
+   "company": "AssemblyAI",
+   "tier": 3,
+   "title": "Software Engineer, Agent Experience",
+   "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4744387005",
+   "location": "North America | Remote - North America",
+   "remote": true,
+   "department": "Engineering",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation"
+   ],
+   "location_class": "remote_us",
+   "seniority_flags": [],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:decagon:cfc21b6c-75ed-4b01-925a-6636778ebf04",
+   "company": "Decagon",
+   "tier": 3,
+   "title": "Senior Software Engineer, Product",
+   "url": "https://jobs.ashbyhq.com/decagon/cfc21b6c-75ed-4b01-925a-6636778ebf04",
+   "location": "New York City",
+   "remote": false,
+   "department": "Engineering, Enterprise Product",
+   "pay": "$200K - $400K",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation"
+   ],
+   "location_class": "corridor",
+   "seniority_flags": [
+    "senior"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:decagon:cf01f336-471f-482a-b4fc-91a5a3266b0b",
+   "company": "Decagon",
+   "tier": 3,
+   "title": "Staff Software Engineer, Product",
+   "url": "https://jobs.ashbyhq.com/decagon/cf01f336-471f-482a-b4fc-91a5a3266b0b",
+   "location": "New York City",
+   "remote": false,
+   "department": "Engineering, Enterprise Product",
+   "pay": "$200K - $400K",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation"
+   ],
+   "location_class": "corridor",
+   "seniority_flags": [
+    "staff"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "greenhouse:gleanwork:4743056005",
+   "company": "Glean",
+   "tier": 3,
+   "title": "Solutions Engineering Manager ",
+   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4743056005",
+   "location": "Nashville | US (Remote)",
+   "remote": true,
+   "department": "Sales",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "solutions"
+   ],
+   "location_class": "remote_us",
+   "seniority_flags": [
+    "manager"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:harvey:463bac67-20c1-49c5-8835-a64ca0e94c73",
+   "company": "Harvey",
+   "tier": 3,
+   "title": "Legal Innovation Partner",
+   "url": "https://jobs.ashbyhq.com/harvey/463bac67-20c1-49c5-8835-a64ca0e94c73",
+   "location": "New York | San Francisco",
+   "remote": true,
+   "department": "Go to Market, Go to Market",
+   "pay": "$254.6K - $381.8K",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation"
+   ],
+   "location_class": "corridor",
+   "seniority_flags": [],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:harvey:5c95d264-44d9-40cd-86be-2257266f47be",
+   "company": "Harvey",
+   "tier": 3,
+   "title": "Mid-Market Customer Success Manager (LATAM - Portuguese Speaking)",
+   "url": "https://jobs.ashbyhq.com/harvey/5c95d264-44d9-40cd-86be-2257266f47be",
+   "location": "New York | Dallas | Boston | San Francisco | Chicago",
+   "remote": true,
+   "department": "Customer Success, Customer Success",
+   "pay": "$125K - $145K",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation"
+   ],
+   "location_class": "corridor",
+   "seniority_flags": [
+    "manager"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "greenhouse:klaviyo:7801047003",
+   "company": "Klaviyo",
+   "tier": 3,
+   "title": "Sr. Lead - AI Engineer",
+   "url": "https://www.klaviyo.com/careers/jobs/7801047003?gh_jid=7801047003",
+   "location": "Boston, MA | Boston",
+   "remote": false,
+   "department": "Engineering",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation"
+   ],
+   "location_class": "corridor",
+   "seniority_flags": [
+    "sr ",
+    "sr.",
+    "lead"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:langchain:27af5f96-b287-4bcc-8679-f96686dc7c8d",
+   "company": "LangChain",
+   "tier": 3,
+   "title": "Product Manager, LangSmith",
+   "url": "https://jobs.ashbyhq.com/langchain/27af5f96-b287-4bcc-8679-f96686dc7c8d",
+   "location": "New York, NY",
+   "remote": false,
+   "department": "Product, Product",
+   "pay": "",
+   "posted": "2026-10-01",
+   "families": [],
+   "secondary": [
+    "evaluation",
+    "human_data"
+   ],
+   "location_class": "corridor",
+   "seniority_flags": [
+    "manager"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:ramp:fc753f8d-7f2f-4b12-9db2-a5694ce4e74c",
+   "company": "Ramp",
+   "tier": 3,
+   "title": "Compliance Innovation Senior Strategist",
+   "url": "https://jobs.ashbyhq.com/ramp/fc753f8d-7f2f-4b12-9db2-a5694ce4e74c",
+   "location": "New York, NY (HQ)",
+   "remote": true,
+   "department": "Compliance, Compliance",
+   "pay": "$145K - $220K",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation",
+    "human_data"
+   ],
+   "location_class": "corridor",
+   "seniority_flags": [
+    "senior"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "greenhouse:recordedfuture:8894737002",
+   "company": "Recorded Future",
+   "tier": 3,
+   "title": "Product Support Solutions Developer",
+   "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8894737002",
+   "location": "Washington, DC | Boston Office",
+   "remote": false,
+   "department": "Customer Support",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation",
+    "trust_safety"
+   ],
+   "location_class": "corridor",
+   "seniority_flags": [],
+   "excluded_by": null
+  },
+  {
+   "key": "greenhouse:recordedfuture:8894338002",
+   "company": "Recorded Future",
+   "tier": 3,
+   "title": "Product Support Solutions Developer",
+   "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8894338002",
+   "location": "Boston, MA | Boston Office",
+   "remote": false,
+   "department": "Customer Support",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [
+    "evaluation",
+    "trust_safety"
+   ],
+   "location_class": "corridor",
+   "seniority_flags": [],
+   "excluded_by": null
+  }
+ ],
+ "new_near_misses": [
+  {
+   "key": "greenhouse:anthropic:5454315008",
+   "company": "Anthropic",
+   "tier": 1,
+   "title": "Community Engagement Manager, Data Centers (Montana & Utah)",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454315008",
+   "location": "Remote-Friendly, United States | Remote-Friendly US (Travel Required)",
+   "remote": true,
+   "department": "Public Policy",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [],
+   "location_class": "remote_us",
+   "seniority_flags": [
+    "manager"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "greenhouse:alphasense:8895053002",
+   "company": "AlphaSense",
+   "tier": 3,
+   "title": "Product Manager, Financial Data - Screening & Search",
+   "url": "https://job-boards.greenhouse.io/alphasense/jobs/8895053002",
+   "location": "Remote - Canada | Remote - United States",
+   "remote": true,
+   "department": "Financial Data",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [],
+   "location_class": "remote_us",
+   "seniority_flags": [
+    "manager"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "greenhouse:alphasense:8857624002",
+   "company": "AlphaSense",
+   "tier": 3,
+   "title": "Product Manager, Financial Data - Screening & Search",
+   "url": "https://job-boards.greenhouse.io/alphasense/jobs/8857624002",
+   "location": "Remote - United States",
+   "remote": true,
+   "department": "Financial Data",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [],
+   "location_class": "remote_us",
+   "seniority_flags": [
+    "manager"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "greenhouse:alphasense:8582426002",
+   "company": "AlphaSense",
+   "tier": 3,
+   "title": "Sector Specialist - Healthcare, Directed Content",
+   "url": "https://job-boards.greenhouse.io/alphasense/jobs/8582426002",
+   "location": "New York, New York, United States; Remote - United States | Remote - United States",
+   "remote": true,
+   "department": "Expert Insights",
+   "pay": "",
+   "posted": "2026-06-18",
+   "families": [],
+   "secondary": [],
+   "location_class": "corridor",
+   "seniority_flags": [],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:harvey:41e581a5-b5ee-47cb-94e5-6224f1559e4d",
+   "company": "Harvey",
+   "tier": 3,
+   "title": "Deal Operations Analyst",
+   "url": "https://jobs.ashbyhq.com/harvey/41e581a5-b5ee-47cb-94e5-6224f1559e4d",
+   "location": "New York",
+   "remote": false,
+   "department": "Go to Market, Go to Market",
+   "pay": "$108.3K - $162.5K",
+   "posted": "2026-10-17",
+   "families": [],
+   "secondary": [],
+   "location_class": "corridor",
+   "seniority_flags": [],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:headway:307f5c55-2e9d-44c0-85e8-3cdfe09e0bb6",
+   "company": "Headway",
+   "tier": 3,
+   "title": "Senior Data Scientist",
+   "url": "https://jobs.ashbyhq.com/headway/307f5c55-2e9d-44c0-85e8-3cdfe09e0bb6",
+   "location": "New York, NY | San Francisco, CA | Seattle, WA",
+   "remote": true,
+   "department": "All Cost Centers, Data",
+   "pay": "$180K - $225K",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [],
+   "location_class": "corridor",
+   "seniority_flags": [
+    "senior"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "ashby:rogo:b225a39a-c899-4b77-b501-634c7b61b67a",
+   "company": "Rogo",
+   "tier": 3,
+   "title": "IT Support Specialist",
+   "url": "https://jobs.ashbyhq.com/rogo/b225a39a-c899-4b77-b501-634c7b61b67a",
+   "location": "New York City",
+   "remote": false,
+   "department": "Security, Security",
+   "pay": "",
+   "posted": "2026-10-16",
+   "families": [],
+   "secondary": [],
+   "location_class": "corridor",
+   "seniority_flags": [],
+   "excluded_by": null
+  },
+  {
+   "key": "lever:shieldai:fe111c82-dbfe-4921-a482-fbb1e983936b",
+   "company": "Shield AI",
+   "tier": 3,
+   "title": "Senior Business Development Operations Associate (R6170)",
+   "url": "https://jobs.lever.co/shieldai/fe111c82-dbfe-4921-a482-fbb1e983936b",
+   "location": "Riyadh",
+   "remote": false,
+   "department": "International Business Development",
+   "pay": "",
+   "posted": "2026-10-17",
+   "families": [
+    "ai_ops",
+    "early_career"
+   ],
+   "secondary": [],
+   "location_class": "exception",
+   "seniority_flags": [
+    "senior"
+   ],
+   "excluded_by": null
+  },
+  {
+   "key": "lever:shieldai:0b0240a5-9928-42f5-8feb-73ff8d2864f5",
+   "company": "Shield AI",
+   "tier": 3,
+   "title": "Staff Engineer, Aircraft Configuration Design - Ranger (R6298)",
+   "url": "https://jobs.lever.co/shieldai/0b0240a5-9928-42f5-8feb-73ff8d2864f5",
+   "location": "Seattle, Washington",
+   "remote": false,
+   "department": "X-BAT Engineering - Configuration Design",
+   "pay": "USD 170,000-260,000 per-year-salary",
+   "posted": "2026-10-17",
+   "families": [],
+   "secondary": [],
+   "location_class": "corridor",
+   "seniority_flags": [
+    "staff"
+   ],
+   "excluded_by": null
+  }
+ ],
+ "manual_watch": [
+  {
+   "name": "Google DeepMind",
+   "tier": 1,
+   "careers_url": "https://www.google.com/about/careers/applications/jobs/results?company=DeepMind&location=New%20York",
+   "notes": "Google Careers only. Filter New York and Washington DC."
+  },
+  {
+   "name": "Meta Superintelligence Labs",
+   "tier": 1,
+   "careers_url": "https://www.metacareers.com/jobs?offices[0]=New%20York%2C%20NY",
+   "notes": "Filter Superintelligence, Integrity, policy."
+  },
+  {
+   "name": "Google Trust and Safety",
+   "tier": 5,
+   "careers_url": "https://www.google.com/about/careers/applications/jobs/results/?location=New%20York&q=trust%20and%20safety",
+   "notes": "Content Adversarial Red Team Analyst appears here."
+  },
+  {
+   "name": "Microsoft (NYC AI, DC policy)",
+   "tier": 3,
+   "careers_url": "https://jobs.careers.microsoft.com/global/en/search?lc=New%20York"
+  },
+  {
+   "name": "Amazon (AGI, NYC)",
+   "tier": 3,
+   "careers_url": "https://www.amazon.jobs/en/search?loc_query=New%20York"
+  },
+  {
+   "name": "Apple (NYC)",
+   "tier": 3,
+   "careers_url": "https://jobs.apple.com/en-us/search?location=new-york-city-NYC"
+  },
+  {
+   "name": "DataAnnotation",
+   "tier": 2,
+   "careers_url": "https://www.dataannotation.tech/",
+   "notes": "Contractor signup, not a job feed. Account already created."
+  },
+  {
+   "name": "GlobalLogic (Google raters)",
+   "tier": 2,
+   "careers_url": "https://www.globallogic.com/careers/",
+   "notes": "Bot-walled."
+  },
+  {
+   "name": "Innodata",
+   "tier": 2,
+   "careers_url": "https://innodatacareers.com/",
+   "notes": "Lever 'innodata' is demo content; do not use."
+  },
+  {
+   "name": "Redwood Research",
+   "tier": 2,
+   "careers_url": "https://www.redwoodresearch.org/careers"
+  },
+  {
+   "name": "Apart Research",
+   "tier": 2,
+   "careers_url": "https://www.apartresearch.com/careers",
+   "notes": "Notion pages; sprints at apartresearch.com/sprints."
+  },
+  {
+   "name": "Transluce",
+   "tier": 2,
+   "careers_url": "https://jobs.gem.com/transluce",
+   "notes": "Gem board (GraphQL); SF only. v2 fetcher candidate."
+  },
+  {
+   "name": "Micro1",
+   "tier": 2,
+   "careers_url": "https://www.micro1.ai/careers",
+   "notes": "Custom API; account exists. v2 fetcher candidate."
+  },
+  {
+   "name": "Hugging Face",
+   "tier": 3,
+   "careers_url": "https://apply.workable.com/huggingface/",
+   "notes": "Workable rate-limits bots. NYC office; remote US."
+  },
+  {
+   "name": "Galileo (Cisco acquisition pending)",
+   "tier": 4,
+   "careers_url": "https://ats.rippling.com/galileo/jobs",
+   "notes": "Board empty at check."
+  },
+  {
+   "name": "AI21 Labs",
+   "tier": 1,
+   "careers_url": "https://www.ai21.com/careers/"
+  },
+  {
+   "name": "Safe Superintelligence",
+   "tier": 1,
+   "careers_url": "https://ssi.inc/"
+  },
+  {
+   "name": "Lawfare",
+   "tier": 7,
+   "careers_url": "https://www.lawfaremedia.org/resources/job-board",
+   "notes": "Rippling board; Program Assistant AI (remote, DC) live Oct 2026. v2 fetcher candidate (Rippling API)."
+  },
+  {
+   "name": "Partnership on AI",
+   "tier": 6,
+   "careers_url": "https://ats.rippling.com/pai-job-board/jobs",
+   "notes": "Rippling; remote US."
+  },
+  {
+   "name": "Georgetown CSET",
+   "tier": 6,
+   "careers_url": "https://cset.georgetown.edu/careers/",
+   "notes": "Research Analyst roles; Workday apply."
+  },
+  {
+   "name": "CNAS",
+   "tier": 6,
+   "careers_url": "https://www.cnas.org/careers",
+   "notes": "BambooHR feed (cnas.bamboohr.com/careers/list). v2 fetcher candidate."
+  },
+  {
+   "name": "RAND",
+   "tier": 6,
+   "careers_url": "https://rand.wd5.myworkdayjobs.com/External_Career_Site",
+   "notes": "Workday."
+  },
+  {
+   "name": "MITRE",
+   "tier": 6,
+   "careers_url": "https://careers.mitre.org/us/en/search-results?keywords=artificial%20intelligence"
+  },
+  {
+   "name": "Carnegie Endowment",
+   "tier": 6,
+   "careers_url": "https://carnegieendowment.applicantpro.com/jobs/",
+   "notes": "Gaither Junior Fellows, mid-January."
+  },
+  {
+   "name": "Center for Democracy and Technology",
+   "tier": 6,
+   "careers_url": "https://cdt.org/jobs/"
+  },
+  {
+   "name": "Federation of American Scientists",
+   "tier": 6,
+   "careers_url": "https://fas.applytojob.com/apply/"
+  },
+  {
+   "name": "Institute for Progress",
+   "tier": 6,
+   "careers_url": "https://ifp.org/opportunities/",
+   "notes": "Pitch a job via hiring@ifp.org."
+  },
+  {
+   "name": "New America",
+   "tier": 6,
+   "careers_url": "https://newamerica.applytojob.com/apply/"
+  },
+  {
+   "name": "AI Now Institute",
+   "tier": 6,
+   "careers_url": "https://ainowinstitute.org/careers"
+  },
+  {
+   "name": "Data and Society",
+   "tier": 6,
+   "careers_url": "https://datasociety.net/careers-at-data-society/"
+  },
+  {
+   "name": "GovAI",
+   "tier": 6,
+   "careers_url": "https://www.governance.ai/opportunities",
+   "notes": "DC Winter Fellowship 2027."
+  },
+  {
+   "name": "IAPS",
+   "tier": 6,
+   "careers_url": "https://www.iaps.ai/careers",
+   "notes": "AI Policy Fellowship, DC/remote."
+  },
+  {
+   "name": "Tech Policy Press",
+   "tier": 7,
+   "careers_url": "https://www.techpolicy.press/about"
+  },
+  {
+   "name": "Princeton CITP",
+   "tier": 8,
+   "careers_url": "https://citp.princeton.edu/programs/emerging-scholars-program",
+   "notes": "Emerging Scholars opens mid-October."
+  },
+  {
+   "name": "NYU Center for Data Science",
+   "tier": 8,
+   "careers_url": "https://cds.nyu.edu/jobs/"
+  },
+  {
+   "name": "Columbia (central careers)",
+   "tier": 8,
+   "careers_url": "https://opportunities.columbia.edu/",
+   "notes": "Search Data Science Institute, Libraries, AI."
+  },
+  {
+   "name": "Cornell Tech",
+   "tier": 8,
+   "careers_url": "https://tech.cornell.edu/jobs/"
+  },
+  {
+   "name": "Johns Hopkins APL",
+   "tier": 6,
+   "careers_url": "https://careers.jhuapl.edu/jobs",
+   "notes": "Laurel MD; new-grads page."
+  },
+  {
+   "name": "Internet Archive",
+   "tier": 8,
+   "careers_url": "https://app.trinethire.com/companies/32967-internet-archive/jobs"
+  },
+  {
+   "name": "New York Public Library",
+   "tier": 8,
+   "careers_url": "https://www.nypl.org/careers",
+   "notes": "Digital Research, Digital Collections, Metadata."
+  },
+  {
+   "name": "Metropolitan Museum of Art",
+   "tier": 8,
+   "careers_url": "https://metmuseum.wd5.myworkdayjobs.com/MetMuseumCareers"
+  },
+  {
+   "name": "Library of Congress",
+   "tier": 8,
+   "careers_url": "https://www.loc.gov/careers/",
+   "notes": "USAJOBS; LC Labs."
+  },
+  {
+   "name": "Smithsonian",
+   "tier": 8,
+   "careers_url": "https://www.si.edu/ohr",
+   "notes": "Data Science Lab; Digitization Program Office."
+  },
+  {
+   "name": "Dumbarton Oaks",
+   "tier": 8,
+   "careers_url": "https://www.doaks.org/about/employment",
+   "notes": "Post-BA Humanities Fellows."
+  },
+  {
+   "name": "Bloomberg",
+   "tier": 3,
+   "careers_url": "https://careers.bloomberg.com/"
+  },
+  {
+   "name": "Thomson Reuters (TR Labs)",
+   "tier": 3,
+   "careers_url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site"
+  },
+  {
+   "name": "TikTok Trust and Safety",
+   "tier": 5,
+   "careers_url": "https://careers.tiktok.com/",
+   "notes": "Filter New York, Washington."
+  },
+  {
+   "name": "ActiveFence (Alice)",
+   "tier": 5,
+   "careers_url": "https://www.activefence.com/careers/",
+   "notes": "Comeet; NYC office."
+  },
+  {
+   "name": "Spring Health",
+   "tier": 3,
+   "careers_url": "https://www.springhealth.com/careers",
+   "notes": "Custom JSON at springhealth.com/sh-app/api/jobs; AI Care Operations roles. v2 fetcher candidate."
+  },
+  {
+   "name": "Kensho (S&P Global)",
+   "tier": 3,
+   "careers_url": "https://careers.spglobal.com",
+   "notes": "Custom JSON at docs.kensho.com/api/jobs; Cambridge MA and NYC. v2 fetcher candidate."
+  },
+  {
+   "name": "Etsy",
+   "tier": 3,
+   "careers_url": "https://careers.etsy.com/jobs/search"
+  },
+  {
+   "name": "Capital One (NYC AI)",
+   "tier": 3,
+   "careers_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One"
+  },
+  {
+   "name": "Booz Allen Hamilton",
+   "tier": 6,
+   "careers_url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs"
+  },
+  {
+   "name": "Grammarly (Superhuman)",
+   "tier": 3,
+   "careers_url": "https://superhuman.com/company/careers/jobs"
+  },
+  {
+   "name": "Luminance",
+   "tier": 3,
+   "careers_url": "https://www.luminance.com/careers.html",
+   "notes": "NYC roles apply by email."
+  },
+  {
+   "name": "Washington Post",
+   "tier": 7,
+   "careers_url": "https://www.washingtonpost.com/careers/"
+  },
+  {
+   "name": "Politico",
+   "tier": 7,
+   "careers_url": "https://www.politico.com/careers"
+  },
+  {
+   "name": "MIT Technology Review",
+   "tier": 7,
+   "careers_url": "https://www.technologyreview.com/careers"
+  },
+  {
+   "name": "80,000 Hours job board (aggregator)",
+   "tier": 9,
+   "careers_url": "https://jobs.80000hours.org/",
+   "notes": "Covers much of tier 6 and 2 in one place."
+  },
+  {
+   "name": "USAJOBS",
+   "tier": 6,
+   "careers_url": "https://www.usajobs.gov/",
+   "notes": "Has a public API; version 2 fetcher candidate."
+  }
+ ]
+}

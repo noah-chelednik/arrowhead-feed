@@ -1,76 +1,70 @@
-# Arrowhead feed, 2026-10-16
+# Arrowhead feed, 2026-10-17
 
-Run at 2026-10-16T14:23:39+00:00. Fetched 16046 postings from 138 boards. New this week: 7 primary, 27 secondary, 18 near misses.
+Run at 2026-10-17T13:20:39+00:00. Fetched 16137 postings from 138 boards. New this week: 10 primary, 27 secondary, 9 near misses.
 
 ## New primary matches (family in title, in range)
 
 
 ### Tier 1: Frontier lab
 
-- **Anthropic** (T1): [Technical Program Manager, Corporate Engineering](https://job-boards.greenhouse.io/anthropic/jobs/5453548008) | San Francisco, CA | New York City, NY | San Francisco, CA | ai_ops | flags: manager
-- **Anthropic** (T1): [Technical Program Manager, SOX Compliance](https://job-boards.greenhouse.io/anthropic/jobs/5453550008) | San Francisco, CA | New York City, NY | San Francisco, CA | ai_ops | flags: manager
-- **Reflection AI** (T1): [Human Data Strategist](https://jobs.ashbyhq.com/reflectionai/8d0b07a2-e39f-4094-9a34-ebbc6bb62432) | New York, NY | San Francisco, CA | human_data
+- **Anthropic** (T1): [Customer Program Manager, Executive Briefings](https://job-boards.greenhouse.io/anthropic/jobs/5449415008) | San Francisco, CA | New York City, NY | New York City, NY | ai_ops | flags: manager
+- **Anthropic** (T1): [Policy Design Manager, Integrity and Authenticity](https://job-boards.greenhouse.io/anthropic/jobs/5453573008) | San Francisco, CA | New York City, NY | Washington, DC | San Francisco, CA | trust_safety, policy | flags: manager
+- **Anthropic** (T1): [Technical Program Manager, Science Strategy & Communications](https://job-boards.greenhouse.io/anthropic/jobs/5455454008) | San Francisco, CA | New York City, NY | San Francisco, CA | ai_ops | flags: manager
+- **Prime Intellect** (T1): [Research Engineer - Data and Evaluation](https://jobs.ashbyhq.com/primeintellect/7ef14297-51c3-45b1-abe4-890489a0bddb) | San Francisco | Remote | evaluation
+- **Prime Intellect** (T1): [Research Engineer - Pretraining Data](https://jobs.ashbyhq.com/primeintellect/eecf9af5-46fb-4b62-b8c8-921098fd6514) | San Francisco | Remote | human_data
+
+### Tier 2: Lab vendor / eval / safety
+
+- **Elicit** (T2): [Model Behavior Engineer, Reasoning and Decision Making](https://jobs.ashbyhq.com/elicit/55f74344-9dc8-437d-97d0-99c8f14661e7) | Oakland, CA (or remote within US timezones) | evaluation
 
 ### Tier 3: Applied AI / corridor employer
 
-- **Datadog** (T3): [Technical Program Manager, Technical Solutions](https://careers.datadoghq.com/detail/8268065/?gh_jid=8268065) | Boston, Massachusetts, USA; New York, New York, USA; San Francisco, California, USA | Boston | New York | San Francisco | {'unit': 'USD', 'max_value': '145000.0', 'min_value': '116000.0'} | ai_ops | flags: manager
-
-### Tier 5: Trust and safety / platform
-
-- **Discord** (T5): [Threat Investigator Team Lead](https://job-boards.greenhouse.io/discord/jobs/8652914002) | San Francisco Bay Area, Los Angeles, New York, Washington D.C., or Austin  | Los Angeles Metro Area | New York, NY | San Francisco, CA | Washington, D.C. | trust_safety | flags: lead
-- **Match Group** (T5): [Staff Product Manager, Trust & Safety](https://jobs.lever.co/matchgroup/28241ecb-8e24-468e-b716-b15f357b21b3) | Los Angeles, California | New York, New York | USD 215,000-225,000 per-year-salary | trust_safety | flags: staff, manager
-- **Spotify** (T5): [State and Local Government Affairs Manager](https://jobs.lever.co/spotify/1961fa91-bdba-450a-bfb6-fc8d8d5c9e9c) | New York, NY | policy | flags: manager
+- **Datadog** (T3): [Senior Security Engineer - Platform Trust & Safety](https://careers.datadoghq.com/detail/8292699/?gh_jid=8292699) | New York, New York, USA | New York | {'unit': 'USD', 'max_value': '240000.0', 'min_value': '192000.0'} | trust_safety | flags: senior
+- **LangChain** (T3): [Deployed Engineer (Singapore) - APAC](https://jobs.ashbyhq.com/langchain/c02afa2f-5544-411d-a4e2-8bdc199b0c53) | Remote - Singapore | forward_deployed
+- **Perplexity** (T3): [Member of Technical Staff (Software Engineer, Enterprise Trust & Governance)](https://jobs.ashbyhq.com/perplexity/63785f62-07ac-4dc5-8f68-57779dddb1f3) | San Francisco | London | Seattle | New York City | Toronto | $220K - $405K | policy | flags: staff
+- **Ramp** (T3): [Senior Technical Program Manager](https://jobs.ashbyhq.com/ramp/8be55ffc-d512-4ef3-a14d-3a4cb29a60d4) | New York, NY (HQ) | $180K - $250K | ai_ops | flags: senior, manager
 
 ## New secondary matches (family only in the description)
 
-- **Anthropic** (T1): [Applied AI Engineer, Startups (Life Sciences)](https://job-boards.greenhouse.io/anthropic/jobs/5454650008) | San Francisco, CA | New York City, NY | New York City, NY | San Francisco, CA | evaluation
-- **Anthropic** (T1): [GTM Strategy & Operations, Frontier](https://job-boards.greenhouse.io/anthropic/jobs/5390952008) | San Francisco, CA | New York City, NY | Seattle, WA | trust_safety
-- **OpenAI** (T1): [US Congressional Lead, Global Affairs](https://jobs.ashbyhq.com/openai/98064a4f-5c20-4a68-8197-555f7e21d088) | Washington, DC | $252K - $280K | trust_safety | flags: lead
-- **OpenAI** (T1): [Workforce Development & Education Manager, Infrastructure Sites](https://jobs.ashbyhq.com/openai/8f8e9acf-37e7-4085-9ab4-f794c186331a) | US - Remote | $176K - $385K | evaluation | flags: manager
-- **Prime Intellect** (T1): [Research Engineer - RL Infrastructure](https://jobs.ashbyhq.com/primeintellect/22f9eb18-a449-40fe-bcb5-1d661c0d6b3d) | Remote | evaluation
-- **Prime Intellect** (T1): [Research Engineer / Scientist - Reinforcement Learning](https://jobs.ashbyhq.com/primeintellect/7bd4beca-6c73-4a38-9a6b-09dfa855dcf0) | San Francisco | Remote | evaluation, human_data
-- **Thinking Machines Lab** (T1): [Research Engineer, Web Crawling](https://jobs.ashbyhq.com/thinkingmachines/a5559c53-7085-45ff-8a0f-5e47b5e822bc) | San Francisco | New York | evaluation, human_data
-- **HiddenLayer** (T2): [AI Solutions Architect- Pre-sales (UK)](https://job-boards.greenhouse.io/hiddenlayer/jobs/5249199007) | Remote- UK | Remote | solutions | flags: architect
-- **HumanSignal** (T2): [Freelance Graphic Designer (Reviewer) - AI Training](https://job-boards.greenhouse.io/humansignal/jobs/6225358004) | Malaysia (Remote) | Remote | evaluation, human_data
-- **Prolific** (T2): [Lifecycle Marketing Manager](https://job-boards.eu.greenhouse.io/prolific/jobs/4937244101) | New York | Prolific - Hybrid US | Prolific - Remote UK | human_data | flags: manager
-- **Prolific** (T2): [Research Consultant ](https://job-boards.eu.greenhouse.io/prolific/jobs/5008753101) | Remote, US | Prolific - Hybrid US | human_data
-- **Prolific** (T2): [Research Consultant ](https://job-boards.eu.greenhouse.io/prolific/jobs/5008755101) | New York | Prolific - Hybrid US | human_data
-- **Scale AI** (T2): [Field Marketing & Events Manager, Frontier Data](https://job-boards.greenhouse.io/scaleai/jobs/4741462005) | San Francisco, CA; New York, NY | San Francisco, CA | evaluation | flags: manager
-- **Snorkel AI** (T2): [Finance Manager, DaaS](https://job-boards.greenhouse.io/snorkelai/jobs/6225731004) | San Francisco, CA (Hybrid) | New York City | San Francisco | evaluation, human_data | flags: manager
-- **Toloka** (T2): [Moderator | Onsite Data Collection](https://toloka.ai/careers/info?jid=5006567101&gh_jid=5006567101) | New York City Metropolitan Area (On-site) | Contractors | evaluation
-- **Welocalize** (T2): [English to Tagalog (Philippines) linguist for Marketing, Legal & Online Help](https://jobs.lever.co/weloglobal/9ebe0f91-36d3-4c99-9616-b8cae3666a47) | Philippines | Remote, Worldwide | evaluation, human_data
-- **Databricks** (T3): [Lead Solutions Architect - Generative AI (EMEA Emerging DNB)](https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002) | Remote - France | London, United Kingdom | solutions | flags: lead, architect
-- **Databricks** (T3): [Lead Solutions Architect - Generative AI (EMEA Emerging DNB)](https://databricks.com/company/careers/open-positions/job?gh_jid=8892968002) | Remote - Sweden | London, United Kingdom | solutions | flags: lead, architect
-- **Databricks** (T3): [Lead Solutions Architect - Generative AI (EMEA Emerging DNB)](https://databricks.com/company/careers/open-positions/job?gh_jid=8892971002) | Remote - Germany | London, United Kingdom | solutions | flags: lead, architect
-- **Elastic** (T3): [Analyst, Sales Strategy & Finance](https://jobs.elastic.co/jobs?gh_jid=8281375&gh_jid=8281375) | United States | Arlington, VA | evaluation, trust_safety
-- **Ironclad** (T3): [Sales Operations Analyst](https://jobs.ashbyhq.com/ironcladhq/4e72f07d-efa7-4835-b73f-b0a87c9114e9) | San Francisco | New York City | $116K - $145K | evaluation, human_data
-- **LangChain** (T3): [Order Management Operations & Automation](https://jobs.ashbyhq.com/langchain/d6673e5e-30c4-413c-bda8-70d15908ff80) | New York, NY | evaluation
-- **Legora** (T3): [Legal Engineer, Intellectual Property ](https://jobs.ashbyhq.com/legora/bbd84e56-d822-4807-8f3c-96bdbe724f09) | New York City | $197K - $266K | evaluation
-- **Modal** (T3): [IT Lead](https://jobs.ashbyhq.com/modal/df9c593c-54db-4164-978c-deaea19536e7) | New York | $240K - $290K | evaluation | flags: lead
-- **Shield AI** (T3): [Manager, Aerostructures Design, X-BAT (R5633)](https://jobs.lever.co/shieldai/5265dba8-172f-4026-a9a0-0032c05c89b3) | Dallas, Texas | Seattle, Washington | USD 150,000-230,000 per-year-salary | trust_safety | flags: manager
-- **Suno** (T3): [AI Security Specialist](https://jobs.ashbyhq.com/suno/f93eefd6-5e2d-41a1-8c19-fb74466a8860) | NYC | $276,960 - $363,510 | evaluation
-- **Toast** (T3): [Mid-Market Retail Solutions Engineer](https://careers.toasttab.com/jobs?gh_jid=8257129) | Remote | Remote - USA | solutions
+- **Anthropic** (T1): [Applied AI Architect, Security Specialist ](https://job-boards.greenhouse.io/anthropic/jobs/5445806008) | San Francisco, CA | New York City, NY | San Francisco, CA | evaluation | flags: architect
+- **Normal Computing** (T1): [Analog Design Engineer (custom DRAM circuits)](https://jobs.ashbyhq.com/normalcomputing/4ab438bd-0929-4c05-956a-0b5143fea7ab) | Silicon Valley | London | New York City | $200K - $400K | evaluation
+- **Normal Computing** (T1): [Physical Design Manager](https://jobs.ashbyhq.com/normalcomputing/a68c2b6a-d1d4-4c6b-ac93-c8f0a600994b) | Silicon Valley | London | New York City | $200K - $400K | trust_safety | flags: manager
+- **OpenAI** (T1): [B2B Ecosystem Lead, Partner Growth](https://jobs.ashbyhq.com/openai/6e9ac42a-c42a-46e0-98fe-ba00c9cb5455) | New York City | San Francisco | $333K - $445K | evaluation | flags: lead
+- **OpenAI** (T1): [Data Center Design Manager](https://jobs.ashbyhq.com/openai/bbe1e108-b8cf-4c57-a646-f89eb1007f1c) | US - Remote | $225K - $285K | evaluation | flags: manager
+- **Prime Intellect** (T1): [Member of Technical Staff - Datacenter Networking](https://jobs.ashbyhq.com/primeintellect/9b42d92e-3f6b-4c31-883e-9b6407e32bd2) | San Francisco | Remote | evaluation | flags: staff
+- **Prime Intellect** (T1): [Member of Technical Staff - Storage Infrastructure](https://jobs.ashbyhq.com/primeintellect/ef5a79e9-4736-41a5-b608-c0b3856fb077) | San Francisco | Remote | evaluation, human_data, trust_safety | flags: staff
+- **Prime Intellect** (T1): [Member of Technical Staff - Training Platform](https://jobs.ashbyhq.com/primeintellect/8706578d-5a01-4270-9d43-ed9cd998a982) | San Francisco | Remote | evaluation, human_data | flags: staff
+- **Prime Intellect** (T1): [Research Engineer - Inference](https://jobs.ashbyhq.com/primeintellect/3103e1a4-2515-4ae0-a2f0-784e25d30cfe) | San Francisco | Remote | evaluation
+- **Prime Intellect** (T1): [Research Engineer - Pretraining](https://jobs.ashbyhq.com/primeintellect/9dae2470-0e2c-4d42-8e7f-20b7f534440e) | San Francisco | Remote | evaluation
+- **Elicit** (T2): [Senior Software Enginer, Data and Integrations](https://jobs.ashbyhq.com/elicit/f510dfce-6a55-48a3-885f-decb95a7a0ac) | Oakland, CA (or remote within US timezones) | human_data | flags: senior
+- **HiddenLayer** (T2): [Platform Engineer](https://job-boards.greenhouse.io/hiddenlayer/jobs/4953694007) | Remote- US | Remote | evaluation
+- **HiddenLayer** (T2): [Recruiting Sourcer](https://job-boards.greenhouse.io/hiddenlayer/jobs/5267405007) | Remote | evaluation
+- **Scale AI** (T2): [Safety Research Scholar - Human Frontier Labs](https://job-boards.greenhouse.io/scaleai/jobs/4744402005) | Canada; United Kingdom; United States | Remote (Growth only) | evaluation, trust_safety
+- **AlphaSense** (T3): [Product Manager, Financial Data - Private Markets & Deals](https://job-boards.greenhouse.io/alphasense/jobs/8895069002) | Remote - Canada | Remote - United States | evaluation, human_data | flags: manager
+- **AlphaSense** (T3): [Product Manager, Financial Data - Private Markets & Deals](https://job-boards.greenhouse.io/alphasense/jobs/8857617002) | Remote - United States | evaluation, human_data | flags: manager
+- **AssemblyAI** (T3): [Software Engineer, Agent Experience](https://job-boards.greenhouse.io/assemblyai/jobs/4744387005) | North America | Remote - North America | evaluation
+- **Decagon** (T3): [Senior Software Engineer, Product](https://jobs.ashbyhq.com/decagon/cfc21b6c-75ed-4b01-925a-6636778ebf04) | New York City | $200K - $400K | evaluation | flags: senior
+- **Decagon** (T3): [Staff Software Engineer, Product](https://jobs.ashbyhq.com/decagon/cf01f336-471f-482a-b4fc-91a5a3266b0b) | New York City | $200K - $400K | evaluation | flags: staff
+- **Glean** (T3): [Solutions Engineering Manager ](https://job-boards.greenhouse.io/gleanwork/jobs/4743056005) | Nashville | US (Remote) | solutions | flags: manager
+- **Harvey** (T3): [Legal Innovation Partner](https://jobs.ashbyhq.com/harvey/463bac67-20c1-49c5-8835-a64ca0e94c73) | New York | San Francisco | $254.6K - $381.8K | evaluation
+- **Harvey** (T3): [Mid-Market Customer Success Manager (LATAM - Portuguese Speaking)](https://jobs.ashbyhq.com/harvey/5c95d264-44d9-40cd-86be-2257266f47be) | New York | Dallas | Boston | San Francisco | Chicago | $125K - $145K | evaluation | flags: manager
+- **Klaviyo** (T3): [Sr. Lead - AI Engineer](https://www.klaviyo.com/careers/jobs/7801047003?gh_jid=7801047003) | Boston, MA | Boston | evaluation | flags: sr , sr., lead
+- **LangChain** (T3): [Product Manager, LangSmith](https://jobs.ashbyhq.com/langchain/27af5f96-b287-4bcc-8679-f96686dc7c8d) | New York, NY | evaluation, human_data | flags: manager
+- **Ramp** (T3): [Compliance Innovation Senior Strategist](https://jobs.ashbyhq.com/ramp/fc753f8d-7f2f-4b12-9db2-a5694ce4e74c) | New York, NY (HQ) | $145K - $220K | evaluation, human_data | flags: senior
+- **Recorded Future** (T3): [Product Support Solutions Developer](https://job-boards.greenhouse.io/recordedfuture/jobs/8894737002) | Washington, DC | Boston Office | evaluation, trust_safety
+- **Recorded Future** (T3): [Product Support Solutions Developer](https://job-boards.greenhouse.io/recordedfuture/jobs/8894338002) | Boston, MA | Boston Office | evaluation, trust_safety
 
 ## Near misses (logged so the rules can be tuned)
 
-- **Anthropic** (T1): [Community Engagement Manager, Data Centers (Louisiana)](https://job-boards.greenhouse.io/anthropic/jobs/5452691008) | Remote-Friendly, United States | Remote-Friendly US (Travel Required) |  | flags: manager
-- **Anthropic** (T1): [Community Engagement Manager, Data Centers (New York)](https://job-boards.greenhouse.io/anthropic/jobs/5452922008) | Remote-Friendly, United States | Remote-Friendly US (Travel Required) |  | flags: manager
-- **Anthropic** (T1): [Community Engagement Manager, Data Centers (Virginia & West Virginia)](https://job-boards.greenhouse.io/anthropic/jobs/5452699008) | Remote-Friendly, United States | Remote-Friendly US (Travel Required) |  | flags: manager
-- **OpenAI** (T1): [Platform Operations Program Manager](https://jobs.ashbyhq.com/openai/616ef2ce-3790-432d-9a6d-32abb2f52ff9) | San Francisco | $252K - $280K | ai_ops | flags: manager
-- **OpenAI** (T1): [Strategy & Operations, Program Manager](https://jobs.ashbyhq.com/openai/fa42ad51-0ffa-4ec4-a004-3f24d790a3d4) | San Francisco | $200K - $210K | ai_ops | flags: manager
-- **Patronus AI** (T2): [Software Engineer – AI Evaluation Expert (Contractual)](https://job-boards.greenhouse.io/patronusaiinc/jobs/4455311009) | Remote - India | evaluation
-- **Scale AI** (T2): [GTM Business Operations Associate](https://job-boards.greenhouse.io/scaleai/jobs/4717574005) | London, UK | ai_ops, early_career
-- **Anduril** (T3): [IPD Technical Writer](https://boards.greenhouse.io/andurilindustries/jobs/5265615007?gh_jid=5265615007) | Costa Mesa, California, United States | Costa Mesa, CA (OC-00) | writing
-- **LangChain** (T3): [GTM Enablement Program Manager, Systems & Product](https://jobs.ashbyhq.com/langchain/f5217646-e988-4060-8363-49ab93ba9fe4) | San Francisco, CA | ai_ops | flags: manager
-- **Legora** (T3): [Legal Engineer Associate](https://jobs.ashbyhq.com/legora/03ff0cf2-80eb-4f9c-8723-8fec314f0e3b) | Chicago | $144.5K - $195.5K | early_career
-- **Legora** (T3): [Legal Engineer Associate](https://jobs.ashbyhq.com/legora/c59ebc29-4648-4c75-9a0a-cd5501c4b0df) | Houston | $144.5K - $195.5K | early_career
-- **Palantir** (T3): [Operations Analyst - US Government Security](https://jobs.lever.co/palantir/a468565d-8502-4baf-8788-b7ffe233b725) | Washington, D.C. | 
-- **Rogo** (T3): [Forward Deployed Banker, Paris](https://jobs.ashbyhq.com/rogo/b9d8e9b6-ce5d-4ae0-9b97-1f67c620f72e) | Paris | forward_deployed
-- **Runway** (T3): [Support Specialist, APAC Tier 1](https://jobs.ashbyhq.com/runway-ml/08d42c3a-7ac6-4576-ad4a-75a0d80bf0d6) | Remote | $65K - $80K | 
-- **Runway** (T3): [Support Specialist, London Tier 1](https://jobs.ashbyhq.com/runway-ml/ae62647f-7ec4-4383-a5ff-d37d73580062) | Remote | London | £52K - £70K | 
-- **Shield AI** (T3): [Senior Staff Technical Program Manager (R6267)](https://jobs.lever.co/shieldai/719f5182-d264-4369-937b-5052de493ee3) | San Diego, California | USD 180,000-270,000 per-year-salary | ai_ops | flags: senior, staff, manager
-- **Together AI** (T3): [Hardware Security Engineer, New Grad (2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238471007) | San Francisco | early_career
-- **Wikimedia Foundation** (T8): [Lead Financial Analyst, Strategic Business Partner – Product & Technology](https://job-boards.greenhouse.io/wikimedia/jobs/8286741) | Remote |  | flags: lead
+- **Anthropic** (T1): [Community Engagement Manager, Data Centers (Montana & Utah)](https://job-boards.greenhouse.io/anthropic/jobs/5454315008) | Remote-Friendly, United States | Remote-Friendly US (Travel Required) |  | flags: manager
+- **AlphaSense** (T3): [Product Manager, Financial Data - Screening & Search](https://job-boards.greenhouse.io/alphasense/jobs/8895053002) | Remote - Canada | Remote - United States |  | flags: manager
+- **AlphaSense** (T3): [Product Manager, Financial Data - Screening & Search](https://job-boards.greenhouse.io/alphasense/jobs/8857624002) | Remote - United States |  | flags: manager
+- **AlphaSense** (T3): [Sector Specialist - Healthcare, Directed Content](https://job-boards.greenhouse.io/alphasense/jobs/8582426002) | New York, New York, United States; Remote - United States | Remote - United States | 
+- **Harvey** (T3): [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/41e581a5-b5ee-47cb-94e5-6224f1559e4d) | New York | $108.3K - $162.5K | 
+- **Headway** (T3): [Senior Data Scientist](https://jobs.ashbyhq.com/headway/307f5c55-2e9d-44c0-85e8-3cdfe09e0bb6) | New York, NY | San Francisco, CA | Seattle, WA | $180K - $225K |  | flags: senior
+- **Rogo** (T3): [IT Support Specialist](https://jobs.ashbyhq.com/rogo/b225a39a-c899-4b77-b501-634c7b61b67a) | New York City | 
+- **Shield AI** (T3): [Senior Business Development Operations Associate (R6170)](https://jobs.lever.co/shieldai/fe111c82-dbfe-4921-a482-fbb1e983936b) | Riyadh | ai_ops, early_career | flags: senior
+- **Shield AI** (T3): [Staff Engineer, Aircraft Configuration Design - Ranger (R6298)](https://jobs.lever.co/shieldai/0b0240a5-9928-42f5-8feb-73ff8d2864f5) | Seattle, Washington | USD 170,000-260,000 per-year-salary |  | flags: staff
 
 ## Manual watch (no public feed; check by hand)
 
